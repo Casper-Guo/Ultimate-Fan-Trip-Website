@@ -1,0 +1,24 @@
+repos:
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.4.1
+  hooks:
+  - id: codespell
+    args: [ "-f", "-S", "env" ]
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  # Ruff version.
+  rev: v0.14.0
+  hooks:
+  # Run the linter.
+  - id: ruff-check
+    args: [ --fix, --preview ]
+  # Run the formatter.
+  - id: ruff-format
+    args: [ --preview ]
+- repo: https://github.com/pre-commit/mirrors-mypy
+  rev: 'v1.18.2'
+  hooks:
+  - id: mypy
+    args: [ --strict ]
+    additional_dependencies:
+    - "httpx"
+    - "pydantic >= 2.6.0"

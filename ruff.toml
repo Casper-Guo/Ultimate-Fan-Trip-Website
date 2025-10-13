@@ -1,0 +1,111 @@
+preview = true
+include = ["src/**/*.py"]
+exclude = ["test.py"]
+line-length = 96
+indent-width = 4
+
+[format]
+quote-style = "double"
+indent-style = "space"
+
+[lint]
+select = [
+    # eradicate
+    "ERA",
+    # flake8-annotations
+    "ANN",
+    # flake8-blind-except
+    "BLE",
+    # flake8-bugbear
+    "B",
+    # flake8-builtins
+    "A",
+    # flake8-commas
+    "COM",
+    # flake8-comprehensions
+    "C4",
+    # flake8-datetimez
+    "DTZ",
+    # flake8-future-annotations
+    "FA",
+    # flake8-implicit-str-concat
+    "ISC",
+    # flake8-import-conventions
+    "ICN",
+    # flake8-logging
+    "LOG",
+    # flake8-logging-format
+    "G",
+    # flake8-pie
+    "PIE",
+    # flake8-print
+    "T20",
+    # flake8-quotes
+    "Q",
+    # flake8-raise
+    "RSE",
+    # flake8-return
+    "RET",
+    # flake8-self
+    "SLF",
+    # flake8-simplify
+    "SIM",
+    # flake8-unused-arguments
+    "ARG",
+    # flake8-use-pathlib
+    "PTH",
+    # flynt
+    "FLY",
+    # isort
+    "I",
+    # pandas-vet
+    # "PD",
+    # Numpy
+    # "NPY",
+    # pep8-naming
+    "N",
+    # Perflint
+    "PERF",
+    # pycodestyle errors
+    "E",
+    # pycodestyle warnings
+    "W",
+    # pydocstyle
+    "D1",
+    "D2",
+    "D3",
+    "D400",
+    "D401",
+    "D402",
+    "D403",
+    "D404",
+    "D419",
+    # Pyflakes
+    "F",
+    # Pylint
+    "PL",
+    # pyupgrade
+    "UP",
+    # refurb
+    "FURB",
+    # ruff
+    "RUF",
+    # tryceratops
+    "TRY",
+]
+
+ignore = [
+    "ISC001",  # conflict with formatter
+    "D203",    # conflict with preferred D211 (No blank lines allowed before class docstring)
+    "D212",    # conflict with preferred D213 (Multi-line docstring summary should start at the second line)
+    "PLR0912", # function too many branches
+    "PLR0913", # function too many arguments
+    "PLR0914", # function too many local variables
+    "PLR0915", # function too many statements
+    "PLR0917", # function too many positional arguments
+    "TRY003",  # false positives
+    "UP015",   # explicit is better than implicit
+]
+
+[lint.ruff]
+parenthesize-tuple-in-subscript = true
