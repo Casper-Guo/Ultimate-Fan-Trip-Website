@@ -1,3 +1,10 @@
+# Jekyll
+Gemfile.lock
+_site
+
+# Solver output
+**/solutions/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
