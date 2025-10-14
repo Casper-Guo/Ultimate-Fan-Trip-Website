@@ -2,5 +2,5 @@
 
 from pathlib import Path
 
-CURRENT_SEASON = "2526"
+CURRENT_SEASON = "2025-2026"
 SOURCE = Path(__file__).parents[1] / "docs"

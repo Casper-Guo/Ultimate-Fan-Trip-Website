@@ -155,7 +155,7 @@ def format_trip_details(
             "%b %d %Y, %I:%M%p %Z",
         )
     )
-    trip_details += f"{len(trip)}. Attend the game against {trip[-1].home_team.name} in {trip[-1].venue.name} at {final_game_time}."  # noqa: E501
+    trip_details += f"{len(trip)}. Attend the game against **{trip[-1].home_team.name}** in {trip[-1].venue.name} at **{final_game_time}**."  # noqa: E501
 
     return trip_details
 
