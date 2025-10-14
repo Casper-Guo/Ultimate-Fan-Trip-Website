@@ -21,8 +21,8 @@
 title: Ultimate Fan Trip
 description: >- # this means to ignore newlines until "baseurl:"
   Travel to your team's away days, optimally.
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://casper-guo.github.io/Ultimate-Fan-Trip-Website" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Ultimate-Fan-Trip-Website" # the subpath of your site, e.g. /blog
+url: "https://casper-guo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
