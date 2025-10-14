@@ -1,0 +1,37 @@
+---
+title: MLB, 2025-2026 season
+---
+
+# Teams
+- [Arizona Diamondbacks]({% link 2025-2026/mlb/arizona_diamondbacks/index.md %})
+- [Athletics]({% link 2025-2026/mlb/athletics/index.md %})
+- [Atlanta Braves]({% link 2025-2026/mlb/atlanta_braves/index.md %})
+- [Baltimore Orioles]({% link 2025-2026/mlb/baltimore_orioles/index.md %})
+- [Boston Red Sox]({% link 2025-2026/mlb/boston_red_sox/index.md %})
+- [Chicago Cubs]({% link 2025-2026/mlb/chicago_cubs/index.md %})
+- [Chicago White Sox]({% link 2025-2026/mlb/chicago_white_sox/index.md %})
+- [Cincinnati Reds]({% link 2025-2026/mlb/cincinnati_reds/index.md %})
+- [Cleveland Guardians]({% link 2025-2026/mlb/cleveland_guardians/index.md %})
+- [Colorado Rockies]({% link 2025-2026/mlb/colorado_rockies/index.md %})
+- [Detroit Tigers]({% link 2025-2026/mlb/detroit_tigers/index.md %})
+- [Houston Astros]({% link 2025-2026/mlb/houston_astros/index.md %})
+- [Kansas City Royals]({% link 2025-2026/mlb/kansas_city_royals/index.md %})
+- [Los Angeles Angels]({% link 2025-2026/mlb/los_angeles_angels/index.md %})
+- [Los Angeles Dodgers]({% link 2025-2026/mlb/los_angeles_dodgers/index.md %})
+- [Miami Marlins]({% link 2025-2026/mlb/miami_marlins/index.md %})
+- [Milwaukee Brewers]({% link 2025-2026/mlb/milwaukee_brewers/index.md %})
+- [Minnesota Twins]({% link 2025-2026/mlb/minnesota_twins/index.md %})
+- [New York Mets]({% link 2025-2026/mlb/new_york_mets/index.md %})
+- [New York Yankees]({% link 2025-2026/mlb/new_york_yankees/index.md %})
+- [Philadelphia Phillies]({% link 2025-2026/mlb/philadelphia_phillies/index.md %})
+- [Pittsburgh Pirates]({% link 2025-2026/mlb/pittsburgh_pirates/index.md %})
+- [San Diego Padres]({% link 2025-2026/mlb/san_diego_padres/index.md %})
+- [San Francisco Giants]({% link 2025-2026/mlb/san_francisco_giants/index.md %})
+- [Seattle Mariners]({% link 2025-2026/mlb/seattle_mariners/index.md %})
+- [St. Louis Cardinals]({% link 2025-2026/mlb/st._louis_cardinals/index.md %})
+- [Tampa Bay Rays]({% link 2025-2026/mlb/tampa_bay_rays/index.md %})
+- [Texas Rangers]({% link 2025-2026/mlb/texas_rangers/index.md %})
+- [Toronto Blue Jays]({% link 2025-2026/mlb/toronto_blue_jays/index.md %})
+- [Washington Nationals]({% link 2025-2026/mlb/washington_nationals/index.md %})
+
+[Home]({% link index.md %})

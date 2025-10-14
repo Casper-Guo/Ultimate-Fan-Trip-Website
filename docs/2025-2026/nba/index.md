@@ -1,0 +1,37 @@
+---
+title: NBA, 2025-2026 season
+---
+
+# Teams
+- [Atlanta Hawks]({% link 2025-2026/nba/atlanta_hawks/index.md %})
+- [Boston Celtics]({% link 2025-2026/nba/boston_celtics/index.md %})
+- [Brooklyn Nets]({% link 2025-2026/nba/brooklyn_nets/index.md %})
+- [Charlotte Hornets]({% link 2025-2026/nba/charlotte_hornets/index.md %})
+- [Chicago Bulls]({% link 2025-2026/nba/chicago_bulls/index.md %})
+- [Cleveland Cavaliers]({% link 2025-2026/nba/cleveland_cavaliers/index.md %})
+- [Dallas Mavericks]({% link 2025-2026/nba/dallas_mavericks/index.md %})
+- [Denver Nuggets]({% link 2025-2026/nba/denver_nuggets/index.md %})
+- [Detroit Pistons]({% link 2025-2026/nba/detroit_pistons/index.md %})
+- [Golden State Warriors]({% link 2025-2026/nba/golden_state_warriors/index.md %})
+- [Houston Rockets]({% link 2025-2026/nba/houston_rockets/index.md %})
+- [Indiana Pacers]({% link 2025-2026/nba/indiana_pacers/index.md %})
+- [La Clippers]({% link 2025-2026/nba/la_clippers/index.md %})
+- [Los Angeles Lakers]({% link 2025-2026/nba/los_angeles_lakers/index.md %})
+- [Memphis Grizzlies]({% link 2025-2026/nba/memphis_grizzlies/index.md %})
+- [Miami Heat]({% link 2025-2026/nba/miami_heat/index.md %})
+- [Milwaukee Bucks]({% link 2025-2026/nba/milwaukee_bucks/index.md %})
+- [Minnesota Timberwolves]({% link 2025-2026/nba/minnesota_timberwolves/index.md %})
+- [New Orleans Pelicans]({% link 2025-2026/nba/new_orleans_pelicans/index.md %})
+- [New York Knicks]({% link 2025-2026/nba/new_york_knicks/index.md %})
+- [Oklahoma City Thunder]({% link 2025-2026/nba/oklahoma_city_thunder/index.md %})
+- [Orlando Magic]({% link 2025-2026/nba/orlando_magic/index.md %})
+- [Philadelphia 76Ers]({% link 2025-2026/nba/philadelphia_76ers/index.md %})
+- [Phoenix Suns]({% link 2025-2026/nba/phoenix_suns/index.md %})
+- [Portland Trail Blazers]({% link 2025-2026/nba/portland_trail_blazers/index.md %})
+- [Sacramento Kings]({% link 2025-2026/nba/sacramento_kings/index.md %})
+- [San Antonio Spurs]({% link 2025-2026/nba/san_antonio_spurs/index.md %})
+- [Toronto Raptors]({% link 2025-2026/nba/toronto_raptors/index.md %})
+- [Utah Jazz]({% link 2025-2026/nba/utah_jazz/index.md %})
+- [Washington Wizards]({% link 2025-2026/nba/washington_wizards/index.md %})
+
+[Home]({% link index.md %})
