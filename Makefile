@@ -1,7 +1,7 @@
 .PHONY: serve
 
 serve:
-	bundle exec jekyll serve --source docs
+	bundle exec jekyll serve --source docs --baseurl ''
 
 all:
 	python3 src/converter.py data/2025-2026/mlb

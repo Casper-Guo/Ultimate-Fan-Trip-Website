@@ -14,7 +14,7 @@ from consts import CURRENT_SEASON, SOURCE
 def format_jekyll_link(name: str, path: Path) -> str:
     """Format a Jekyll-style markdown link to a path."""
     relative_path = path.relative_to(SOURCE)
-    return f"[{name}]" + "({% link " + relative_path.as_posix() + " %})"
+    return f"[{name}]" + "({{ " + f"'{relative_path.as_posix()}' | relative_url" + " }})"
 
 
 def beautify_file_system_name(name: str) -> str:
@@ -48,12 +48,10 @@ def create_league_index_page(
     team_list_heading = "# Teams"
     teams = sorted([child.name for child in input_dir.iterdir() if child.is_dir()])
     team_list = "\n".join([
-        f"- {
-            format_jekyll_link(beautify_file_system_name(team), output_dir / team / 'index.md')
-        }"
+        f"- {format_jekyll_link(beautify_file_system_name(team), output_dir / team)}"
         for team in teams
     ])
-    back_link = format_jekyll_link("Home", SOURCE / "index.md")
+    back_link = format_jekyll_link("Home", SOURCE)
 
     (output_dir / "index.md").write_text(
         f"{front_matter}\n\n{team_list_heading}\n{team_list}\n\n{back_link}\n",
@@ -88,14 +86,14 @@ def create_team_index_page(
         f"- {
             format_jekyll_link(
                 beautify_file_system_name(solution.stem),
-                output_dir / f'{solution.name.replace(".txt", ".md")}',
+                output_dir / f'{solution.name.replace(".txt", ".html")}',
             )
         }"
         for solution in solutions
     ])
     back_link = format_jekyll_link(
         f"Back to {output_dir.parent.name.upper()}, {season} season",
-        output_dir.parent / "index.md",
+        output_dir.parent,
     )
 
     (output_dir / "index.md").write_text(
@@ -223,7 +221,7 @@ def create_solution_markdown(
 
     back_link = format_jekyll_link(
         f"Back to {team_name}, {season} season",
-        output_file.parent / "index.md",
+        output_file.parent,
     )
 
     output_file.write_text(
