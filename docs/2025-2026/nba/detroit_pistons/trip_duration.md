@@ -44,4 +44,4 @@ title: Detroit Pistons, 2025-2026 season, Trip Duration
 28. Attend the game against the **Minnesota Timberwolves** in Target Center on **Mar 28 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK) 1271.5 km / 790.1 miles to Paycom Center.
 29. Attend the game against **Oklahoma City Thunder** in Paycom Center at **Mar 30 2026, 09:30PM EDT**.
 
-[Back to Detroit Pistons, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/detroit_pistons/index.md%})
+[Back to Detroit Pistons, 2025-2026 season]({{ '2025-2026/nba/detroit_pistons' | relative_url }})

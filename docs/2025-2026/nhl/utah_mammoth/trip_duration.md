@@ -46,4 +46,4 @@ title: Utah Mammoth, 2025-2026 season, Trip Duration
 30. Attend the game against the **Los Angeles Kings** in Crypto.com Arena on **Mar 28 2026, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle) 1830.4 km / 1137.4 miles to Climate Pledge Arena.
 31. Attend the game against **Seattle Kraken** in Climate Pledge Arena at **Apr 02 2026, 10:00PM EDT**.
 
-[Back to Utah Mammoth, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/utah_mammoth/index.md%})
+[Back to Utah Mammoth, 2025-2026 season]({{ '2025-2026/nhl/utah_mammoth' | relative_url }})

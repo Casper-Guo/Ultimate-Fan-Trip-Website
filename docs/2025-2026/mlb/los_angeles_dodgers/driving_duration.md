@@ -37,4 +37,4 @@ title: Los Angeles Dodgers, 2025-2026 season, Driving Duration
 21. Attend the game against the **Cincinnati Reds** in Great American Ball Park on **Sep 17 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Oracle+Park+San+Francisco) 3803.6 km / 2363.5 miles to Oracle Park.
 22. Attend the game against **San Francisco Giants** in Oracle Park at **Sep 27 2026, 06:33AM EDT**.
 
-[Back to Los Angeles Dodgers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/los_angeles_dodgers/index.md%})
+[Back to Los Angeles Dodgers, 2025-2026 season]({{ '2025-2026/mlb/los_angeles_dodgers' | relative_url }})

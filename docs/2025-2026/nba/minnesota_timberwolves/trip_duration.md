@@ -44,4 +44,4 @@ title: Minnesota Timberwolves, 2025-2026 season, Trip Duration
 28. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Apr 07 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Kia+Center+Orlando+FL) 1561.7 km / 970.4 miles to Kia Center.
 29. Attend the game against **Orlando Magic** in Kia Center at **Apr 08 2026, 07:00PM EDT**.
 
-[Back to Minnesota Timberwolves, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/minnesota_timberwolves/index.md%})
+[Back to Minnesota Timberwolves, 2025-2026 season]({{ '2025-2026/nba/minnesota_timberwolves' | relative_url }})

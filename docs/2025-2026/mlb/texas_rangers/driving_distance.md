@@ -40,4 +40,4 @@ title: Texas Rangers, 2025-2026 season, Driving Distance
 24. Attend the game against the **Arizona Diamondbacks** in Chase Field on **Sep 13 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Field+Phoenix/Target+Field+Minneapolis) 2648.8 km / 1645.9 miles to Target Field.
 25. Attend the game against **Minnesota Twins** in Target Field at **Sep 25 2026, 04:33AM EDT**.
 
-[Back to Texas Rangers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/texas_rangers/index.md%})
+[Back to Texas Rangers, 2025-2026 season]({{ '2025-2026/mlb/texas_rangers' | relative_url }})

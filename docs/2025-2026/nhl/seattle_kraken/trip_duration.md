@@ -46,4 +46,4 @@ title: Seattle Kraken, 2025-2026 season, Trip Duration
 30. Attend the game against the **Vegas Golden Knights** in T-Mobile Arena on **Apr 15 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Ball+Arena+Colorado) 1210.8 km / 752.3 miles to Ball Arena.
 31. Attend the game against **Colorado Avalanche** in Ball Arena at **Apr 16 2026, 10:30PM EDT**.
 
-[Back to Seattle Kraken, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/seattle_kraken/index.md%})
+[Back to Seattle Kraken, 2025-2026 season]({{ '2025-2026/nhl/seattle_kraken' | relative_url }})

@@ -44,4 +44,4 @@ title: Miami Heat, 2025-2026 season, Trip Duration
 28. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Mar 29 2026, 05:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Scotiabank+Arena+Toronto+ON) 829.0 km / 515.1 miles to Scotiabank Arena.
 29. Attend the game against **Toronto Raptors** in Scotiabank Arena at **Apr 07 2026, 07:30PM EDT**.
 
-[Back to Miami Heat, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/miami_heat/index.md%})
+[Back to Miami Heat, 2025-2026 season]({{ '2025-2026/nba/miami_heat' | relative_url }})

@@ -46,4 +46,4 @@ title: Tampa Bay Lightning, 2025-2026 season, Trip Duration
 30. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Apr 07 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston) 708.4 km / 440.2 miles to TD Garden.
 31. Attend the game against **Boston Bruins** in TD Garden at **Apr 11 2026, 12:30PM EDT**.
 
-[Back to Tampa Bay Lightning, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/tampa_bay_lightning/index.md%})
+[Back to Tampa Bay Lightning, 2025-2026 season]({{ '2025-2026/nhl/tampa_bay_lightning' | relative_url }})

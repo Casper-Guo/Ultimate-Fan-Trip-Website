@@ -46,4 +46,4 @@ title: Florida Panthers, 2025-2026 season, Trip Duration
 30. Attend the game against the **New York Rangers** in Madison Square Garden on **Mar 29 2026, 01:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh) 598.7 km / 372.0 miles to PPG Paints Arena.
 31. Attend the game against **Pittsburgh Penguins** in PPG Paints Arena at **Apr 04 2026, 05:00PM EDT**.
 
-[Back to Florida Panthers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/florida_panthers/index.md%})
+[Back to Florida Panthers, 2025-2026 season]({{ '2025-2026/nhl/florida_panthers' | relative_url }})

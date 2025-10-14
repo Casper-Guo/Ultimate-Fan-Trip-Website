@@ -39,4 +39,4 @@ title: Kansas City Royals, 2025-2026 season, Driving Distance
 23. Attend the game against the **Houston Astros** in Daikin Park on **Sep 16 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/PNC+Park+Pittsburgh) 2153.0 km / 1337.8 miles to PNC Park.
 24. Attend the game against **Pittsburgh Pirates** in PNC Park at **Sep 20 2026, 03:33AM EDT**.
 
-[Back to Kansas City Royals, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/kansas_city_royals/index.md%})
+[Back to Kansas City Royals, 2025-2026 season]({{ '2025-2026/mlb/kansas_city_royals' | relative_url }})

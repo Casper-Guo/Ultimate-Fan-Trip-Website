@@ -46,4 +46,4 @@ title: Los Angeles Kings, 2025-2026 season, Driving Distance
 30. Attend the game against the **Vancouver Canucks** in Rogers Arena on **Mar 26 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle) 229.3 km / 142.5 miles to Climate Pledge Arena.
 31. Attend the game against **Seattle Kraken** in Climate Pledge Arena at **Apr 13 2026, 09:30PM EDT**.
 
-[Back to Los Angeles Kings, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/los_angeles_kings/index.md%})
+[Back to Los Angeles Kings, 2025-2026 season]({{ '2025-2026/nhl/los_angeles_kings' | relative_url }})

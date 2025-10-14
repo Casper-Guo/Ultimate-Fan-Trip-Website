@@ -46,4 +46,4 @@ title: Columbus Blue Jackets, 2025-2026 season, Trip Duration
 30. Attend the game against the **Philadelphia Flyers** in Xfinity Mobile Arena on **Mar 24 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Centre+Bell+Montréal) 738.4 km / 458.8 miles to Centre Bell.
 31. Attend the game against **Montréal Canadiens** in Centre Bell at **Mar 26 2026, 07:00PM EDT**.
 
-[Back to Columbus Blue Jackets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/columbus_blue_jackets/index.md%})
+[Back to Columbus Blue Jackets, 2025-2026 season]({{ '2025-2026/nhl/columbus_blue_jackets' | relative_url }})

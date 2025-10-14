@@ -46,4 +46,4 @@ title: Tampa Bay Lightning, 2025-2026 season, Driving Distance
 30. Attend the game against the **Montréal Canadiens** in Centre Bell on **Apr 09 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/TD+Garden+Boston) 495.3 km / 307.8 miles to TD Garden.
 31. Attend the game against **Boston Bruins** in TD Garden at **Apr 11 2026, 12:30PM EDT**.
 
-[Back to Tampa Bay Lightning, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/tampa_bay_lightning/index.md%})
+[Back to Tampa Bay Lightning, 2025-2026 season]({{ '2025-2026/nhl/tampa_bay_lightning' | relative_url }})

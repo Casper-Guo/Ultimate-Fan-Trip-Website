@@ -44,4 +44,4 @@ title: Atlanta Hawks, 2025-2026 season, Trip Duration
 28. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Mar 18 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX) 388.9 km / 241.6 miles to Toyota Center.
 29. Attend the game against **Houston Rockets** in Toyota Center at **Mar 20 2026, 08:00PM EDT**.
 
-[Back to Atlanta Hawks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/atlanta_hawks/index.md%})
+[Back to Atlanta Hawks, 2025-2026 season]({{ '2025-2026/nba/atlanta_hawks' | relative_url }})

@@ -46,4 +46,4 @@ title: Winnipeg Jets, 2025-2026 season, Driving Distance
 30. Attend the game against the **Vegas Golden Knights** in T-Mobile Arena on **Apr 13 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Delta+Center+Utah) 684.7 km / 425.5 miles to Delta Center.
 31. Attend the game against **Utah Mammoth** in Delta Center at **Apr 14 2026, 09:00PM EDT**.
 
-[Back to Winnipeg Jets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/winnipeg_jets/index.md%})
+[Back to Winnipeg Jets, 2025-2026 season]({{ '2025-2026/nhl/winnipeg_jets' | relative_url }})

@@ -37,4 +37,4 @@ title: New York Mets, 2025-2026 season, Driving Distance
 21. Attend the game against the **Texas Rangers** in Globe Life Field on **Sep 22 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/Nationals+Park+Washington) 2170.7 km / 1348.8 miles to Nationals Park.
 22. Attend the game against **Washington Nationals** in Nationals Park at **Sep 27 2026, 03:33AM EDT**.
 
-[Back to New York Mets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/new_york_mets/index.md%})
+[Back to New York Mets, 2025-2026 season]({{ '2025-2026/mlb/new_york_mets' | relative_url }})

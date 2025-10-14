@@ -44,4 +44,4 @@ title: Golden State Warriors, 2025-2026 season, Driving Duration
 28. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Apr 10 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA) 627.0 km / 389.6 miles to Intuit Dome.
 29. Attend the game against **LA Clippers** in Intuit Dome at **Apr 12 2026, 08:30PM EDT**.
 
-[Back to Golden State Warriors, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/golden_state_warriors/index.md%})
+[Back to Golden State Warriors, 2025-2026 season]({{ '2025-2026/nba/golden_state_warriors' | relative_url }})

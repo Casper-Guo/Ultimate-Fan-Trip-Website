@@ -46,4 +46,4 @@ title: Dallas Stars, 2025-2026 season, Trip Duration
 30. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Apr 13 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/KeyBank+Center+Buffalo) 159.9 km / 99.4 miles to KeyBank Center.
 31. Attend the game against **Buffalo Sabres** in KeyBank Center at **Apr 15 2026, 07:00PM EDT**.
 
-[Back to Dallas Stars, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/dallas_stars/index.md%})
+[Back to Dallas Stars, 2025-2026 season]({{ '2025-2026/nhl/dallas_stars' | relative_url }})

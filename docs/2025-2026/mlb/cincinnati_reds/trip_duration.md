@@ -37,4 +37,4 @@ title: Cincinnati Reds, 2025-2026 season, Trip Duration
 21. Attend the game against the **Atlanta Braves** in Truist Park on **Sep 22 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Truist+Park+Atlanta/Rogers+Centre+Toronto) 1510.2 km / 938.4 miles to Rogers Centre.
 22. Attend the game against **Toronto Blue Jays** in Rogers Centre at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Cincinnati Reds, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/cincinnati_reds/index.md%})
+[Back to Cincinnati Reds, 2025-2026 season]({{ '2025-2026/mlb/cincinnati_reds' | relative_url }})

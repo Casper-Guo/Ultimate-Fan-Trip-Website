@@ -44,4 +44,4 @@ title: Utah Jazz, 2025-2026 season, Driving Duration
 28. Attend the game against the **New Orleans Pelicans** in Smoothie King Center on **Apr 07 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Crypto.com+Arena+Los+Angeles+CA) 3053.9 km / 1897.6 miles to Crypto.com Arena.
 29. Attend the game against **Los Angeles Lakers** in Crypto.com Arena at **Apr 12 2026, 08:30PM EDT**.
 
-[Back to Utah Jazz, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/utah_jazz/index.md%})
+[Back to Utah Jazz, 2025-2026 season]({{ '2025-2026/nba/utah_jazz' | relative_url }})

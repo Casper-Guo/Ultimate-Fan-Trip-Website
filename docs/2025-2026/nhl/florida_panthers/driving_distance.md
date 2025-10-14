@@ -46,4 +46,4 @@ title: Florida Panthers, 2025-2026 season, Driving Distance
 30. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Apr 09 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto) 411.2 km / 255.5 miles to Scotiabank Arena.
 31. Attend the game against **Toronto Maple Leafs** in Scotiabank Arena at **Apr 11 2026, 07:00PM EDT**.
 
-[Back to Florida Panthers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/florida_panthers/index.md%})
+[Back to Florida Panthers, 2025-2026 season]({{ '2025-2026/nhl/florida_panthers' | relative_url }})

@@ -44,4 +44,4 @@ title: Dallas Mavericks, 2025-2026 season, Driving Distance
 28. Attend the game against the **Phoenix Suns** in PHX Arena on **Apr 08 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX) 1585.1 km / 984.9 miles to Frost Bank Center.
 29. Attend the game against **San Antonio Spurs** in Frost Bank Center at **Apr 10 2026, 08:00PM EDT**.
 
-[Back to Dallas Mavericks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/dallas_mavericks/index.md%})
+[Back to Dallas Mavericks, 2025-2026 season]({{ '2025-2026/nba/dallas_mavericks' | relative_url }})

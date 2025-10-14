@@ -46,4 +46,4 @@ title: Philadelphia Flyers, 2025-2026 season, Driving Duration
 30. Attend the game against the **New Jersey Devils** in Prudential Center on **Apr 07 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/Canada+Life+Centre+Winnipeg) 2657.2 km / 1651.1 miles to Canada Life Centre.
 31. Attend the game against **Winnipeg Jets** in Canada Life Centre at **Apr 11 2026, 07:00PM EDT**.
 
-[Back to Philadelphia Flyers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/philadelphia_flyers/index.md%})
+[Back to Philadelphia Flyers, 2025-2026 season]({{ '2025-2026/nhl/philadelphia_flyers' | relative_url }})

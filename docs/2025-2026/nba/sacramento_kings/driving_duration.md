@@ -44,4 +44,4 @@ title: Sacramento Kings, 2025-2026 season, Driving Duration
 28. Attend the game against the **Brooklyn Nets** in Barclays Center on **Mar 29 2026, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Scotiabank+Arena+Toronto+ON) 792.3 km / 492.3 miles to Scotiabank Arena.
 29. Attend the game against **Toronto Raptors** in Scotiabank Arena at **Apr 01 2026, 08:00PM EDT**.
 
-[Back to Sacramento Kings, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/sacramento_kings/index.md%})
+[Back to Sacramento Kings, 2025-2026 season]({{ '2025-2026/nba/sacramento_kings' | relative_url }})

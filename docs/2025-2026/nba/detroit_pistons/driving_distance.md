@@ -44,4 +44,4 @@ title: Detroit Pistons, 2025-2026 season, Driving Distance
 28. Attend the game against the **Orlando Magic** in Kia Center on **Apr 06 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC) 844.9 km / 525.0 miles to Spectrum Center.
 29. Attend the game against **Charlotte Hornets** in Spectrum Center at **Apr 10 2026, 07:00PM EDT**.
 
-[Back to Detroit Pistons, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/detroit_pistons/index.md%})
+[Back to Detroit Pistons, 2025-2026 season]({{ '2025-2026/nba/detroit_pistons' | relative_url }})

@@ -46,4 +46,4 @@ title: Washington Capitals, 2025-2026 season, Driving Duration
 30. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Apr 08 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/PPG+Paints+Arena+Pittsburgh) 509.8 km / 316.7 miles to PPG Paints Arena.
 31. Attend the game against **Pittsburgh Penguins** in PPG Paints Arena at **Apr 11 2026, 03:00PM EDT**.
 
-[Back to Washington Capitals, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/washington_capitals/index.md%})
+[Back to Washington Capitals, 2025-2026 season]({{ '2025-2026/nhl/washington_capitals' | relative_url }})

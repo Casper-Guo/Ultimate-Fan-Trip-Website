@@ -37,4 +37,4 @@ title: San Francisco Giants, 2025-2026 season, Trip Duration
 21. Attend the game against the **New York Mets** in Citi Field on **Sep 04 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Citi+Field+Flushing/Busch+Stadium+St.+Louis) 1561.0 km / 969.9 miles to Busch Stadium.
 22. Attend the game against **St. Louis Cardinals** in Busch Stadium at **Sep 14 2026, 04:33AM EDT**.
 
-[Back to San Francisco Giants, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/san_francisco_giants/index.md%})
+[Back to San Francisco Giants, 2025-2026 season]({{ '2025-2026/mlb/san_francisco_giants' | relative_url }})

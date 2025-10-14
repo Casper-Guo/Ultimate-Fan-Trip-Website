@@ -44,4 +44,4 @@ title: New York Knicks, 2025-2026 season, Trip Duration
 28. Attend the game against the **Oklahoma City Thunder** in Paycom Center on **Mar 29 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Toyota+Center+Houston+TX) 716.8 km / 445.4 miles to Toyota Center.
 29. Attend the game against **Houston Rockets** in Toyota Center at **Mar 31 2026, 08:00PM EDT**.
 
-[Back to New York Knicks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/new_york_knicks/index.md%})
+[Back to New York Knicks, 2025-2026 season]({{ '2025-2026/nba/new_york_knicks' | relative_url }})

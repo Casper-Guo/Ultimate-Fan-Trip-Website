@@ -44,4 +44,4 @@ title: Atlanta Hawks, 2025-2026 season, Driving Distance
 28. Attend the game against the **Cleveland Cavaliers** in Rocket Arena on **Apr 08 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL) 2005.5 km / 1246.1 miles to Kaseya Center.
 29. Attend the game against **Miami Heat** in Kaseya Center at **Apr 12 2026, 06:00PM EDT**.
 
-[Back to Atlanta Hawks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/atlanta_hawks/index.md%})
+[Back to Atlanta Hawks, 2025-2026 season]({{ '2025-2026/nba/atlanta_hawks' | relative_url }})

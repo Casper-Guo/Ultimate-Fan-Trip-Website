@@ -44,4 +44,4 @@ title: San Antonio Spurs, 2025-2026 season, Driving Distance
 28. Attend the game against the **Milwaukee Bucks** in Fiserv Forum on **Mar 28 2026, 03:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO) 1677.2 km / 1042.1 miles to Ball Arena.
 29. Attend the game against **Denver Nuggets** in Ball Arena at **Apr 04 2026, 03:00PM EDT**.
 
-[Back to San Antonio Spurs, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/san_antonio_spurs/index.md%})
+[Back to San Antonio Spurs, 2025-2026 season]({{ '2025-2026/nba/san_antonio_spurs' | relative_url }})

@@ -37,4 +37,4 @@ title: Milwaukee Brewers, 2025-2026 season, Trip Duration
 21. Attend the game against the **Baltimore Orioles** in Oriole Park at Camden Yards on **Sep 20 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Citizens+Bank+Park+Philadelphia) 159.2 km / 98.9 miles to Citizens Bank Park.
 22. Attend the game against **Philadelphia Phillies** in Citizens Bank Park at **Sep 22 2026, 03:33AM EDT**.
 
-[Back to Milwaukee Brewers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/milwaukee_brewers/index.md%})
+[Back to Milwaukee Brewers, 2025-2026 season]({{ '2025-2026/mlb/milwaukee_brewers' | relative_url }})

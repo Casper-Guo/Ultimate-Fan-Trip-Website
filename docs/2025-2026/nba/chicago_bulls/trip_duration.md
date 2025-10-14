@@ -44,4 +44,4 @@ title: Chicago Bulls, 2025-2026 season, Trip Duration
 28. Attend the game against the **Washington Wizards** in Capital One Arena on **Apr 09 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/American+Airlines+Center+Dallas+TX) 2142.7 km / 1331.4 miles to American Airlines Center.
 29. Attend the game against **Dallas Mavericks** in American Airlines Center at **Apr 12 2026, 08:30PM EDT**.
 
-[Back to Chicago Bulls, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/chicago_bulls/index.md%})
+[Back to Chicago Bulls, 2025-2026 season]({{ '2025-2026/nba/chicago_bulls' | relative_url }})

@@ -44,4 +44,4 @@ title: Denver Nuggets, 2025-2026 season, Trip Duration
 28. Attend the game against the **San Antonio Spurs** in Frost Bank Center on **Mar 12 2026, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA) 2190.1 km / 1360.8 miles to Crypto.com Arena.
 29. Attend the game against **Los Angeles Lakers** in Crypto.com Arena at **Mar 14 2026, 08:30PM EDT**.
 
-[Back to Denver Nuggets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/denver_nuggets/index.md%})
+[Back to Denver Nuggets, 2025-2026 season]({{ '2025-2026/nba/denver_nuggets' | relative_url }})

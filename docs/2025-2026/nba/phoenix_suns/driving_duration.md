@@ -44,4 +44,4 @@ title: Phoenix Suns, 2025-2026 season, Driving Duration
 28. Attend the game against the **Chicago Bulls** in United Center on **Apr 05 2026, 03:30PM EDT**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK) 1279.1 km / 794.8 miles to Paycom Center.
 29. Attend the game against **Oklahoma City Thunder** in Paycom Center at **Apr 12 2026, 08:30PM EDT**.
 
-[Back to Phoenix Suns, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/phoenix_suns/index.md%})
+[Back to Phoenix Suns, 2025-2026 season]({{ '2025-2026/nba/phoenix_suns' | relative_url }})

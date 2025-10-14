@@ -44,4 +44,4 @@ title: Toronto Raptors, 2025-2026 season, Trip Duration
 28. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Mar 31 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/FedExForum+Memphis+TN) 1197.0 km / 743.8 miles to FedExForum.
 29. Attend the game against **Memphis Grizzlies** in FedExForum at **Apr 03 2026, 08:00PM EDT**.
 
-[Back to Toronto Raptors, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/toronto_raptors/index.md%})
+[Back to Toronto Raptors, 2025-2026 season]({{ '2025-2026/nba/toronto_raptors' | relative_url }})

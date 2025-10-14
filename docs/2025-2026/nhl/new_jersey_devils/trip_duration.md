@@ -46,4 +46,4 @@ title: New Jersey Devils, 2025-2026 season, Trip Duration
 30. Attend the game against the **Montréal Canadiens** in Centre Bell on **Apr 05 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit) 905.2 km / 562.4 miles to Little Caesars Arena.
 31. Attend the game against **Detroit Red Wings** in Little Caesars Arena at **Apr 11 2026, 05:00PM EDT**.
 
-[Back to New Jersey Devils, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/new_jersey_devils/index.md%})
+[Back to New Jersey Devils, 2025-2026 season]({{ '2025-2026/nhl/new_jersey_devils' | relative_url }})

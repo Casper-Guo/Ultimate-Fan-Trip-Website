@@ -37,4 +37,4 @@ title: Tampa Bay Rays, 2025-2026 season, Driving Duration
 21. Attend the game against the **Atlanta Braves** in Truist Park on **Sep 08 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Truist+Park+Atlanta/Citizens+Bank+Park+Philadelphia) 1243.5 km / 772.7 miles to Citizens Bank Park.
 22. Attend the game against **Philadelphia Phillies** in Citizens Bank Park at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Tampa Bay Rays, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/tampa_bay_rays/index.md%})
+[Back to Tampa Bay Rays, 2025-2026 season]({{ '2025-2026/mlb/tampa_bay_rays' | relative_url }})

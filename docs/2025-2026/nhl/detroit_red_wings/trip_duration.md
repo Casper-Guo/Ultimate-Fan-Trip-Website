@@ -46,4 +46,4 @@ title: Detroit Red Wings, 2025-2026 season, Trip Duration
 30. Attend the game against the **Pittsburgh Penguins** in PPG Paints Arena on **Mar 31 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia) 497.1 km / 308.9 miles to Xfinity Mobile Arena.
 31. Attend the game against **Philadelphia Flyers** in Xfinity Mobile Arena at **Apr 02 2026, 07:00PM EDT**.
 
-[Back to Detroit Red Wings, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/detroit_red_wings/index.md%})
+[Back to Detroit Red Wings, 2025-2026 season]({{ '2025-2026/nhl/detroit_red_wings' | relative_url }})

@@ -37,4 +37,4 @@ title: Seattle Mariners, 2025-2026 season, Trip Duration
 21. Attend the game against the **Los Angeles Angels** in Angel Stadium on **Sep 14 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Coors+Field+Denver) 1633.1 km / 1014.8 miles to Coors Field.
 22. Attend the game against **Colorado Rockies** in Coors Field at **Sep 18 2026, 05:33AM EDT**.
 
-[Back to Seattle Mariners, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/seattle_mariners/index.md%})
+[Back to Seattle Mariners, 2025-2026 season]({{ '2025-2026/mlb/seattle_mariners' | relative_url }})

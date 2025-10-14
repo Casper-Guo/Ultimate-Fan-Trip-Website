@@ -46,4 +46,4 @@ title: Ottawa Senators, 2025-2026 season, Trip Duration
 30. Attend the game against the **New York Islanders** in UBS Arena on **Apr 11 2026, 01:00PM EDT**. Then [drive](https://www.google.com/maps/dir/UBS+Arena+New+York/Prudential+Center+New+Jersey) 59.6 km / 37.0 miles to Prudential Center.
 31. Attend the game against **New Jersey Devils** in Prudential Center at **Apr 12 2026, 07:00PM EDT**.
 
-[Back to Ottawa Senators, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/ottawa_senators/index.md%})
+[Back to Ottawa Senators, 2025-2026 season]({{ '2025-2026/nhl/ottawa_senators' | relative_url }})

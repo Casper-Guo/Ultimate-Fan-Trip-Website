@@ -46,4 +46,4 @@ title: Chicago Blackhawks, 2025-2026 season, Driving Duration
 30. Attend the game against the **New Jersey Devils** in Prudential Center on **Mar 29 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/SAP+Center+at+San+Jose+San+Jose) 4708.0 km / 2925.4 miles to SAP Center at San Jose.
 31. Attend the game against **San Jose Sharks** in SAP Center at San Jose at **Apr 06 2026, 10:00PM EDT**.
 
-[Back to Chicago Blackhawks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/chicago_blackhawks/index.md%})
+[Back to Chicago Blackhawks, 2025-2026 season]({{ '2025-2026/nhl/chicago_blackhawks' | relative_url }})

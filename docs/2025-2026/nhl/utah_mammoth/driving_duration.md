@@ -46,4 +46,4 @@ title: Utah Mammoth, 2025-2026 season, Driving Duration
 30. Attend the game against the **Vancouver Canucks** in Rogers Arena on **Apr 04 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary) 979.8 km / 608.8 miles to Scotiabank Saddledome.
 31. Attend the game against **Calgary Flames** in Scotiabank Saddledome at **Apr 12 2026, 09:00PM EDT**.
 
-[Back to Utah Mammoth, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/utah_mammoth/index.md%})
+[Back to Utah Mammoth, 2025-2026 season]({{ '2025-2026/nhl/utah_mammoth' | relative_url }})

@@ -43,4 +43,4 @@ title: Orlando Magic, 2025-2026 season, Driving Distance
 27. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Apr 03 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA) 816.5 km / 507.4 miles to Smoothie King Center.
 28. Attend the game against **New Orleans Pelicans** in Smoothie King Center at **Apr 05 2026, 07:00PM EDT**.
 
-[Back to Orlando Magic, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/orlando_magic/index.md%})
+[Back to Orlando Magic, 2025-2026 season]({{ '2025-2026/nba/orlando_magic' | relative_url }})

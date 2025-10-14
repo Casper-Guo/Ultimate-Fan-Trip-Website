@@ -46,4 +46,4 @@ title: St. Louis Blues, 2025-2026 season, Driving Duration
 30. Attend the game against the **Anaheim Ducks** in Honda Center on **Apr 03 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Honda+Center+Anaheim/United+Center+Chicago) 3231.6 km / 2008.1 miles to United Center.
 31. Attend the game against **Chicago Blackhawks** in United Center at **Apr 11 2026, 05:00PM EDT**.
 
-[Back to St. Louis Blues, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/st._louis_blues/index.md%})
+[Back to St. Louis Blues, 2025-2026 season]({{ '2025-2026/nhl/st._louis_blues' | relative_url }})

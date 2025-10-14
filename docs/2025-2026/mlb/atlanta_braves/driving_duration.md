@@ -37,4 +37,4 @@ title: Atlanta Braves, 2025-2026 season, Driving Duration
 21. Attend the game against the **Houston Astros** in Daikin Park on **Sep 19 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/loanDepot+park+Miami) 1910.0 km / 1186.9 miles to loanDepot park.
 22. Attend the game against **Miami Marlins** in loanDepot park at **Sep 27 2026, 03:33AM EDT**.
 
-[Back to Atlanta Braves, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/atlanta_braves/index.md%})
+[Back to Atlanta Braves, 2025-2026 season]({{ '2025-2026/mlb/atlanta_braves' | relative_url }})

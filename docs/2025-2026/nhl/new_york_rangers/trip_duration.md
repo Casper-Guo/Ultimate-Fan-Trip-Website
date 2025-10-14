@@ -46,4 +46,4 @@ title: New York Rangers, 2025-2026 season, Trip Duration
 30. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Mar 25 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/American+Airlines+Center+Dallas) 2229.5 km / 1385.3 miles to American Airlines Center.
 31. Attend the game against **Dallas Stars** in American Airlines Center at **Apr 11 2026, 05:00PM EDT**.
 
-[Back to New York Rangers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/new_york_rangers/index.md%})
+[Back to New York Rangers, 2025-2026 season]({{ '2025-2026/nhl/new_york_rangers' | relative_url }})

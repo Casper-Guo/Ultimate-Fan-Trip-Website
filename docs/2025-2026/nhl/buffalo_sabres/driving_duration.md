@@ -46,4 +46,4 @@ title: Buffalo Sabres, 2025-2026 season, Driving Duration
 30. Attend the game against the **New York Rangers** in Madison Square Garden on **Apr 08 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/United+Center+Chicago) 1276.1 km / 792.9 miles to United Center.
 31. Attend the game against **Chicago Blackhawks** in United Center at **Apr 13 2026, 08:30PM EDT**.
 
-[Back to Buffalo Sabres, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/buffalo_sabres/index.md%})
+[Back to Buffalo Sabres, 2025-2026 season]({{ '2025-2026/nhl/buffalo_sabres' | relative_url }})

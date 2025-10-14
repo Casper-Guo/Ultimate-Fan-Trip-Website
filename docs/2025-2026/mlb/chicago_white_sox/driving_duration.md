@@ -37,4 +37,4 @@ title: Chicago White Sox, 2025-2026 season, Driving Duration
 21. Attend the game against the **Houston Astros** in Daikin Park on **Sep 02 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/Busch+Stadium+St.+Louis) 1253.3 km / 778.8 miles to Busch Stadium.
 22. Attend the game against **St. Louis Cardinals** in Busch Stadium at **Sep 11 2026, 04:33AM EDT**.
 
-[Back to Chicago White Sox, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/chicago_white_sox/index.md%})
+[Back to Chicago White Sox, 2025-2026 season]({{ '2025-2026/mlb/chicago_white_sox' | relative_url }})

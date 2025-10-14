@@ -37,4 +37,4 @@ title: Washington Nationals, 2025-2026 season, Driving Duration
 21. Attend the game against the **St. Louis Cardinals** in Busch Stadium on **Sep 20 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Comerica+Park+Detroit) 849.5 km / 527.8 miles to Comerica Park.
 22. Attend the game against **Detroit Tigers** in Comerica Park at **Sep 23 2026, 03:33AM EDT**.
 
-[Back to Washington Nationals, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/washington_nationals/index.md%})
+[Back to Washington Nationals, 2025-2026 season]({{ '2025-2026/mlb/washington_nationals' | relative_url }})

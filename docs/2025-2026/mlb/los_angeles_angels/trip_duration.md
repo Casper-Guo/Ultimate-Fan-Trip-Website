@@ -37,4 +37,4 @@ title: Los Angeles Angels, 2025-2026 season, Trip Duration
 21. Attend the game against the **Boston Red Sox** in Fenway Park on **Sep 08 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Fenway+Park+Boston/Nationals+Park+Washington) 705.5 km / 438.4 miles to Nationals Park.
 22. Attend the game against **Washington Nationals** in Nationals Park at **Sep 11 2026, 03:33AM EDT**.
 
-[Back to Los Angeles Angels, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/los_angeles_angels/index.md%})
+[Back to Los Angeles Angels, 2025-2026 season]({{ '2025-2026/mlb/los_angeles_angels' | relative_url }})

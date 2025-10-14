@@ -37,4 +37,4 @@ title: Pittsburgh Pirates, 2025-2026 season, Driving Duration
 21. Attend the game against the **Chicago Cubs** in Wrigley Field on **Sep 13 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Comerica+Park+Detroit) 463.2 km / 287.8 miles to Comerica Park.
 22. Attend the game against **Detroit Tigers** in Comerica Park at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Pittsburgh Pirates, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/pittsburgh_pirates/index.md%})
+[Back to Pittsburgh Pirates, 2025-2026 season]({{ '2025-2026/mlb/pittsburgh_pirates' | relative_url }})

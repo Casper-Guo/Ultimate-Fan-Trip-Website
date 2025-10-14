@@ -46,4 +46,4 @@ title: Vancouver Canucks, 2025-2026 season, Trip Duration
 30. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Mar 07 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary) 1328.8 km / 825.7 miles to Scotiabank Saddledome.
 31. Attend the game against **Calgary Flames** in Scotiabank Saddledome at **Mar 28 2026, 10:00PM EDT**.
 
-[Back to Vancouver Canucks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/vancouver_canucks/index.md%})
+[Back to Vancouver Canucks, 2025-2026 season]({{ '2025-2026/nhl/vancouver_canucks' | relative_url }})

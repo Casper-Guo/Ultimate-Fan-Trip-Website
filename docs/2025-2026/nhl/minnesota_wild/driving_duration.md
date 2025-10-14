@@ -46,4 +46,4 @@ title: Minnesota Wild, 2025-2026 season, Driving Duration
 30. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Apr 11 2026, 05:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis) 496.8 km / 308.7 miles to Enterprise Center.
 31. Attend the game against **St. Louis Blues** in Enterprise Center at **Apr 13 2026, 08:00PM EDT**.
 
-[Back to Minnesota Wild, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/minnesota_wild/index.md%})
+[Back to Minnesota Wild, 2025-2026 season]({{ '2025-2026/nhl/minnesota_wild' | relative_url }})

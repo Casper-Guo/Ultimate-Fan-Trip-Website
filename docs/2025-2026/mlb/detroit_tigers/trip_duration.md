@@ -37,4 +37,4 @@ title: Detroit Tigers, 2025-2026 season, Trip Duration
 21. Attend the game against the **Kansas City Royals** in Kauffman Stadium on **Aug 22 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Kauffman+Stadium+Kansas+City/Rogers+Centre+Toronto) 1610.8 km / 1000.9 miles to Rogers Centre.
 22. Attend the game against **Toronto Blue Jays** in Rogers Centre at **Sep 14 2026, 03:33AM EDT**.
 
-[Back to Detroit Tigers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/detroit_tigers/index.md%})
+[Back to Detroit Tigers, 2025-2026 season]({{ '2025-2026/mlb/detroit_tigers' | relative_url }})

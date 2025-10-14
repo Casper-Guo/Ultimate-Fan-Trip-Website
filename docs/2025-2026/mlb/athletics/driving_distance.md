@@ -37,4 +37,4 @@ title: Athletics, 2025-2026 season, Driving Distance
 21. Attend the game against the **Tampa Bay Rays** in George M. Steinbrenner Field on **Sep 16 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/George+M.+Steinbrenner+Field+Tampa/Progressive+Field+Cleveland) 1759.3 km / 1093.2 miles to Progressive Field.
 22. Attend the game against **Cleveland Guardians** in Progressive Field at **Sep 20 2026, 03:33AM EDT**.
 
-[Back to Athletics, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/athletics/index.md%})
+[Back to Athletics, 2025-2026 season]({{ '2025-2026/mlb/athletics' | relative_url }})

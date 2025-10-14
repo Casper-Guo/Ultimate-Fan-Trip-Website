@@ -44,4 +44,4 @@ title: Toronto Raptors, 2025-2026 season, Driving Distance
 28. Attend the game against the **Boston Celtics** in TD Garden on **Apr 05 2026, 03:30PM EDT**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Madison+Square+Garden+New+York+NY) 343.9 km / 213.7 miles to Madison Square Garden.
 29. Attend the game against **New York Knicks** in Madison Square Garden at **Apr 10 2026, 07:30PM EDT**.
 
-[Back to Toronto Raptors, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/toronto_raptors/index.md%})
+[Back to Toronto Raptors, 2025-2026 season]({{ '2025-2026/nba/toronto_raptors' | relative_url }})

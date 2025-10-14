@@ -44,4 +44,4 @@ title: Utah Jazz, 2025-2026 season, Trip Duration
 28. Attend the game against the **Oklahoma City Thunder** in Paycom Center on **Apr 05 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA) 1140.4 km / 708.6 miles to Smoothie King Center.
 29. Attend the game against **New Orleans Pelicans** in Smoothie King Center at **Apr 07 2026, 08:00PM EDT**.
 
-[Back to Utah Jazz, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/utah_jazz/index.md%})
+[Back to Utah Jazz, 2025-2026 season]({{ '2025-2026/nba/utah_jazz' | relative_url }})

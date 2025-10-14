@@ -46,4 +46,4 @@ title: Chicago Blackhawks, 2025-2026 season, Trip Duration
 30. Attend the game against the **Seattle Kraken** in Climate Pledge Arena on **Apr 04 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/SAP+Center+at+San+Jose+San+Jose) 1356.5 km / 842.9 miles to SAP Center at San Jose.
 31. Attend the game against **San Jose Sharks** in SAP Center at San Jose at **Apr 06 2026, 10:00PM EDT**.
 
-[Back to Chicago Blackhawks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/chicago_blackhawks/index.md%})
+[Back to Chicago Blackhawks, 2025-2026 season]({{ '2025-2026/nhl/chicago_blackhawks' | relative_url }})

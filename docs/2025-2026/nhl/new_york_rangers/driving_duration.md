@@ -46,4 +46,4 @@ title: New York Rangers, 2025-2026 season, Driving Duration
 30. Attend the game against the **Florida Panthers** in Amerant Bank Arena on **Apr 13 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay) 404.6 km / 251.4 miles to Benchmark International Arena.
 31. Attend the game against **Tampa Bay Lightning** in Benchmark International Arena at **Apr 15 2026, 07:00PM EDT**.
 
-[Back to New York Rangers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/new_york_rangers/index.md%})
+[Back to New York Rangers, 2025-2026 season]({{ '2025-2026/nhl/new_york_rangers' | relative_url }})

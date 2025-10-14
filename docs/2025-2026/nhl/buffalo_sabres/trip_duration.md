@@ -46,4 +46,4 @@ title: Buffalo Sabres, 2025-2026 season, Trip Duration
 30. Attend the game against the **Washington Capitals** in Capital One Arena on **Apr 04 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/United+Center+Chicago) 1131.0 km / 702.8 miles to United Center.
 31. Attend the game against **Chicago Blackhawks** in United Center at **Apr 13 2026, 08:30PM EDT**.
 
-[Back to Buffalo Sabres, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/buffalo_sabres/index.md%})
+[Back to Buffalo Sabres, 2025-2026 season]({{ '2025-2026/nhl/buffalo_sabres' | relative_url }})

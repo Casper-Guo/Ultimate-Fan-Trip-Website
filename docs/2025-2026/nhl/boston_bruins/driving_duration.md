@@ -46,4 +46,4 @@ title: Boston Bruins, 2025-2026 season, Driving Duration
 30. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Apr 04 2026, 05:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina) 1060.9 km / 659.2 miles to Lenovo Center.
 31. Attend the game against **Carolina Hurricanes** in Lenovo Center at **Apr 07 2026, 07:00PM EDT**.
 
-[Back to Boston Bruins, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/boston_bruins/index.md%})
+[Back to Boston Bruins, 2025-2026 season]({{ '2025-2026/nhl/boston_bruins' | relative_url }})

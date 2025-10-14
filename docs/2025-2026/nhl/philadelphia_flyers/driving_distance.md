@@ -46,4 +46,4 @@ title: Philadelphia Flyers, 2025-2026 season, Driving Distance
 30. Attend the game against the **Detroit Red Wings** in Little Caesars Arena on **Apr 09 2026, 06:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Canada+Life+Centre+Winnipeg) 1852.9 km / 1151.3 miles to Canada Life Centre.
 31. Attend the game against **Winnipeg Jets** in Canada Life Centre at **Apr 11 2026, 07:00PM EDT**.
 
-[Back to Philadelphia Flyers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/philadelphia_flyers/index.md%})
+[Back to Philadelphia Flyers, 2025-2026 season]({{ '2025-2026/nhl/philadelphia_flyers' | relative_url }})

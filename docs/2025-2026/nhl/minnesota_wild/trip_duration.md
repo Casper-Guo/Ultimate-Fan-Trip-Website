@@ -46,4 +46,4 @@ title: Minnesota Wild, 2025-2026 season, Trip Duration
 30. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Apr 04 2026, 01:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Little+Caesars+Arena+Detroit) 739.1 km / 459.2 miles to Little Caesars Arena.
 31. Attend the game against **Detroit Red Wings** in Little Caesars Arena at **Apr 05 2026, 01:00PM EDT**.
 
-[Back to Minnesota Wild, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/minnesota_wild/index.md%})
+[Back to Minnesota Wild, 2025-2026 season]({{ '2025-2026/nhl/minnesota_wild' | relative_url }})

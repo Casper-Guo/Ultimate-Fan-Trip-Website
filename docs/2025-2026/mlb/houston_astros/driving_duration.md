@@ -37,4 +37,4 @@ title: Houston Astros, 2025-2026 season, Driving Duration
 21. Attend the game against the **Philadelphia Phillies** in Citizens Bank Park on **Sep 08 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/George+M.+Steinbrenner+Field+Tampa) 1668.9 km / 1037.0 miles to George M. Steinbrenner Field.
 22. Attend the game against **Tampa Bay Rays** in George M. Steinbrenner Field at **Sep 12 2026, 03:33AM EDT**.
 
-[Back to Houston Astros, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/houston_astros/index.md%})
+[Back to Houston Astros, 2025-2026 season]({{ '2025-2026/mlb/houston_astros' | relative_url }})

@@ -46,4 +46,4 @@ title: Vegas Golden Knights, 2025-2026 season, Driving Duration
 30. Attend the game against the **Vancouver Canucks** in Rogers Arena on **Apr 07 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Ball+Arena+Colorado) 2318.7 km / 1440.8 miles to Ball Arena.
 31. Attend the game against **Colorado Avalanche** in Ball Arena at **Apr 11 2026, 08:00PM EDT**.
 
-[Back to Vegas Golden Knights, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/vegas_golden_knights/index.md%})
+[Back to Vegas Golden Knights, 2025-2026 season]({{ '2025-2026/nhl/vegas_golden_knights' | relative_url }})

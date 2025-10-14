@@ -44,4 +44,4 @@ title: Washington Wizards, 2025-2026 season, Driving Duration
 28. Attend the game against the **Portland Trail Blazers** in Moda Center on **Mar 29 2026, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Crypto.com+Arena+Los+Angeles+CA) 1554.5 km / 965.9 miles to Crypto.com Arena.
 29. Attend the game against **Los Angeles Lakers** in Crypto.com Arena at **Mar 30 2026, 10:00PM EDT**.
 
-[Back to Washington Wizards, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/washington_wizards/index.md%})
+[Back to Washington Wizards, 2025-2026 season]({{ '2025-2026/nba/washington_wizards' | relative_url }})

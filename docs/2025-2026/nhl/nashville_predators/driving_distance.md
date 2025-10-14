@@ -45,4 +45,4 @@ title: Nashville Predators, 2025-2026 season, Driving Distance
 29. Attend the game against the **Los Angeles Kings** in Crypto.com Arena on **Apr 06 2026, 10:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim) 49.0 km / 30.4 miles to Honda Center.
 30. Attend the game against **Anaheim Ducks** in Honda Center at **Apr 07 2026, 10:00PM EDT**.
 
-[Back to Nashville Predators, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/nashville_predators/index.md%})
+[Back to Nashville Predators, 2025-2026 season]({{ '2025-2026/nhl/nashville_predators' | relative_url }})

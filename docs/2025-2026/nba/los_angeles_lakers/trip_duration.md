@@ -44,4 +44,4 @@ title: Los Angeles Lakers, 2025-2026 season, Trip Duration
 28. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Mar 23 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Gainbridge+Fieldhouse+Indianapolis+IN) 461.3 km / 286.6 miles to Gainbridge Fieldhouse.
 29. Attend the game against **Indiana Pacers** in Gainbridge Fieldhouse at **Mar 25 2026, 07:00PM EDT**.
 
-[Back to Los Angeles Lakers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/los_angeles_lakers/index.md%})
+[Back to Los Angeles Lakers, 2025-2026 season]({{ '2025-2026/nba/los_angeles_lakers' | relative_url }})

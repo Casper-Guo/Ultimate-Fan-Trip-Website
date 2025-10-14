@@ -46,4 +46,4 @@ title: Washington Capitals, 2025-2026 season, Trip Duration
 30. Attend the game against the **New York Rangers** in Madison Square Garden on **Apr 05 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Scotiabank+Arena+Toronto) 791.6 km / 491.9 miles to Scotiabank Arena.
 31. Attend the game against **Toronto Maple Leafs** in Scotiabank Arena at **Apr 08 2026, 07:30PM EDT**.
 
-[Back to Washington Capitals, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/washington_capitals/index.md%})
+[Back to Washington Capitals, 2025-2026 season]({{ '2025-2026/nhl/washington_capitals' | relative_url }})

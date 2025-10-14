@@ -43,4 +43,4 @@ title: Memphis Grizzlies, 2025-2026 season, Driving Duration
 27. Attend the game against the **Denver Nuggets** in Ball Arena on **Apr 08 2026, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT) 836.0 km / 519.5 miles to Delta Center.
 28. Attend the game against **Utah Jazz** in Delta Center at **Apr 10 2026, 09:30PM EDT**.
 
-[Back to Memphis Grizzlies, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/memphis_grizzlies/index.md%})
+[Back to Memphis Grizzlies, 2025-2026 season]({{ '2025-2026/nba/memphis_grizzlies' | relative_url }})
