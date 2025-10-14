@@ -19,6 +19,3 @@ repos:
   hooks:
   - id: mypy
     args: [ --strict ]
-    additional_dependencies:
-    - "httpx"
-    - "pydantic >= 2.6.0"

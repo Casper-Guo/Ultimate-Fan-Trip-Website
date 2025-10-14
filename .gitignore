@@ -3,7 +3,7 @@ Gemfile.lock
 _site
 
 # Solver output
-**/solutions/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
