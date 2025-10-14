@@ -44,4 +44,4 @@ title: Brooklyn Nets, 2025-2026 season, Trip Duration
 28. Attend the game against the **Golden State Warriors** in Chase Center on **Mar 25 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA) 616.6 km / 383.2 miles to Crypto.com Arena.
 29. Attend the game against **Los Angeles Lakers** in Crypto.com Arena at **Mar 27 2026, 10:30PM EDT**.
 
-[Back to Brooklyn Nets, 2025-2026 season]({% link 2025-2026/nba/brooklyn_nets/index.md %})
+[Back to Brooklyn Nets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/brooklyn_nets/index.md%})

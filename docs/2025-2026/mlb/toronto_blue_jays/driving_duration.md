@@ -37,4 +37,4 @@ title: Toronto Blue Jays, 2025-2026 season, Driving Duration
 21. Attend the game against the **Athletics** in Sutter Health Park on **Sep 08 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Globe+Life+Field+Arlington) 2758.3 km / 1713.9 miles to Globe Life Field.
 22. Attend the game against **Texas Rangers** in Globe Life Field at **Sep 18 2026, 04:33AM EDT**.
 
-[Back to Toronto Blue Jays, 2025-2026 season]({% link 2025-2026/mlb/toronto_blue_jays/index.md %})
+[Back to Toronto Blue Jays, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/toronto_blue_jays/index.md%})

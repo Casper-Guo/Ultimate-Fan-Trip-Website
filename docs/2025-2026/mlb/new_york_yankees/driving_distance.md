@@ -37,4 +37,4 @@ title: New York Yankees, 2025-2026 season, Driving Distance
 21. Attend the game against the **Minnesota Twins** in Target Field on **Sep 14 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Field+Minneapolis/Chase+Field+Phoenix) 2647.7 km / 1645.2 miles to Chase Field.
 22. Attend the game against **Arizona Diamondbacks** in Chase Field at **Sep 20 2026, 06:33AM EDT**.
 
-[Back to New York Yankees, 2025-2026 season]({% link 2025-2026/mlb/new_york_yankees/index.md %})
+[Back to New York Yankees, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/new_york_yankees/index.md%})

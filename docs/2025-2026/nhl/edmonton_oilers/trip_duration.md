@@ -46,4 +46,4 @@ title: Edmonton Oilers, 2025-2026 season, Trip Duration
 30. Attend the game against the **St. Louis Blues** in Enterprise Center on **Mar 13 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Delta+Center+Utah) 2130.6 km / 1323.9 miles to Delta Center.
 31. Attend the game against **Utah Mammoth** in Delta Center at **Mar 24 2026, 09:30PM EDT**.
 
-[Back to Edmonton Oilers, 2025-2026 season]({% link 2025-2026/nhl/edmonton_oilers/index.md %})
+[Back to Edmonton Oilers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/edmonton_oilers/index.md%})

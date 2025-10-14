@@ -44,4 +44,4 @@ title: Boston Celtics, 2025-2026 season, Driving Duration
 28. Attend the game against the **Miami Heat** in Kaseya Center on **Apr 01 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Madison+Square+Garden+New+York+NY) 2069.3 km / 1285.8 miles to Madison Square Garden.
 29. Attend the game against **New York Knicks** in Madison Square Garden at **Apr 09 2026, 07:30PM EDT**.
 
-[Back to Boston Celtics, 2025-2026 season]({% link 2025-2026/nba/boston_celtics/index.md %})
+[Back to Boston Celtics, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/boston_celtics/index.md%})

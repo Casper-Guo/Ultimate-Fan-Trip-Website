@@ -44,4 +44,4 @@ title: San Antonio Spurs, 2025-2026 season, Trip Duration
 28. Attend the game against the **LA Clippers** in Intuit Dome on **Apr 02 2026, 10:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO) 1655.5 km / 1028.7 miles to Ball Arena.
 29. Attend the game against **Denver Nuggets** in Ball Arena at **Apr 04 2026, 03:00PM EDT**.
 
-[Back to San Antonio Spurs, 2025-2026 season]({% link 2025-2026/nba/san_antonio_spurs/index.md %})
+[Back to San Antonio Spurs, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/san_antonio_spurs/index.md%})

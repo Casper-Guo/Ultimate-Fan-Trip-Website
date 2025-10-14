@@ -46,4 +46,4 @@ title: Boston Bruins, 2025-2026 season, Trip Duration
 30. Attend the game against the **Florida Panthers** in Amerant Bank Arena on **Apr 02 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina) 1269.4 km / 788.8 miles to Lenovo Center.
 31. Attend the game against **Carolina Hurricanes** in Lenovo Center at **Apr 07 2026, 07:00PM EDT**.
 
-[Back to Boston Bruins, 2025-2026 season]({% link 2025-2026/nhl/boston_bruins/index.md %})
+[Back to Boston Bruins, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/boston_bruins/index.md%})

@@ -44,4 +44,4 @@ title: Milwaukee Bucks, 2025-2026 season, Trip Duration
 28. Attend the game against the **Houston Rockets** in Toyota Center on **Apr 01 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Barclays+Center+Brooklyn+NY) 2624.5 km / 1630.8 miles to Barclays Center.
 29. Attend the game against **Brooklyn Nets** in Barclays Center at **Apr 07 2026, 07:30PM EDT**.
 
-[Back to Milwaukee Bucks, 2025-2026 season]({% link 2025-2026/nba/milwaukee_bucks/index.md %})
+[Back to Milwaukee Bucks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/milwaukee_bucks/index.md%})

@@ -37,4 +37,4 @@ title: Baltimore Orioles, 2025-2026 season, Driving Duration
 21. Attend the game against the **New York Mets** in Citi Field on **Sep 15 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Citi+Field+Flushing/Yankee+Stadium+Bronx) 15.5 km / 9.6 miles to Yankee Stadium.
 22. Attend the game against **New York Yankees** in Yankee Stadium at **Sep 26 2026, 03:33AM EDT**.
 
-[Back to Baltimore Orioles, 2025-2026 season]({% link 2025-2026/mlb/baltimore_orioles/index.md %})
+[Back to Baltimore Orioles, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/baltimore_orioles/index.md%})

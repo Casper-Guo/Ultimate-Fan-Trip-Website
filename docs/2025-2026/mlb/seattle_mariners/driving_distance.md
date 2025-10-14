@@ -37,4 +37,4 @@ title: Seattle Mariners, 2025-2026 season, Driving Distance
 21. Attend the game against the **Athletics** in Sutter Health Park on **Sep 11 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver) 1880.3 km / 1168.4 miles to Coors Field.
 22. Attend the game against **Colorado Rockies** in Coors Field at **Sep 18 2026, 05:33AM EDT**.
 
-[Back to Seattle Mariners, 2025-2026 season]({% link 2025-2026/mlb/seattle_mariners/index.md %})
+[Back to Seattle Mariners, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/seattle_mariners/index.md%})

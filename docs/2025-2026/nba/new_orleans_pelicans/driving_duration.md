@@ -44,4 +44,4 @@ title: New Orleans Pelicans, 2025-2026 season, Driving Duration
 28. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Apr 03 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/TD+Garden+Boston+MA) 4855.0 km / 3016.8 miles to TD Garden.
 29. Attend the game against **Boston Celtics** in TD Garden at **Apr 10 2026, 07:30PM EDT**.
 
-[Back to New Orleans Pelicans, 2025-2026 season]({% link 2025-2026/nba/new_orleans_pelicans/index.md %})
+[Back to New Orleans Pelicans, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/new_orleans_pelicans/index.md%})

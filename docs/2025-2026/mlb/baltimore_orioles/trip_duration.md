@@ -37,4 +37,4 @@ title: Baltimore Orioles, 2025-2026 season, Trip Duration
 21. Attend the game against the **Toronto Blue Jays** in Rogers Centre on **Sep 12 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Citi+Field+Flushing) 810.2 km / 503.5 miles to Citi Field.
 22. Attend the game against **New York Mets** in Citi Field at **Sep 14 2026, 03:33AM EDT**.
 
-[Back to Baltimore Orioles, 2025-2026 season]({% link 2025-2026/mlb/baltimore_orioles/index.md %})
+[Back to Baltimore Orioles, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/baltimore_orioles/index.md%})

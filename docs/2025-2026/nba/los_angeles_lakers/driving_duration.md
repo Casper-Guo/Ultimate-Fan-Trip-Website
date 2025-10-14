@@ -44,4 +44,4 @@ title: Los Angeles Lakers, 2025-2026 season, Driving Duration
 28. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Apr 05 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Chase+Center+San+Francisco+CA) 2783.5 km / 1729.6 miles to Chase Center.
 29. Attend the game against **Golden State Warriors** in Chase Center at **Apr 09 2026, 10:00PM EDT**.
 
-[Back to Los Angeles Lakers, 2025-2026 season]({% link 2025-2026/nba/los_angeles_lakers/index.md %})
+[Back to Los Angeles Lakers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/los_angeles_lakers/index.md%})

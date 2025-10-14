@@ -37,4 +37,4 @@ title: Cleveland Guardians, 2025-2026 season, Driving Distance
 21. Attend the game against the **Boston Red Sox** in Fenway Park on **Sep 22 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Fenway+Park+Boston/Kauffman+Stadium+Kansas+City) 2287.2 km / 1421.2 miles to Kauffman Stadium.
 22. Attend the game against **Kansas City Royals** in Kauffman Stadium at **Sep 27 2026, 04:33AM EDT**.
 
-[Back to Cleveland Guardians, 2025-2026 season]({% link 2025-2026/mlb/cleveland_guardians/index.md %})
+[Back to Cleveland Guardians, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/cleveland_guardians/index.md%})

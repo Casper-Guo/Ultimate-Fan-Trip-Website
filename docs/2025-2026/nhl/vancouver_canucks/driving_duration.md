@@ -46,4 +46,4 @@ title: Vancouver Canucks, 2025-2026 season, Driving Duration
 30. Attend the game against the **Anaheim Ducks** in Honda Center on **Apr 12 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Honda+Center+Anaheim/Rogers+Place+Edmonton) 2808.2 km / 1745.0 miles to Rogers Place.
 31. Attend the game against **Edmonton Oilers** in Rogers Place at **Apr 16 2026, 09:00PM EDT**.
 
-[Back to Vancouver Canucks, 2025-2026 season]({% link 2025-2026/nhl/vancouver_canucks/index.md %})
+[Back to Vancouver Canucks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/vancouver_canucks/index.md%})

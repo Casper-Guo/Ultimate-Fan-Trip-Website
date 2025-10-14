@@ -37,4 +37,4 @@ title: Arizona Diamondbacks, 2025-2026 season, Driving Distance
 21. Attend the game against the **Colorado Rockies** in Coors Field on **Sep 23 2026, 05:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Coors+Field+Denver/Petco+Park+San+Diego) 1737.5 km / 1079.6 miles to Petco Park.
 22. Attend the game against **San Diego Padres** in Petco Park at **Sep 27 2026, 06:33AM EDT**.
 
-[Back to Arizona Diamondbacks, 2025-2026 season]({% link 2025-2026/mlb/arizona_diamondbacks/index.md %})
+[Back to Arizona Diamondbacks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/arizona_diamondbacks/index.md%})

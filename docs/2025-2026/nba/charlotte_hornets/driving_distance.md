@@ -44,4 +44,4 @@ title: Charlotte Hornets, 2025-2026 season, Driving Distance
 28. Attend the game against the **Minnesota Timberwolves** in Target Center on **Apr 05 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/TD+Garden+Boston+MA) 2252.6 km / 1399.7 miles to TD Garden.
 29. Attend the game against **Boston Celtics** in TD Garden at **Apr 07 2026, 07:30PM EDT**.
 
-[Back to Charlotte Hornets, 2025-2026 season]({% link 2025-2026/nba/charlotte_hornets/index.md %})
+[Back to Charlotte Hornets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/charlotte_hornets/index.md%})

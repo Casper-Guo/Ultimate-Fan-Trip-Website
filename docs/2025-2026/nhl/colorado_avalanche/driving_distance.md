@@ -46,4 +46,4 @@ title: Colorado Avalanche, 2025-2026 season, Driving Distance
 30. Attend the game against the **Edmonton Oilers** in Rogers Place on **Apr 13 2026, 09:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary) 301.9 km / 187.6 miles to Scotiabank Saddledome.
 31. Attend the game against **Calgary Flames** in Scotiabank Saddledome at **Apr 14 2026, 09:00PM EDT**.
 
-[Back to Colorado Avalanche, 2025-2026 season]({% link 2025-2026/nhl/colorado_avalanche/index.md %})
+[Back to Colorado Avalanche, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/colorado_avalanche/index.md%})

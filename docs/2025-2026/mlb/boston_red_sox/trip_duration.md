@@ -37,4 +37,4 @@ title: Boston Red Sox, 2025-2026 season, Trip Duration
 21. Attend the game against the **New York Yankees** in Yankee Stadium on **Aug 28 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington) 2536.4 km / 1576.0 miles to Globe Life Field.
 22. Attend the game against **Texas Rangers** in Globe Life Field at **Sep 15 2026, 04:33AM EDT**.
 
-[Back to Boston Red Sox, 2025-2026 season]({% link 2025-2026/mlb/boston_red_sox/index.md %})
+[Back to Boston Red Sox, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/boston_red_sox/index.md%})

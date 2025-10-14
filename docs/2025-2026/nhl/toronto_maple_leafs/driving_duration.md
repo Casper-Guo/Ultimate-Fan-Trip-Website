@@ -46,4 +46,4 @@ title: Toronto Maple Leafs, 2025-2026 season, Driving Duration
 30. Attend the game against the **San Jose Sharks** in SAP Center at San Jose on **Apr 02 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles) 551.3 km / 342.5 miles to Crypto.com Arena.
 31. Attend the game against **Los Angeles Kings** in Crypto.com Arena at **Apr 04 2026, 07:00PM EDT**.
 
-[Back to Toronto Maple Leafs, 2025-2026 season]({% link 2025-2026/nhl/toronto_maple_leafs/index.md %})
+[Back to Toronto Maple Leafs, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/toronto_maple_leafs/index.md%})

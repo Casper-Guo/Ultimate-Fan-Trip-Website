@@ -44,4 +44,4 @@ title: Houston Rockets, 2025-2026 season, Driving Distance
 28. Attend the game against the **Memphis Grizzlies** in FedExForum on **Mar 27 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA) 634.4 km / 394.2 miles to Smoothie King Center.
 29. Attend the game against **New Orleans Pelicans** in Smoothie King Center at **Mar 29 2026, 07:00PM EDT**.
 
-[Back to Houston Rockets, 2025-2026 season]({% link 2025-2026/nba/houston_rockets/index.md %})
+[Back to Houston Rockets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/houston_rockets/index.md%})

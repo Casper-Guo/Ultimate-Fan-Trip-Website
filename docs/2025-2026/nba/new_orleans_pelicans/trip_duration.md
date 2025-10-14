@@ -44,4 +44,4 @@ title: New Orleans Pelicans, 2025-2026 season, Trip Duration
 28. Attend the game against the **Portland Trail Blazers** in Moda Center on **Apr 02 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/TD+Garden+Boston+MA) 4971.0 km / 3088.9 miles to TD Garden.
 29. Attend the game against **Boston Celtics** in TD Garden at **Apr 10 2026, 07:30PM EDT**.
 
-[Back to New Orleans Pelicans, 2025-2026 season]({% link 2025-2026/nba/new_orleans_pelicans/index.md %})
+[Back to New Orleans Pelicans, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/new_orleans_pelicans/index.md%})

@@ -44,4 +44,4 @@ title: Golden State Warriors, 2025-2026 season, Trip Duration
 28. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Mar 20 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA) 1159.3 km / 720.3 miles to State Farm Arena.
 29. Attend the game against **Atlanta Hawks** in State Farm Arena at **Mar 21 2026, 08:00PM EDT**.
 
-[Back to Golden State Warriors, 2025-2026 season]({% link 2025-2026/nba/golden_state_warriors/index.md %})
+[Back to Golden State Warriors, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/golden_state_warriors/index.md%})

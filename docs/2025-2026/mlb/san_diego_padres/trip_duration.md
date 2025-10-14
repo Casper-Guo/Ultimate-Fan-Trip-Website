@@ -37,4 +37,4 @@ title: San Diego Padres, 2025-2026 season, Trip Duration
 21. Attend the game against the **Tampa Bay Rays** in George M. Steinbrenner Field on **Aug 28 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/George+M.+Steinbrenner+Field+Tampa/Great+American+Ball+Park+Cincinnati) 1476.1 km / 917.2 miles to Great American Ball Park.
 22. Attend the game against **Cincinnati Reds** in Great American Ball Park at **Aug 31 2026, 03:33AM EDT**.
 
-[Back to San Diego Padres, 2025-2026 season]({% link 2025-2026/mlb/san_diego_padres/index.md %})
+[Back to San Diego Padres, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/san_diego_padres/index.md%})

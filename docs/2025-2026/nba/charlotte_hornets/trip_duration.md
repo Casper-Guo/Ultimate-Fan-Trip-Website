@@ -44,4 +44,4 @@ title: Charlotte Hornets, 2025-2026 season, Trip Duration
 28. Attend the game against the **Brooklyn Nets** in Barclays Center on **Mar 31 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN) 1945.1 km / 1208.7 miles to Target Center.
 29. Attend the game against **Minnesota Timberwolves** in Target Center at **Apr 05 2026, 07:00PM EDT**.
 
-[Back to Charlotte Hornets, 2025-2026 season]({% link 2025-2026/nba/charlotte_hornets/index.md %})
+[Back to Charlotte Hornets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/charlotte_hornets/index.md%})

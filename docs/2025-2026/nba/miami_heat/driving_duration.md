@@ -44,4 +44,4 @@ title: Miami Heat, 2025-2026 season, Driving Duration
 28. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Apr 09 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC) 803.5 km / 499.3 miles to Capital One Arena.
 29. Attend the game against **Washington Wizards** in Capital One Arena at **Apr 10 2026, 07:00PM EDT**.
 
-[Back to Miami Heat, 2025-2026 season]({% link 2025-2026/nba/miami_heat/index.md %})
+[Back to Miami Heat, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/miami_heat/index.md%})

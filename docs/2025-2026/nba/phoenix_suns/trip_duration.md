@@ -44,4 +44,4 @@ title: Phoenix Suns, 2025-2026 season, Trip Duration
 28. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Apr 02 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/United+Center+Chicago+IL) 1217.1 km / 756.3 miles to United Center.
 29. Attend the game against **Chicago Bulls** in United Center at **Apr 05 2026, 03:30PM EDT**.
 
-[Back to Phoenix Suns, 2025-2026 season]({% link 2025-2026/nba/phoenix_suns/index.md %})
+[Back to Phoenix Suns, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/phoenix_suns/index.md%})

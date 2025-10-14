@@ -44,4 +44,4 @@ title: Houston Rockets, 2025-2026 season, Trip Duration
 28. Attend the game against the **Chicago Bulls** in United Center on **Mar 23 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago+IL/Target+Center+Minneapolis+MN) 664.1 km / 412.6 miles to Target Center.
 29. Attend the game against **Minnesota Timberwolves** in Target Center at **Mar 25 2026, 09:30PM EDT**.
 
-[Back to Houston Rockets, 2025-2026 season]({% link 2025-2026/nba/houston_rockets/index.md %})
+[Back to Houston Rockets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/houston_rockets/index.md%})

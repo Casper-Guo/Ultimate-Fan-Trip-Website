@@ -44,4 +44,4 @@ title: Cleveland Cavaliers, 2025-2026 season, Trip Duration
 28. Attend the game against the **Golden State Warriors** in Chase Center on **Apr 02 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/FedExForum+Memphis+TN) 3365.1 km / 2091.0 miles to FedExForum.
 29. Attend the game against **Memphis Grizzlies** in FedExForum at **Apr 06 2026, 08:00PM EDT**.
 
-[Back to Cleveland Cavaliers, 2025-2026 season]({% link 2025-2026/nba/cleveland_cavaliers/index.md %})
+[Back to Cleveland Cavaliers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/cleveland_cavaliers/index.md%})

@@ -37,4 +37,4 @@ title: Tampa Bay Rays, 2025-2026 season, Trip Duration
 21. Attend the game against the **New York Yankees** in Yankee Stadium on **Sep 22 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia) 174.0 km / 108.1 miles to Citizens Bank Park.
 22. Attend the game against **Philadelphia Phillies** in Citizens Bank Park at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Tampa Bay Rays, 2025-2026 season]({% link 2025-2026/mlb/tampa_bay_rays/index.md %})
+[Back to Tampa Bay Rays, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/tampa_bay_rays/index.md%})

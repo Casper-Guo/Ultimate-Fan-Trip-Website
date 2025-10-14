@@ -46,4 +46,4 @@ title: Montréal Canadiens, 2025-2026 season, Driving Distance
 30. Attend the game against the **New York Islanders** in UBS Arena on **Apr 12 2026, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia) 187.7 km / 116.6 miles to Xfinity Mobile Arena.
 31. Attend the game against **Philadelphia Flyers** in Xfinity Mobile Arena at **Apr 14 2026, 07:00PM EDT**.
 
-[Back to Montréal Canadiens, 2025-2026 season]({% link 2025-2026/nhl/montréal_canadiens/index.md %})
+[Back to Montréal Canadiens, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/montréal_canadiens/index.md%})

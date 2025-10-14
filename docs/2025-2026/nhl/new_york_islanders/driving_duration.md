@@ -46,4 +46,4 @@ title: New York Islanders, 2025-2026 season, Driving Duration
 30. Attend the game against the **Montréal Canadiens** in Centre Bell on **Mar 21 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/KeyBank+Center+Buffalo) 633.1 km / 393.4 miles to KeyBank Center.
 31. Attend the game against **Buffalo Sabres** in KeyBank Center at **Mar 31 2026, 07:00PM EDT**.
 
-[Back to New York Islanders, 2025-2026 season]({% link 2025-2026/nhl/new_york_islanders/index.md %})
+[Back to New York Islanders, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/new_york_islanders/index.md%})

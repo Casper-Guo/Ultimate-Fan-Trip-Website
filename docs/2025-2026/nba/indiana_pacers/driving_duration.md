@@ -44,4 +44,4 @@ title: Indiana Pacers, 2025-2026 season, Driving Duration
 28. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Mar 10 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Frost+Bank+Center+San+Antonio+TX) 2799.2 km / 1739.4 miles to Frost Bank Center.
 29. Attend the game against **San Antonio Spurs** in Frost Bank Center at **Mar 21 2026, 08:00PM EDT**.
 
-[Back to Indiana Pacers, 2025-2026 season]({% link 2025-2026/nba/indiana_pacers/index.md %})
+[Back to Indiana Pacers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/indiana_pacers/index.md%})

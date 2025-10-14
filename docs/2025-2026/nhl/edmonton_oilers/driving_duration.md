@@ -46,4 +46,4 @@ title: Edmonton Oilers, 2025-2026 season, Driving Duration
 30. Attend the game against the **Colorado Avalanche** in Ball Arena on **Mar 10 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Colorado/Delta+Center+Utah) 836.0 km / 519.5 miles to Delta Center.
 31. Attend the game against **Utah Mammoth** in Delta Center at **Apr 07 2026, 09:30PM EDT**.
 
-[Back to Edmonton Oilers, 2025-2026 season]({% link 2025-2026/nhl/edmonton_oilers/index.md %})
+[Back to Edmonton Oilers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/edmonton_oilers/index.md%})

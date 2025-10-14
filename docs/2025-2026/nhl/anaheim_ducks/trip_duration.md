@@ -46,4 +46,4 @@ title: Anaheim Ducks, 2025-2026 season, Trip Duration
 30. Attend the game against the **Montréal Canadiens** in Centre Bell on **Mar 15 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/Delta+Center+Utah) 3586.1 km / 2228.3 miles to Delta Center.
 31. Attend the game against **Utah Mammoth** in Delta Center at **Mar 20 2026, 10:00PM EDT**.
 
-[Back to Anaheim Ducks, 2025-2026 season]({% link 2025-2026/nhl/anaheim_ducks/index.md %})
+[Back to Anaheim Ducks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/anaheim_ducks/index.md%})

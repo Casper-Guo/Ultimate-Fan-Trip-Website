@@ -44,4 +44,4 @@ title: Portland Trail Blazers, 2025-2026 season, Driving Distance
 28. Attend the game against the **Minnesota Timberwolves** in Target Center on **Mar 20 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Ball+Arena+Denver+CO) 1474.0 km / 915.9 miles to Ball Arena.
 29. Attend the game against **Denver Nuggets** in Ball Arena at **Mar 22 2026, 05:00PM EDT**.
 
-[Back to Portland Trail Blazers, 2025-2026 season]({% link 2025-2026/nba/portland_trail_blazers/index.md %})
+[Back to Portland Trail Blazers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/portland_trail_blazers/index.md%})

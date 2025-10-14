@@ -46,4 +46,4 @@ title: New York Islanders, 2025-2026 season, Trip Duration
 30. Attend the game against the **St. Louis Blues** in Enterprise Center on **Mar 10 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto) 1220.8 km / 758.6 miles to Scotiabank Arena.
 31. Attend the game against **Toronto Maple Leafs** in Scotiabank Arena at **Mar 17 2026, 07:00PM EDT**.
 
-[Back to New York Islanders, 2025-2026 season]({% link 2025-2026/nhl/new_york_islanders/index.md %})
+[Back to New York Islanders, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/new_york_islanders/index.md%})

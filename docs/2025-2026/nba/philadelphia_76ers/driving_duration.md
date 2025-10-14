@@ -44,4 +44,4 @@ title: Philadelphia 76Ers, 2025-2026 season, Driving Duration
 28. Attend the game against the **San Antonio Spurs** in Frost Bank Center on **Apr 06 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX) 309.6 km / 192.4 miles to Toyota Center.
 29. Attend the game against **Houston Rockets** in Toyota Center at **Apr 09 2026, 08:00PM EDT**.
 
-[Back to Philadelphia 76Ers, 2025-2026 season]({% link 2025-2026/nba/philadelphia_76ers/index.md %})
+[Back to Philadelphia 76Ers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/philadelphia_76ers/index.md%})

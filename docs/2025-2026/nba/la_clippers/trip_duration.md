@@ -44,4 +44,4 @@ title: La Clippers, 2025-2026 season, Trip Duration
 28. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Mar 27 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Fiserv+Forum+Milwaukee+WI) 451.2 km / 280.4 miles to Fiserv Forum.
 29. Attend the game against **Milwaukee Bucks** in Fiserv Forum at **Mar 29 2026, 03:30PM EDT**.
 
-[Back to La Clippers, 2025-2026 season]({% link 2025-2026/nba/la_clippers/index.md %})
+[Back to La Clippers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/la_clippers/index.md%})

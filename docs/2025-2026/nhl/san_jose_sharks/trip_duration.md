@@ -46,4 +46,4 @@ title: San Jose Sharks, 2025-2026 season, Trip Duration
 30. Attend the game against the **Chicago Blackhawks** in United Center on **Apr 15 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago/Canada+Life+Centre+Winnipeg) 1394.7 km / 866.6 miles to Canada Life Centre.
 31. Attend the game against **Winnipeg Jets** in Canada Life Centre at **Apr 16 2026, 08:00PM EDT**.
 
-[Back to San Jose Sharks, 2025-2026 season]({% link 2025-2026/nhl/san_jose_sharks/index.md %})
+[Back to San Jose Sharks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/san_jose_sharks/index.md%})

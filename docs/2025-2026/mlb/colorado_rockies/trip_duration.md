@@ -37,4 +37,4 @@ title: Colorado Rockies, 2025-2026 season, Trip Duration
 21. Attend the game against the **Detroit Tigers** in Comerica Park on **Sep 13 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Comerica+Park+Detroit/Rate+Field+Chicago) 446.8 km / 277.6 miles to Rate Field.
 22. Attend the game against **Chicago White Sox** in Rate Field at **Sep 25 2026, 04:33AM EDT**.
 
-[Back to Colorado Rockies, 2025-2026 season]({% link 2025-2026/mlb/colorado_rockies/index.md %})
+[Back to Colorado Rockies, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/colorado_rockies/index.md%})

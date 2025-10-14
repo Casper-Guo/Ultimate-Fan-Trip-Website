@@ -44,4 +44,4 @@ title: Portland Trail Blazers, 2025-2026 season, Trip Duration
 28. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Mar 18 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Ball+Arena+Denver+CO) 1746.1 km / 1085.0 miles to Ball Arena.
 29. Attend the game against **Denver Nuggets** in Ball Arena at **Mar 22 2026, 05:00PM EDT**.
 
-[Back to Portland Trail Blazers, 2025-2026 season]({% link 2025-2026/nba/portland_trail_blazers/index.md %})
+[Back to Portland Trail Blazers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/portland_trail_blazers/index.md%})

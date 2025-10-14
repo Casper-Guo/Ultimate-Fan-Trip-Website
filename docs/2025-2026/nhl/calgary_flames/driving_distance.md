@@ -46,4 +46,4 @@ title: Calgary Flames, 2025-2026 season, Driving Distance
 30. Attend the game against the **Dallas Stars** in American Airlines Center on **Apr 07 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle) 3365.8 km / 2091.4 miles to Climate Pledge Arena.
 31. Attend the game against **Seattle Kraken** in Climate Pledge Arena at **Apr 11 2026, 07:00PM EDT**.
 
-[Back to Calgary Flames, 2025-2026 season]({% link 2025-2026/nhl/calgary_flames/index.md %})
+[Back to Calgary Flames, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/calgary_flames/index.md%})

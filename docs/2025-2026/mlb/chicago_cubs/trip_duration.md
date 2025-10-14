@@ -37,4 +37,4 @@ title: Chicago Cubs, 2025-2026 season, Trip Duration
 21. Attend the game against the **Milwaukee Brewers** in American Family Field on **Sep 09 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/Fenway+Park+Boston) 1743.1 km / 1083.1 miles to Fenway Park.
 22. Attend the game against **Boston Red Sox** in Fenway Park at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Chicago Cubs, 2025-2026 season]({% link 2025-2026/mlb/chicago_cubs/index.md %})
+[Back to Chicago Cubs, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/chicago_cubs/index.md%})

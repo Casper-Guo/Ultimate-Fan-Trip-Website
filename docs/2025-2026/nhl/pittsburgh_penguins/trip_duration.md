@@ -45,4 +45,4 @@ title: Pittsburgh Penguins, 2025-2026 season, Trip Duration
 29. Attend the game against the **Washington Capitals** in Capital One Arena on **Apr 12 2026, 03:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Enterprise+Center+St.+Louis) 1320.1 km / 820.2 miles to Enterprise Center.
 30. Attend the game against **St. Louis Blues** in Enterprise Center at **Apr 14 2026, 09:30PM EDT**.
 
-[Back to Pittsburgh Penguins, 2025-2026 season]({% link 2025-2026/nhl/pittsburgh_penguins/index.md %})
+[Back to Pittsburgh Penguins, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/pittsburgh_penguins/index.md%})

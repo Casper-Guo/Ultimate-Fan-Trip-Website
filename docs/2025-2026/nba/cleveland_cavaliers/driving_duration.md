@@ -44,4 +44,4 @@ title: Cleveland Cavaliers, 2025-2026 season, Driving Duration
 28. Attend the game against the **Memphis Grizzlies** in FedExForum on **Apr 06 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA) 627.4 km / 389.8 miles to State Farm Arena.
 29. Attend the game against **Atlanta Hawks** in State Farm Arena at **Apr 10 2026, 07:30PM EDT**.
 
-[Back to Cleveland Cavaliers, 2025-2026 season]({% link 2025-2026/nba/cleveland_cavaliers/index.md %})
+[Back to Cleveland Cavaliers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/cleveland_cavaliers/index.md%})

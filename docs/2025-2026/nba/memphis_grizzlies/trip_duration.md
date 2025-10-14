@@ -43,4 +43,4 @@ title: Memphis Grizzlies, 2025-2026 season, Trip Duration
 27. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Mar 23 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI) 1309.3 km / 813.5 miles to Fiserv Forum.
 28. Attend the game against **Milwaukee Bucks** in Fiserv Forum at **Apr 05 2026, 03:30PM EDT**.
 
-[Back to Memphis Grizzlies, 2025-2026 season]({% link 2025-2026/nba/memphis_grizzlies/index.md %})
+[Back to Memphis Grizzlies, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/memphis_grizzlies/index.md%})

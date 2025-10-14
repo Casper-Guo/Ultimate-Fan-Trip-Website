@@ -37,4 +37,4 @@ title: Atlanta Braves, 2025-2026 season, Trip Duration
 21. Attend the game against the **Chicago Cubs** in Wrigley Field on **Sep 14 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Daikin+Park+Houston) 1750.9 km / 1087.9 miles to Daikin Park.
 22. Attend the game against **Houston Astros** in Daikin Park at **Sep 18 2026, 04:33AM EDT**.
 
-[Back to Atlanta Braves, 2025-2026 season]({% link 2025-2026/mlb/atlanta_braves/index.md %})
+[Back to Atlanta Braves, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/atlanta_braves/index.md%})

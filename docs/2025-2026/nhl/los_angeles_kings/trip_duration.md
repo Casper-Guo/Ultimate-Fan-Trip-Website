@@ -46,4 +46,4 @@ title: Los Angeles Kings, 2025-2026 season, Trip Duration
 30. Attend the game against the **Calgary Flames** in Scotiabank Saddledome on **Mar 24 2026, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver) 980.5 km / 609.3 miles to Rogers Arena.
 31. Attend the game against **Vancouver Canucks** in Rogers Arena at **Mar 26 2026, 10:00PM EDT**.
 
-[Back to Los Angeles Kings, 2025-2026 season]({% link 2025-2026/nhl/los_angeles_kings/index.md %})
+[Back to Los Angeles Kings, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/los_angeles_kings/index.md%})

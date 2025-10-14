@@ -37,4 +37,4 @@ title: Minnesota Twins, 2025-2026 season, Driving Duration
 21. Attend the game against the **Los Angeles Angels** in Angel Stadium on **Sep 20 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Oracle+Park+San+Francisco) 659.1 km / 409.5 miles to Oracle Park.
 22. Attend the game against **San Francisco Giants** in Oracle Park at **Sep 21 2026, 06:33AM EDT**.
 
-[Back to Minnesota Twins, 2025-2026 season]({% link 2025-2026/mlb/minnesota_twins/index.md %})
+[Back to Minnesota Twins, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/minnesota_twins/index.md%})

@@ -46,4 +46,4 @@ title: Columbus Blue Jackets, 2025-2026 season, Driving Duration
 30. Attend the game against the **Montréal Canadiens** in Centre Bell on **Mar 26 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/KeyBank+Center+Buffalo) 633.1 km / 393.4 miles to KeyBank Center.
 31. Attend the game against **Buffalo Sabres** in KeyBank Center at **Apr 09 2026, 07:00PM EDT**.
 
-[Back to Columbus Blue Jackets, 2025-2026 season]({% link 2025-2026/nhl/columbus_blue_jackets/index.md %})
+[Back to Columbus Blue Jackets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/columbus_blue_jackets/index.md%})

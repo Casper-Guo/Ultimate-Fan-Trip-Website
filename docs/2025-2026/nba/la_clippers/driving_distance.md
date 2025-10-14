@@ -44,4 +44,4 @@ title: La Clippers, 2025-2026 season, Driving Distance
 28. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Apr 05 2026, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR) 934.1 km / 580.4 miles to Moda Center.
 29. Attend the game against **Portland Trail Blazers** in Moda Center at **Apr 10 2026, 10:00PM EDT**.
 
-[Back to La Clippers, 2025-2026 season]({% link 2025-2026/nba/la_clippers/index.md %})
+[Back to La Clippers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/la_clippers/index.md%})

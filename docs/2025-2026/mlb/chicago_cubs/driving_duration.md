@@ -37,4 +37,4 @@ title: Chicago Cubs, 2025-2026 season, Driving Duration
 21. Attend the game against the **Cincinnati Reds** in Great American Ball Park on **Sep 19 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Fenway+Park+Boston) 1416.2 km / 880.0 miles to Fenway Park.
 22. Attend the game against **Boston Red Sox** in Fenway Park at **Sep 25 2026, 03:33AM EDT**.
 
-[Back to Chicago Cubs, 2025-2026 season]({% link 2025-2026/mlb/chicago_cubs/index.md %})
+[Back to Chicago Cubs, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/chicago_cubs/index.md%})

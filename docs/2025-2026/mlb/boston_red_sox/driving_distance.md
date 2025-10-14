@@ -37,4 +37,4 @@ title: Boston Red Sox, 2025-2026 season, Driving Distance
 21. Attend the game against the **Texas Rangers** in Globe Life Field on **Sep 16 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/George+M.+Steinbrenner+Field+Tampa) 1804.3 km / 1121.2 miles to George M. Steinbrenner Field.
 22. Attend the game against **Tampa Bay Rays** in George M. Steinbrenner Field at **Sep 20 2026, 03:33AM EDT**.
 
-[Back to Boston Red Sox, 2025-2026 season]({% link 2025-2026/mlb/boston_red_sox/index.md %})
+[Back to Boston Red Sox, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/boston_red_sox/index.md%})

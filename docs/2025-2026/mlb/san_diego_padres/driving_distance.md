@@ -37,4 +37,4 @@ title: San Diego Padres, 2025-2026 season, Driving Distance
 21. Attend the game against the **Colorado Rockies** in Coors Field on **Sep 14 2026, 05:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Coors+Field+Denver/Dodger+Stadium+Los+Angeles) 1641.1 km / 1019.8 miles to Dodger Stadium.
 22. Attend the game against **Los Angeles Dodgers** in Dodger Stadium at **Sep 23 2026, 06:33AM EDT**.
 
-[Back to San Diego Padres, 2025-2026 season]({% link 2025-2026/mlb/san_diego_padres/index.md %})
+[Back to San Diego Padres, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/san_diego_padres/index.md%})

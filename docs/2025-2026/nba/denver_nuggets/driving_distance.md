@@ -44,4 +44,4 @@ title: Denver Nuggets, 2025-2026 season, Driving Distance
 28. Attend the game against the **Phoenix Suns** in PHX Arena on **Mar 24 2026, 11:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Delta+Center+Salt+Lake+City+UT) 1067.0 km / 663.0 miles to Delta Center.
 29. Attend the game against **Utah Jazz** in Delta Center at **Apr 01 2026, 09:00PM EDT**.
 
-[Back to Denver Nuggets, 2025-2026 season]({% link 2025-2026/nba/denver_nuggets/index.md %})
+[Back to Denver Nuggets, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/denver_nuggets/index.md%})

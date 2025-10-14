@@ -46,4 +46,4 @@ title: Anaheim Ducks, 2025-2026 season, Driving Distance
 30. Attend the game against the **Vancouver Canucks** in Rogers Arena on **Mar 24 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/SAP+Center+at+San+Jose+San+Jose) 1580.9 km / 982.3 miles to SAP Center at San Jose.
 31. Attend the game against **San Jose Sharks** in SAP Center at San Jose at **Apr 01 2026, 10:00PM EDT**.
 
-[Back to Anaheim Ducks, 2025-2026 season]({% link 2025-2026/nhl/anaheim_ducks/index.md %})
+[Back to Anaheim Ducks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/anaheim_ducks/index.md%})

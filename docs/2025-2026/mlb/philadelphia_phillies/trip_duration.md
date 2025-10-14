@@ -37,4 +37,4 @@ title: Philadelphia Phillies, 2025-2026 season, Trip Duration
 21. Attend the game against the **Los Angeles Angels** in Angel Stadium on **Aug 28 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Chase+Field+Phoenix) 576.2 km / 358.0 miles to Chase Field.
 22. Attend the game against **Arizona Diamondbacks** in Chase Field at **Aug 31 2026, 06:33AM EDT**.
 
-[Back to Philadelphia Phillies, 2025-2026 season]({% link 2025-2026/mlb/philadelphia_phillies/index.md %})
+[Back to Philadelphia Phillies, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/philadelphia_phillies/index.md%})

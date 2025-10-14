@@ -44,4 +44,4 @@ title: Milwaukee Bucks, 2025-2026 season, Driving Duration
 28. Attend the game against the **Brooklyn Nets** in Barclays Center on **Apr 07 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA) 158.5 km / 98.5 miles to Xfinity Mobile Arena.
 29. Attend the game against **Philadelphia 76ers** in Xfinity Mobile Arena at **Apr 12 2026, 06:00PM EDT**.
 
-[Back to Milwaukee Bucks, 2025-2026 season]({% link 2025-2026/nba/milwaukee_bucks/index.md %})
+[Back to Milwaukee Bucks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/milwaukee_bucks/index.md%})

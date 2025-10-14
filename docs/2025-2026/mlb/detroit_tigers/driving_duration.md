@@ -37,4 +37,4 @@ title: Detroit Tigers, 2025-2026 season, Driving Duration
 21. Attend the game against the **Toronto Blue Jays** in Rogers Centre on **Sep 15 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Rate+Field+Chicago) 827.9 km / 514.4 miles to Rate Field.
 22. Attend the game against **Chicago White Sox** in Rate Field at **Sep 19 2026, 04:33AM EDT**.
 
-[Back to Detroit Tigers, 2025-2026 season]({% link 2025-2026/mlb/detroit_tigers/index.md %})
+[Back to Detroit Tigers, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/detroit_tigers/index.md%})

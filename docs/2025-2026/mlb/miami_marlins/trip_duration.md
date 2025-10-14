@@ -37,4 +37,4 @@ title: Miami Marlins, 2025-2026 season, Trip Duration
 21. Attend the game against the **San Diego Padres** in Petco Park on **Sep 18 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Petco+Park+San+Diego/Wrigley+Field+Chicago) 3363.1 km / 2089.8 miles to Wrigley Field.
 22. Attend the game against **Chicago Cubs** in Wrigley Field at **Sep 24 2026, 04:33AM EDT**.
 
-[Back to Miami Marlins, 2025-2026 season]({% link 2025-2026/mlb/miami_marlins/index.md %})
+[Back to Miami Marlins, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/miami_marlins/index.md%})

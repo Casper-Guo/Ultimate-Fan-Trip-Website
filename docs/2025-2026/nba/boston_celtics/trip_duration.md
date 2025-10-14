@@ -44,4 +44,4 @@ title: Boston Celtics, 2025-2026 season, Trip Duration
 28. Attend the game against the **Memphis Grizzlies** in FedExForum on **Mar 20 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC) 1021.5 km / 634.7 miles to Spectrum Center.
 29. Attend the game against **Charlotte Hornets** in Spectrum Center at **Mar 29 2026, 06:00PM EDT**.
 
-[Back to Boston Celtics, 2025-2026 season]({% link 2025-2026/nba/boston_celtics/index.md %})
+[Back to Boston Celtics, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/boston_celtics/index.md%})

@@ -46,4 +46,4 @@ title: Detroit Red Wings, 2025-2026 season, Driving Distance
 30. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Apr 13 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida) 405.6 km / 252.0 miles to Amerant Bank Arena.
 31. Attend the game against **Florida Panthers** in Amerant Bank Arena at **Apr 15 2026, 07:00PM EDT**.
 
-[Back to Detroit Red Wings, 2025-2026 season]({% link 2025-2026/nhl/detroit_red_wings/index.md %})
+[Back to Detroit Red Wings, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/detroit_red_wings/index.md%})

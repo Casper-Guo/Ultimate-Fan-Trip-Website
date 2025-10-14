@@ -46,4 +46,4 @@ title: Carolina Hurricanes, 2025-2026 season, Trip Duration
 30. Attend the game against the **Utah Mammoth** in Delta Center on **Apr 11 2026, 05:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Utah/UBS+Arena+New+York) 3531.3 km / 2194.3 miles to UBS Arena.
 31. Attend the game against **New York Islanders** in UBS Arena at **Apr 14 2026, 07:00PM EDT**.
 
-[Back to Carolina Hurricanes, 2025-2026 season]({% link 2025-2026/nhl/carolina_hurricanes/index.md %})
+[Back to Carolina Hurricanes, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nhl/carolina_hurricanes/index.md%})

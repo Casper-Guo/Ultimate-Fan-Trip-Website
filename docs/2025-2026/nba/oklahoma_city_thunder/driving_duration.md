@@ -44,4 +44,4 @@ title: Oklahoma City Thunder, 2025-2026 season, Driving Duration
 28. Attend the game against the **Philadelphia 76ers** in Xfinity Mobile Arena on **Mar 23 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA) 500.3 km / 310.9 miles to TD Garden.
 29. Attend the game against **Boston Celtics** in TD Garden at **Mar 25 2026, 07:30PM EDT**.
 
-[Back to Oklahoma City Thunder, 2025-2026 season]({% link 2025-2026/nba/oklahoma_city_thunder/index.md %})
+[Back to Oklahoma City Thunder, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/nba/oklahoma_city_thunder/index.md%})

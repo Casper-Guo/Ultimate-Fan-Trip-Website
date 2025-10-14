@@ -37,4 +37,4 @@ title: Arizona Diamondbacks, 2025-2026 season, Trip Duration
 21. Attend the game against the **Houston Astros** in Daikin Park on **Sep 05 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/Kauffman+Stadium+Kansas+City) 1195.9 km / 743.1 miles to Kauffman Stadium.
 22. Attend the game against **Kansas City Royals** in Kauffman Stadium at **Sep 07 2026, 04:33AM EDT**.
 
-[Back to Arizona Diamondbacks, 2025-2026 season]({% link 2025-2026/mlb/arizona_diamondbacks/index.md %})
+[Back to Arizona Diamondbacks, 2025-2026 season]({{ site.baseurl }}{% link 2025-2026/mlb/arizona_diamondbacks/index.md%})
