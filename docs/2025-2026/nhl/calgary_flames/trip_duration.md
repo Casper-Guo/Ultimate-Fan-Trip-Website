@@ -8,12 +8,12 @@ title: Calgary Flames, 2025-2026 season, Trip Duration
 - **Stops on the Trip:** 31
 - **Most Required Driving in a Day:** 8 hours
 - **Total Trip Duration:** 184 days
-- **Total Driving Distance:** 46895.2 km / 29139.4 miles
-- **Total Driving Duration:** 18 days, 7 hours, 46 minutes
+- **Total Driving Distance:** 44747.4 km / 27804.8 miles
+- **Total Driving Duration:** 17 days, 11 hours, 53 minutes
 
 **View the route on Google Maps:**
-- [Leg 1](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Delta+Center+Utah/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay)
-- [Leg 2](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/SAP+Center+at+San+Jose+San+Jose/Rogers+Place+Edmonton/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago)
+- [Leg 1](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Delta+Center+Utah/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida)
+- [Leg 2](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/SAP+Center+at+San+Jose+San+Jose/Rogers+Place+Edmonton/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago)
 - [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago/Grand+Casino+Arena+Minnesota/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/T-Mobile+Arena+Vegas)
 - [Leg 4](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Honda+Center+Anaheim/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle)
 
@@ -22,14 +22,14 @@ title: Calgary Flames, 2025-2026 season, Trip Duration
 2. Attend the game against the **Utah Mammoth** in Delta Center on **Oct 15 2025, 09:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Utah/Canada+Life+Centre+Winnipeg) 2038.8 km / 1266.8 miles to Canada Life Centre.
 3. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Oct 24 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto) 2055.5 km / 1277.2 miles to Scotiabank Arena.
 4. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Oct 28 2025, 06:15PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa) 410.3 km / 254.9 miles to Canadian Tire Centre.
-5. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville) 1589.7 km / 987.8 miles to Bridgestone Arena.
-6. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Nov 01 2025, 03:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Xfinity+Mobile+Arena+Philadelphia) 1283.5 km / 797.5 miles to Xfinity Mobile Arena.
-7. Attend the game against the **Philadelphia Flyers** in Xfinity Mobile Arena on **Nov 02 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis) 1431.9 km / 889.7 miles to Enterprise Center.
-8. Attend the game against the **St. Louis Blues** in Enterprise Center on **Nov 11 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo) 1201.9 km / 746.8 miles to KeyBank Center.
-9. Attend the game against the **Buffalo Sabres** in KeyBank Center on **Nov 19 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay) 1984.5 km / 1233.1 miles to Benchmark International Arena.
-10. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Nov 26 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida) 405.6 km / 252.0 miles to Amerant Bank Arena.
-11. Attend the game against the **Florida Panthers** in Amerant Bank Arena on **Nov 28 2025, 04:00PM EST**. Then [drive](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina) 1269.4 km / 788.8 miles to Lenovo Center.
-12. Attend the game against the **Carolina Hurricanes** in Lenovo Center on **Nov 30 2025, 05:00PM EST**. Then [drive](https://www.google.com/maps/dir/Lenovo+Center+Carolina/SAP+Center+at+San+Jose+San+Jose) 4511.0 km / 2803.0 miles to SAP Center at San Jose.
+5. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia) 725.1 km / 450.5 miles to Xfinity Mobile Arena.
+6. Attend the game against the **Philadelphia Flyers** in Xfinity Mobile Arena on **Nov 02 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis) 1431.9 km / 889.7 miles to Enterprise Center.
+7. Attend the game against the **St. Louis Blues** in Enterprise Center on **Nov 11 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo) 1201.9 km / 746.8 miles to KeyBank Center.
+8. Attend the game against the **Buffalo Sabres** in KeyBank Center on **Nov 19 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay) 1984.5 km / 1233.1 miles to Benchmark International Arena.
+9. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Nov 26 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida) 405.6 km / 252.0 miles to Amerant Bank Arena.
+10. Attend the game against the **Florida Panthers** in Amerant Bank Arena on **Nov 28 2025, 04:00PM EST**. Then [drive](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina) 1269.4 km / 788.8 miles to Lenovo Center.
+11. Attend the game against the **Carolina Hurricanes** in Lenovo Center on **Nov 30 2025, 05:00PM EST**. Then [drive](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville) 873.8 km / 542.9 miles to Bridgestone Arena.
+12. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Dec 02 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/SAP+Center+at+San+Jose+San+Jose) 3637.6 km / 2260.3 miles to SAP Center at San Jose.
 13. Attend the game against the **San Jose Sharks** in SAP Center at San Jose on **Dec 16 2025, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Rogers+Place+Edmonton) 2444.8 km / 1519.1 miles to Rogers Place.
 14. Attend the game against the **Edmonton Oilers** in Rogers Place on **Dec 23 2025, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Centre+Bell+Montréal) 3588.1 km / 2229.5 miles to Centre Bell.
 15. Attend the game against the **Montréal Canadiens** in Centre Bell on **Jan 07 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/TD+Garden+Boston) 495.3 km / 307.8 miles to TD Garden.

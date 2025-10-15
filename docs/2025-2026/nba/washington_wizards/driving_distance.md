@@ -6,7 +6,7 @@ title: Washington Wizards, 2025-2026 season, Driving Distance
 - **Season:** 2025-2026
 - **Team:** Washington Wizards
 - **Stops on the Trip:** 29
-- **Most Required Driving in a Day:** 13 hours
+- **Most Required Driving in a Day:** 17 hours
 - **Total Trip Duration:** 158 days
 - **Total Driving Distance:** 35899.2 km / 22306.8 miles
 - **Total Driving Duration:** 13 days, 21 hours, 5 minutes
@@ -37,7 +37,7 @@ title: Washington Wizards, 2025-2026 season, Driving Distance
 17. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Feb 05 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Barclays+Center+Brooklyn+NY) 991.0 km / 615.8 miles to Barclays Center.
 18. Attend the game against the **Brooklyn Nets** in Barclays Center on **Feb 07 2026, 03:00PM EST**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH) 745.4 km / 463.2 miles to Rocket Arena.
 19. Attend the game against the **Cleveland Cavaliers** in Rocket Arena on **Feb 11 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/State+Farm+Arena+Atlanta+GA) 1139.3 km / 707.9 miles to State Farm Arena.
-20. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Feb 26 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA) 757.0 km / 470.4 miles to Smoothie King Center.
+20. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Feb 24 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA) 757.0 km / 470.4 miles to Smoothie King Center.
 21. Attend the game against the **New Orleans Pelicans** in Smoothie King Center on **Mar 08 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL) 1393.0 km / 865.6 miles to Kaseya Center.
 22. Attend the game against the **Miami Heat** in Kaseya Center on **Mar 10 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL) 383.0 km / 238.0 miles to Kia Center.
 23. Attend the game against the **Orlando Magic** in Kia Center on **Mar 12 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/TD+Garden+Boston+MA) 2070.2 km / 1286.4 miles to TD Garden.

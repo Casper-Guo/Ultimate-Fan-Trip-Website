@@ -6,7 +6,7 @@ title: Philadelphia Flyers, 2025-2026 season, Driving Distance
 - **Season:** 2025-2026
 - **Team:** Philadelphia Flyers
 - **Stops on the Trip:** 31
-- **Most Required Driving in a Day:** 10 hours
+- **Most Required Driving in a Day:** 11 hours
 - **Total Trip Duration:** 171 days
 - **Total Driving Distance:** 35535.8 km / 22081.0 miles
 - **Total Driving Duration:** 13 days, 16 hours, 8 minutes

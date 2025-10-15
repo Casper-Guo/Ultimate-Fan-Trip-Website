@@ -6,7 +6,7 @@ title: Charlotte Hornets, 2025-2026 season, Trip Duration
 - **Season:** 2025-2026
 - **Team:** Charlotte Hornets
 - **Stops on the Trip:** 29
-- **Most Required Driving in a Day:** 10 hours
+- **Most Required Driving in a Day:** 19 hours
 - **Total Trip Duration:** 162 days
 - **Total Driving Distance:** 39246.0 km / 24386.4 miles
 - **Total Driving Duration:** 14 days, 23 hours, 7 minutes
