@@ -1,7 +1,3 @@
----
-title: "Math"
----
-
 # The Problem
 The NBA and NHL schedules are structured so that every team plays every other team on the road. I enjoy away days and love road trips, which got me thinking: how can I watch my Canucks play 31 road games against 31 opponents while driving the least amount?
 
