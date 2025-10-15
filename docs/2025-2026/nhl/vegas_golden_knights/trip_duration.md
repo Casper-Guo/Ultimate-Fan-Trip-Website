@@ -11,7 +11,11 @@ title: Vegas Golden Knights, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 45771.6 km / 28441.3 miles
 - **Total Driving Duration:** 17 days, 18 hours, 31 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Honda+Center+Anaheim/Delta+Center+Utah/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/Scotiabank+Saddledome+Calgary/Enterprise+Center+St.+Louis/United+Center+Chicago/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/TD+Garden+Boston/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/KeyBank+Center+Buffalo/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville/American+Airlines+Center+Dallas/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Ball+Arena+Colorado)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Honda+Center+Anaheim/Delta+Center+Utah/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/UBS+Arena+New+York)
+- [Leg 2](https://www.google.com/maps/dir/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/Scotiabank+Saddledome+Calgary/Enterprise+Center+St.+Louis/United+Center+Chicago/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/TD+Garden+Boston)
+- [Leg 3](https://www.google.com/maps/dir/TD+Garden+Boston/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/KeyBank+Center+Buffalo/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville/American+Airlines+Center+Dallas)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Ball+Arena+Colorado)
 
 # Trip Details
 1. Attend the game against the **Seattle Kraken** in Climate Pledge Arena on **Oct 11 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Amerant+Bank+Arena+Florida) 5276.4 km / 3278.6 miles to Amerant Bank Arena.

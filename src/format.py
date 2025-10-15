@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from trip_solver.models.internal import CostMatrix, Event, Events
 from trip_solver.util.google_maps_util import format_route_url
 
-from consts import CURRENT_SEASON, SOURCE
+from consts import CURRENT_SEASON, GOOGLE_MAP_MAX_STOPS, SOURCE
 
 
 def format_jekyll_link(name: str, path: Path) -> str:
@@ -158,6 +158,23 @@ def format_trip_details(
     return trip_details
 
 
+def format_google_map_links(trip: list[Event]) -> str:
+    """Break the trip stops into groups of 10 for Google Maps consistency."""
+    google_map_links: list[str] = []
+    for leg_num, start_stop_idx in enumerate(
+        # need to -1 because the two legs overlap at the endpoint
+        range(0, len(trip), GOOGLE_MAP_MAX_STOPS - 1),
+        start=1,
+    ):
+        group = trip[start_stop_idx : start_stop_idx + GOOGLE_MAP_MAX_STOPS]
+        if len(group) < 2:  # noqa: PLR2004
+            continue
+        google_map_links.append(
+            f"- [Leg {leg_num}]({format_route_url([event.venue for event in group])})",
+        )
+    return "\n".join(google_map_links)
+
+
 def create_solution_markdown(
     input_file: Path,
     output_file: Path,
@@ -212,9 +229,10 @@ def create_solution_markdown(
         - **Total Driving Distance:** {readable_distance(total_driving_distance)}
         - **Total Driving Duration:** {readable_time(total_driving_duration)}
 
-        [View the route on Google Maps]({format_route_url([event.venue for event in trip])})
+        **View the route on Google Maps:**
         """,
     )
+    google_map_links = format_google_map_links(trip)
 
     trip_details_heading = "# Trip Details"
     trip_details = format_trip_details(trip, distance_matrix)
@@ -225,6 +243,6 @@ def create_solution_markdown(
     )
 
     output_file.write_text(
-        f"{front_matter}\n\n{trip_summary_heading}\n{trip_summary}\n\n{trip_details_heading}\n{trip_details}\n\n{back_link}\n",
+        f"{front_matter}\n\n{trip_summary_heading}\n{trip_summary}\n{google_map_links}\n\n{trip_details_heading}\n{trip_details}\n\n{back_link}\n",
         encoding="utf-8",
     )

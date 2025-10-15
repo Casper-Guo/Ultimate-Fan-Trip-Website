@@ -11,7 +11,11 @@ title: Indiana Pacers, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 37926.1 km / 23566.2 miles
 - **Total Driving Duration:** 14 days, 13 hours, 15 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Toyota+Center+Houston+TX/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Frost+Bank+Center+San+Antonio+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL)
+- [Leg 2](https://www.google.com/maps/dir/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Toyota+Center+Houston+TX/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA)
+- [Leg 3](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA)
+- [Leg 4](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Frost+Bank+Center+San+Antonio+TX)
 
 # Trip Details
 1. Attend the game against the **Memphis Grizzlies** in FedExForum on **Oct 25 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN) 1341.4 km / 833.5 miles to Target Center.

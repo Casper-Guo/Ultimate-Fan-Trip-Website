@@ -11,7 +11,10 @@ title: San Francisco Giants, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 33939.4 km / 21089.0 miles
 - **Total Driving Duration:** 12 days, 21 hours, 54 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Great+American+Ball+Park+Cincinnati/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/George+M.+Steinbrenner+Field+Tampa/Dodger+Stadium+Los+Angeles/Sutter+Health+Park+Sacramento/Chase+Field+Phoenix/Coors+Field+Denver/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Truist+Park+Atlanta/loanDepot+park+Miami/T-Mobile+Park+Seattle/Kauffman+Stadium+Kansas+City/Petco+Park+San+Diego/Globe+Life+Field+Arlington/Progressive+Field+Cleveland/Fenway+Park+Boston/PNC+Park+Pittsburgh/Citi+Field+Flushing/Busch+Stadium+St.+Louis)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Great+American+Ball+Park+Cincinnati/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/George+M.+Steinbrenner+Field+Tampa/Dodger+Stadium+Los+Angeles/Sutter+Health+Park+Sacramento/Chase+Field+Phoenix/Coors+Field+Denver/American+Family+Field+Milwaukee)
+- [Leg 2](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Truist+Park+Atlanta/loanDepot+park+Miami/T-Mobile+Park+Seattle/Kauffman+Stadium+Kansas+City/Petco+Park+San+Diego/Globe+Life+Field+Arlington/Progressive+Field+Cleveland/Fenway+Park+Boston)
+- [Leg 3](https://www.google.com/maps/dir/Fenway+Park+Boston/PNC+Park+Pittsburgh/Citi+Field+Flushing/Busch+Stadium+St.+Louis)
 
 # Trip Details
 1. Attend the game against the **Baltimore Orioles** in Oriole Park at Camden Yards on **Apr 11 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Great+American+Ball+Park+Cincinnati) 817.0 km / 507.6 miles to Great American Ball Park.

@@ -11,7 +11,11 @@ title: Florida Panthers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39555.2 km / 24578.5 miles
 - **Total Driving Duration:** 15 days, 7 hours, 54 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/TD+Garden+Boston/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Bridgestone+Arena+Nashville/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Enterprise+Center+St.+Louis/Benchmark+International+Arena+Tampa+Bay/UBS+Arena+New+York/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/TD+Garden+Boston/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Bridgestone+Arena+Nashville/Delta+Center+Utah)
+- [Leg 2](https://www.google.com/maps/dir/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota)
+- [Leg 3](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Enterprise+Center+St.+Louis/Benchmark+International+Arena+Tampa+Bay/UBS+Arena+New+York/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton)
+- [Leg 4](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh)
 
 # Trip Details
 1. Attend the game against the **Philadelphia Flyers** in Xfinity Mobile Arena on **Oct 13 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Little+Caesars+Arena+Detroit) 945.9 km / 587.7 miles to Little Caesars Arena.

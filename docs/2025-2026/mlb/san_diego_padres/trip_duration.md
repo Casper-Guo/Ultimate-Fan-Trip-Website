@@ -11,7 +11,10 @@ title: San Diego Padres, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 43179.5 km / 26830.6 miles
 - **Total Driving Duration:** 16 days, 7 hours, 14 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Fenway+Park+Boston/PNC+Park+Pittsburgh/Angel+Stadium+Anaheim/Coors+Field+Denver/Oracle+Park+San+Francisco/American+Family+Field+Milwaukee/T-Mobile+Park+Seattle/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/Busch+Stadium+St.+Louis/Globe+Life+Field+Arlington/Wrigley+Field+Chicago/Dodger+Stadium+Los+Angeles/Kauffman+Stadium+Kansas+City/Truist+Park+Atlanta/loanDepot+park+Miami/Chase+Field+Phoenix/Progressive+Field+Cleveland/Citi+Field+Flushing/George+M.+Steinbrenner+Field+Tampa/Great+American+Ball+Park+Cincinnati)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Fenway+Park+Boston/PNC+Park+Pittsburgh/Angel+Stadium+Anaheim/Coors+Field+Denver/Oracle+Park+San+Francisco/American+Family+Field+Milwaukee/T-Mobile+Park+Seattle/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore)
+- [Leg 2](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Busch+Stadium+St.+Louis/Globe+Life+Field+Arlington/Wrigley+Field+Chicago/Dodger+Stadium+Los+Angeles/Kauffman+Stadium+Kansas+City/Truist+Park+Atlanta/loanDepot+park+Miami/Chase+Field+Phoenix/Progressive+Field+Cleveland)
+- [Leg 3](https://www.google.com/maps/dir/Progressive+Field+Cleveland/Citi+Field+Flushing/George+M.+Steinbrenner+Field+Tampa/Great+American+Ball+Park+Cincinnati)
 
 # Trip Details
 1. Attend the game against the **Boston Red Sox** in Fenway Park on **Apr 05 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Fenway+Park+Boston/PNC+Park+Pittsburgh) 917.6 km / 570.2 miles to PNC Park.

@@ -11,7 +11,11 @@ title: Carolina Hurricanes, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36306.1 km / 22559.6 miles
 - **Total Driving Duration:** 14 days, 3 hours, 11 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Madison+Square+Garden+New+York/TD+Garden+Boston/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/KeyBank+Center+Buffalo/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/PPG+Paints+Arena+Pittsburgh/Prudential+Center+New+Jersey/Little+Caesars+Arena+Detroit/Enterprise+Center+St.+Louis/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Nationwide+Arena+Columbus/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Delta+Center+Utah/UBS+Arena+New+York)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Madison+Square+Garden+New+York/TD+Garden+Boston/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg)
+- [Leg 2](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/KeyBank+Center+Buffalo/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/PPG+Paints+Arena+Pittsburgh/Prudential+Center+New+Jersey/Little+Caesars+Arena+Detroit)
+- [Leg 3](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Enterprise+Center+St.+Louis/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Nationwide+Arena+Columbus/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa)
+- [Leg 4](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Delta+Center+Utah/UBS+Arena+New+York)
 
 # Trip Details
 1. Attend the game against the **San Jose Sharks** in SAP Center at San Jose on **Oct 14 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim) 593.9 km / 369.0 miles to Honda Center.

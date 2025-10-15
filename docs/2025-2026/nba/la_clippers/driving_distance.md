@@ -11,7 +11,11 @@ title: La Clippers, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36539.6 km / 22704.7 miles
 - **Total Driving Duration:** 13 days, 23 hours, 6 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC/United+Center+Chicago+IL/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Toyota+Center+Houston+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Gainbridge+Fieldhouse+Indianapolis+IN/Fiserv+Forum+Milwaukee+WI/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY)
+- [Leg 2](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC/United+Center+Chicago+IL/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Toyota+Center+Houston+TX)
+- [Leg 3](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Gainbridge+Fieldhouse+Indianapolis+IN/Fiserv+Forum+Milwaukee+WI/Golden+1+Center+Sacramento+CA)
+- [Leg 4](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR)
 
 # Trip Details
 1. Attend the game against the **Boston Celtics** in TD Garden on **Nov 16 2025, 03:30PM EST**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA) 502.5 km / 312.2 miles to Xfinity Mobile Arena.

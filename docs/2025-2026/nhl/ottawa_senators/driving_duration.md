@@ -11,7 +11,11 @@ title: Ottawa Senators, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 36686.7 km / 22796.1 miles
 - **Total Driving Duration:** 14 days, 7 hours, 20 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/KeyBank+Center+Buffalo/United+Center+Chicago/Centre+Bell+Montréal/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Nationwide+Arena+Columbus/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Scotiabank+Arena+Toronto/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/UBS+Arena+New+York/Prudential+Center+New+Jersey)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/KeyBank+Center+Buffalo/United+Center+Chicago/Centre+Bell+Montréal/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles)
+- [Leg 2](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Nationwide+Arena+Columbus)
+- [Leg 3](https://www.google.com/maps/dir/Nationwide+Arena+Columbus/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Scotiabank+Arena+Toronto/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Capital+One+Arena+Washington)
+- [Leg 4](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/UBS+Arena+New+York/Prudential+Center+New+Jersey)
 
 # Trip Details
 1. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Oct 09 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida) 405.6 km / 252.0 miles to Amerant Bank Arena.

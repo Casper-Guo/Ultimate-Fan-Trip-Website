@@ -11,7 +11,11 @@ title: Milwaukee Bucks, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 40222.3 km / 24993.0 miles
 - **Total Driving Duration:** 15 days, 9 hours, 23 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Gainbridge+Fieldhouse+Indianapolis+IN/American+Airlines+Center+Dallas+TX/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/United+Center+Chicago+IL/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Kia+Center+Orlando+FL/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Toyota+Center+Houston+TX/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Gainbridge+Fieldhouse+Indianapolis+IN/American+Airlines+Center+Dallas+TX/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/United+Center+Chicago+IL)
+- [Leg 2](https://www.google.com/maps/dir/United+Center+Chicago+IL/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Kia+Center+Orlando+FL/Paycom+Center+Oklahoma+City+OK)
+- [Leg 3](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Toyota+Center+Houston+TX/Barclays+Center+Brooklyn+NY)
+- [Leg 4](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA)
 
 # Trip Details
 1. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Oct 24 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH) 468.1 km / 290.9 miles to Rocket Arena.

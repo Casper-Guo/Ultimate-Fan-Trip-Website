@@ -11,7 +11,10 @@ title: Houston Astros, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 35388.7 km / 21989.6 miles
 - **Total Driving Duration:** 13 days, 10 hours, 53 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver/T-Mobile+Park+Seattle/Progressive+Field+Cleveland/Oriole+Park+at+Camden+Yards+Baltimore/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati/Target+Field+Minneapolis/Wrigley+Field+Chicago/Angel+Stadium+Anaheim/Kauffman+Stadium+Kansas+City/Rogers+Centre+Toronto/Comerica+Park+Detroit/Nationals+Park+Washington/Globe+Life+Field+Arlington/Rate+Field+Chicago/Petco+Park+San+Diego/Oracle+Park+San+Francisco/Yankee+Stadium+Bronx/Citi+Field+Flushing/Citizens+Bank+Park+Philadelphia/George+M.+Steinbrenner+Field+Tampa)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver/T-Mobile+Park+Seattle/Progressive+Field+Cleveland/Oriole+Park+at+Camden+Yards+Baltimore/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati/Target+Field+Minneapolis/Wrigley+Field+Chicago/Angel+Stadium+Anaheim)
+- [Leg 2](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Kauffman+Stadium+Kansas+City/Rogers+Centre+Toronto/Comerica+Park+Detroit/Nationals+Park+Washington/Globe+Life+Field+Arlington/Rate+Field+Chicago/Petco+Park+San+Diego/Oracle+Park+San+Francisco/Yankee+Stadium+Bronx)
+- [Leg 3](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Citi+Field+Flushing/Citizens+Bank+Park+Philadelphia/George+M.+Steinbrenner+Field+Tampa)
 
 # Trip Details
 1. Attend the game against the **Athletics** in Sutter Health Park on **Apr 04 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver) 1880.3 km / 1168.4 miles to Coors Field.

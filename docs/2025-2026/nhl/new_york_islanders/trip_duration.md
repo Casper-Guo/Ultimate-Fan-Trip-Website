@@ -11,7 +11,11 @@ title: New York Islanders, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 37707.8 km / 23430.6 miles
 - **Total Driving Duration:** 14 days, 13 hours, 25 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/United+Center+Chicago/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Capital+One+Arena+Washington/Prudential+Center+New+Jersey/Centre+Bell+Montréal/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas)
+- [Leg 2](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/United+Center+Chicago/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg)
+- [Leg 3](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Capital+One+Arena+Washington/Prudential+Center+New+Jersey/Centre+Bell+Montréal/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles)
+- [Leg 4](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto)
 
 # Trip Details
 1. Attend the game against the **Pittsburgh Penguins** in PPG Paints Arena on **Oct 09 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Canadian+Tire+Centre+Ottawa) 876.3 km / 544.5 miles to Canadian Tire Centre.

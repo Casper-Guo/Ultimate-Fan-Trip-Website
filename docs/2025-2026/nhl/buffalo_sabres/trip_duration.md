@@ -11,7 +11,11 @@ title: Buffalo Sabres, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 45256.1 km / 28120.9 miles
 - **Total Driving Duration:** 17 days, 14 hours, 31 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston/Lenovo+Center+Carolina/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Canadian+Tire+Centre+Ottawa/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville/Centre+Bell+Montréal/UBS+Arena+New+York/Scotiabank+Arena+Toronto/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Capital+One+Arena+Washington/United+Center+Chicago)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston/Lenovo+Center+Carolina/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton)
+- [Leg 2](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Canadian+Tire+Centre+Ottawa/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville/Centre+Bell+Montréal)
+- [Leg 3](https://www.google.com/maps/dir/Centre+Bell+Montréal/UBS+Arena+New+York/Scotiabank+Arena+Toronto/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles)
+- [Leg 4](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Capital+One+Arena+Washington/United+Center+Chicago)
 
 # Trip Details
 1. Attend the game against the **Boston Bruins** in TD Garden on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston/Lenovo+Center+Carolina) 1160.1 km / 720.9 miles to Lenovo Center.

@@ -11,7 +11,10 @@ title: Chicago Cubs, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 39643.2 km / 24633.2 miles
 - **Total Driving Duration:** 15 days, 0 hours, 40 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Progressive+Field+Cleveland/George+M.+Steinbrenner+Field+Tampa/Citizens+Bank+Park+Philadelphia/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego/Globe+Life+Field+Arlington/Truist+Park+Atlanta/Rate+Field+Chicago/Coors+Field+Denver/Oracle+Park+San+Francisco/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/PNC+Park+Pittsburgh/Busch+Stadium+St.+Louis/Kauffman+Stadium+Kansas+City/Nationals+Park+Washington/T-Mobile+Park+Seattle/Chase+Field+Phoenix/loanDepot+park+Miami/American+Family+Field+Milwaukee/Great+American+Ball+Park+Cincinnati/Fenway+Park+Boston)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Progressive+Field+Cleveland/George+M.+Steinbrenner+Field+Tampa/Citizens+Bank+Park+Philadelphia/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego/Globe+Life+Field+Arlington/Truist+Park+Atlanta/Rate+Field+Chicago/Coors+Field+Denver/Oracle+Park+San+Francisco)
+- [Leg 2](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/PNC+Park+Pittsburgh/Busch+Stadium+St.+Louis/Kauffman+Stadium+Kansas+City/Nationals+Park+Washington/T-Mobile+Park+Seattle/Chase+Field+Phoenix/loanDepot+park+Miami)
+- [Leg 3](https://www.google.com/maps/dir/loanDepot+park+Miami/American+Family+Field+Milwaukee/Great+American+Ball+Park+Cincinnati/Fenway+Park+Boston)
 
 # Trip Details
 1. Attend the game against the **Cleveland Guardians** in Progressive Field on **Apr 04 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Progressive+Field+Cleveland/George+M.+Steinbrenner+Field+Tampa) 1751.1 km / 1088.1 miles to George M. Steinbrenner Field.

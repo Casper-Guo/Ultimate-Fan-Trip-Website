@@ -11,7 +11,11 @@ title: Atlanta Hawks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 45052.4 km / 27994.3 miles
 - **Total Driving Duration:** 17 days, 5 hours, 46 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Little+Caesars+Arena+Detroit+MI/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/FedExForum+Memphis+TN/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Target+Center+Minneapolis+MN/Spectrum+Center+Charlotte+NC/Xfinity+Mobile+Arena+Philadelphia+PA/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Little+Caesars+Arena+Detroit+MI/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR)
+- [Leg 3](https://www.google.com/maps/dir/Moda+Center+Portland+OR/FedExForum+Memphis+TN/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Target+Center+Minneapolis+MN/Spectrum+Center+Charlotte+NC/Xfinity+Mobile+Arena+Philadelphia+PA/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX)
 
 # Trip Details
 1. Attend the game against the **Orlando Magic** in Kia Center on **Oct 24 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL) 1860.8 km / 1156.3 miles to United Center.

@@ -11,7 +11,11 @@ title: New York Rangers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 49771.6 km / 30926.7 miles
 - **Total Driving Duration:** 19 days, 8 hours, 38 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Centre+Bell+Montréal/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Little+Caesars+Arena+Detroit/Benchmark+International+Arena+Tampa+Bay/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Delta+Center+Utah/Lenovo+Center+Carolina/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/Capital+One+Arena+Washington/UBS+Arena+New+York/LoanDepot+Park+Florida/TD+Garden+Boston/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/PPG+Paints+Arena+Pittsburgh/Prudential+Center+New+Jersey/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Nationwide+Arena+Columbus/Scotiabank+Arena+Toronto/American+Airlines+Center+Dallas)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Centre+Bell+Montréal/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Little+Caesars+Arena+Detroit/Benchmark+International+Arena+Tampa+Bay/T-Mobile+Arena+Vegas/Ball+Arena+Colorado)
+- [Leg 2](https://www.google.com/maps/dir/Ball+Arena+Colorado/Delta+Center+Utah/Lenovo+Center+Carolina/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/Capital+One+Arena+Washington/UBS+Arena+New+York/LoanDepot+Park+Florida)
+- [Leg 3](https://www.google.com/maps/dir/LoanDepot+Park+Florida/TD+Garden+Boston/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/PPG+Paints+Arena+Pittsburgh/Prudential+Center+New+Jersey/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota)
+- [Leg 4](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/Nationwide+Arena+Columbus/Scotiabank+Arena+Toronto/American+Airlines+Center+Dallas)
 
 # Trip Details
 1. Attend the game against the **Buffalo Sabres** in KeyBank Center on **Oct 09 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Centre+Bell+Montréal) 635.9 km / 395.1 miles to Centre Bell.

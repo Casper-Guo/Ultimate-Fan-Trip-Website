@@ -11,7 +11,11 @@ title: Brooklyn Nets, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36188.7 km / 22486.7 miles
 - **Total Driving Duration:** 13 days, 21 hours, 49 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX/Gainbridge+Fieldhouse+Indianapolis+IN/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX/Gainbridge+Fieldhouse+Indianapolis+IN/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/Fiserv+Forum+Milwaukee+WI)
+- [Leg 2](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT)
+- [Leg 3](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA)
+- [Leg 4](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA)
 
 # Trip Details
 1. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Oct 22 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Frost+Bank+Center+San+Antonio+TX) 1975.7 km / 1227.6 miles to Frost Bank Center.

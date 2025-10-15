@@ -11,7 +11,11 @@ title: Golden State Warriors, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46155.6 km / 28679.8 miles
 - **Total Driving Duration:** 17 days, 13 hours, 9 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Intuit+Dome+Inglewood+CA/American+Airlines+Center+Dallas+TX/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Smoothie+King+Center+New+Orleans+LA/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Rocket+Arena+Cleveland+OH)
+- [Leg 2](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Intuit+Dome+Inglewood+CA/American+Airlines+Center+Dallas+TX/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT)
+- [Leg 3](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Smoothie+King+Center+New+Orleans+LA/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI)
+- [Leg 4](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA)
 
 # Trip Details
 1. Attend the game against the **Portland Trail Blazers** in Moda Center on **Oct 24 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI) 3286.6 km / 2042.2 miles to Fiserv Forum.

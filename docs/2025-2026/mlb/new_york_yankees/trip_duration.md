@@ -11,7 +11,10 @@ title: New York Yankees, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 34527.0 km / 21454.1 miles
 - **Total Driving Duration:** 13 days, 6 hours, 25 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/T-Mobile+Park+Seattle/Daikin+Park+Houston/Globe+Life+Field+Arlington/American+Family+Field+Milwaukee/Oriole+Park+at+Camden+Yards+Baltimore/Citi+Field+Flushing/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Progressive+Field+Cleveland/Comerica+Park+Detroit/Fenway+Park+Boston/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/Rate+Field+Chicago/Wrigley+Field+Chicago/Rogers+Centre+Toronto/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Target+Field+Minneapolis/Chase+Field+Phoenix)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/T-Mobile+Park+Seattle/Daikin+Park+Houston/Globe+Life+Field+Arlington/American+Family+Field+Milwaukee/Oriole+Park+at+Camden+Yards+Baltimore/Citi+Field+Flushing/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Progressive+Field+Cleveland)
+- [Leg 2](https://www.google.com/maps/dir/Progressive+Field+Cleveland/Comerica+Park+Detroit/Fenway+Park+Boston/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia/Rate+Field+Chicago/Wrigley+Field+Chicago/Rogers+Centre+Toronto/Angel+Stadium+Anaheim)
+- [Leg 3](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Target+Field+Minneapolis/Chase+Field+Phoenix)
 
 # Trip Details
 1. Attend the game against the **San Francisco Giants** in Oracle Park on **Mar 28 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/T-Mobile+Park+Seattle) 1295.7 km / 805.1 miles to T-Mobile Park.

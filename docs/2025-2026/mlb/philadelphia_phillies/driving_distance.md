@@ -11,7 +11,10 @@ title: Philadelphia Phillies, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 33155.5 km / 20601.9 miles
 - **Total Driving Duration:** 12 days, 18 hours, 8 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Coors+Field+Denver/Oracle+Park+San+Francisco/Wrigley+Field+Chicago/Truist+Park+Atlanta/loanDepot+park+Miami/Fenway+Park+Boston/PNC+Park+Pittsburgh/Petco+Park+San+Diego/Dodger+Stadium+Los+Angeles/Rogers+Centre+Toronto/American+Family+Field+Milwaukee/Nationals+Park+Washington/Citi+Field+Flushing/Kauffman+Stadium+Kansas+City/Great+American+Ball+Park+Cincinnati/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/T-Mobile+Park+Seattle/Angel+Stadium+Anaheim/Chase+Field+Phoenix)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Coors+Field+Denver/Oracle+Park+San+Francisco/Wrigley+Field+Chicago/Truist+Park+Atlanta/loanDepot+park+Miami/Fenway+Park+Boston/PNC+Park+Pittsburgh/Petco+Park+San+Diego/Dodger+Stadium+Los+Angeles/Rogers+Centre+Toronto)
+- [Leg 2](https://www.google.com/maps/dir/Rogers+Centre+Toronto/American+Family+Field+Milwaukee/Nationals+Park+Washington/Citi+Field+Flushing/Kauffman+Stadium+Kansas+City/Great+American+Ball+Park+Cincinnati/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Busch+Stadium+St.+Louis/Target+Field+Minneapolis)
+- [Leg 3](https://www.google.com/maps/dir/Target+Field+Minneapolis/T-Mobile+Park+Seattle/Angel+Stadium+Anaheim/Chase+Field+Phoenix)
 
 # Trip Details
 1. Attend the game against the **Colorado Rockies** in Coors Field on **Apr 03 2026, 05:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Coors+Field+Denver/Oracle+Park+San+Francisco) 2008.2 km / 1247.8 miles to Oracle Park.

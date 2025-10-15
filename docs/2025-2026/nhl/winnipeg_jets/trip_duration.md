@@ -11,7 +11,11 @@ title: Winnipeg Jets, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 49821.8 km / 30957.9 miles
 - **Total Driving Duration:** 19 days, 11 hours, 16 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Scotiabank+Saddledome+Calgary/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Capital+One+Arena+Washington/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/KeyBank+Center+Buffalo/Centre+Bell+Montréal/Rogers+Place+Edmonton/Enterprise+Center+St.+Louis/Delta+Center+Utah/Little+Caesars+Arena+Detroit/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Prudential+Center+New+Jersey/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Madison+Square+Garden+New+York/Ball+Arena+Colorado/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Scotiabank+Saddledome+Calgary/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Capital+One+Arena+Washington/Lenovo+Center+Carolina)
+- [Leg 2](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/KeyBank+Center+Buffalo/Centre+Bell+Montréal/Rogers+Place+Edmonton/Enterprise+Center+St.+Louis/Delta+Center+Utah/Little+Caesars+Arena+Detroit/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa)
+- [Leg 3](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Prudential+Center+New+Jersey/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Madison+Square+Garden+New+York)
+- [Leg 4](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Ball+Arena+Colorado/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas)
 
 # Trip Details
 1. Attend the game against the **New York Islanders** in UBS Arena on **Oct 13 2025, 01:00PM EDT**. Then [drive](https://www.google.com/maps/dir/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia) 187.7 km / 116.6 miles to Xfinity Mobile Arena.

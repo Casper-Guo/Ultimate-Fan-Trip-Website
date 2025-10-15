@@ -11,7 +11,11 @@ title: Calgary Flames, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46895.2 km / 29139.4 miles
 - **Total Driving Duration:** 18 days, 7 hours, 46 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Delta+Center+Utah/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/SAP+Center+at+San+Jose+San+Jose/Rogers+Place+Edmonton/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago/Grand+Casino+Arena+Minnesota/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/Honda+Center+Anaheim/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Delta+Center+Utah/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay)
+- [Leg 2](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/SAP+Center+at+San+Jose+San+Jose/Rogers+Place+Edmonton/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago)
+- [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago/Grand+Casino+Arena+Minnesota/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/T-Mobile+Arena+Vegas)
+- [Leg 4](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Honda+Center+Anaheim/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle)
 
 # Trip Details
 1. Attend the game against the **Vancouver Canucks** in Rogers Arena on **Oct 09 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Delta+Center+Utah) 1551.1 km / 963.8 miles to Delta Center.

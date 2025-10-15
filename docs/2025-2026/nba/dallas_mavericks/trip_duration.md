@@ -11,7 +11,11 @@ title: Dallas Mavericks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44563.8 km / 27690.7 miles
 - **Total Driving Duration:** 17 days, 2 hours, 51 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Smoothie+King+Center+New+Orleans+LA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Fiserv+Forum+Milwaukee+WI/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Fiserv+Forum+Milwaukee+WI/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ)
+- [Leg 3](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA)
+- [Leg 4](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH)
 
 # Trip Details
 1. Attend the game against the **Detroit Pistons** in Arena CDMX on **Nov 01 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX) 1490.1 km / 925.9 miles to Toyota Center.

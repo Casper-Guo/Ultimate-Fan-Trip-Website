@@ -11,7 +11,11 @@ title: Philadelphia Flyers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39718.0 km / 24679.7 miles
 - **Total Driving Duration:** 15 days, 6 hours, 36 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/UBS+Arena+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina/United+Center+Chicago/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/Nationwide+Arena+Columbus/TD+Garden+Boston/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Scotiabank+Arena+Toronto/Grand+Casino+Arena+Minnesota/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Little+Caesars+Arena+Detroit/Canada+Life+Centre+Winnipeg)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/UBS+Arena+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina)
+- [Leg 2](https://www.google.com/maps/dir/Lenovo+Center+Carolina/United+Center+Chicago/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/Delta+Center+Utah)
+- [Leg 3](https://www.google.com/maps/dir/Delta+Center+Utah/Ball+Arena+Colorado/Nationwide+Arena+Columbus/TD+Garden+Boston/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Scotiabank+Arena+Toronto/Grand+Casino+Arena+Minnesota/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles)
+- [Leg 4](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Little+Caesars+Arena+Detroit/Canada+Life+Centre+Winnipeg)
 
 # Trip Details
 1. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Oct 23 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal) 221.6 km / 137.7 miles to Centre Bell.

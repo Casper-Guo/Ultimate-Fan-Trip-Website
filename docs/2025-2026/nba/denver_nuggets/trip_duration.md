@@ -11,7 +11,11 @@ title: Denver Nuggets, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 43526.4 km / 27046.1 miles
 - **Total Driving Duration:** 16 days, 15 hours, 18 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Target+Center+Minneapolis+MN/Toyota+Center+Houston+TX/PHX+Arena+Phoenix+AZ/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/FedExForum+Memphis+TN/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Target+Center+Minneapolis+MN/Toyota+Center+Houston+TX/PHX+Arena+Phoenix+AZ/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL)
+- [Leg 2](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/FedExForum+Memphis+TN)
+- [Leg 3](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Frost+Bank+Center+San+Antonio+TX)
+- [Leg 4](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA)
 
 # Trip Details
 1. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Nov 11 2025, 11:00PM EST**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Target+Center+Minneapolis+MN) 3052.8 km / 1896.9 miles to Target Center.

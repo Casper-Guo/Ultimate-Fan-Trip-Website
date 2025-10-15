@@ -11,7 +11,11 @@ title: Charlotte Hornets, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39246.0 km / 24386.4 miles
 - **Total Driving Duration:** 14 days, 23 hours, 7 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Smoothie+King+Center+New+Orleans+LA/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Ball+Arena+Denver+CO/Kia+Center+Orlando+FL/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/State+Farm+Arena+Atlanta+GA/United+Center+Chicago+IL/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Frost+Bank+Center+San+Antonio+TX/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Smoothie+King+Center+New+Orleans+LA/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Little+Caesars+Arena+Detroit+MI/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Paycom+Center+Oklahoma+City+OK)
+- [Leg 2](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Ball+Arena+Denver+CO/Kia+Center+Orlando+FL/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX)
+- [Leg 3](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/State+Farm+Arena+Atlanta+GA/United+Center+Chicago+IL/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Frost+Bank+Center+San+Antonio+TX/Barclays+Center+Brooklyn+NY)
+- [Leg 4](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN)
 
 # Trip Details
 1. Attend the game against the **Philadelphia 76ers** in Xfinity Mobile Arena on **Oct 25 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC) 212.6 km / 132.1 miles to Capital One Arena.

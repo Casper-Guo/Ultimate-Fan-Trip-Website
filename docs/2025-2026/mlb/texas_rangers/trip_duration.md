@@ -11,7 +11,10 @@ title: Texas Rangers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 38624.9 km / 24000.4 miles
 - **Total Driving Duration:** 14 days, 15 hours, 46 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/Dodger+Stadium+Los+Angeles/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Yankee+Stadium+Bronx/Daikin+Park+Houston/Coors+Field+Denver/Angel+Stadium+Anaheim/Busch+Stadium+St.+Louis/Kauffman+Stadium+Kansas+City/Fenway+Park+Boston/loanDepot+park+Miami/Rogers+Centre+Toronto/Progressive+Field+Cleveland/Truist+Park+Atlanta/George+M.+Steinbrenner+Field+Tampa/Rate+Field+Chicago/American+Family+Field+Milwaukee/T-Mobile+Park+Seattle/Chase+Field+Phoenix/Target+Field+Minneapolis)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/Dodger+Stadium+Los+Angeles/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Yankee+Stadium+Bronx/Daikin+Park+Houston/Coors+Field+Denver/Angel+Stadium+Anaheim/Busch+Stadium+St.+Louis)
+- [Leg 2](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Kauffman+Stadium+Kansas+City/Fenway+Park+Boston/loanDepot+park+Miami/Rogers+Centre+Toronto/Progressive+Field+Cleveland/Truist+Park+Atlanta/George+M.+Steinbrenner+Field+Tampa/Rate+Field+Chicago/American+Family+Field+Milwaukee)
+- [Leg 3](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/T-Mobile+Park+Seattle/Chase+Field+Phoenix/Target+Field+Minneapolis)
 
 # Trip Details
 1. Attend the game against the **Philadelphia Phillies** in Citizens Bank Park on **Mar 29 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore) 158.5 km / 98.5 miles to Oriole Park at Camden Yards.

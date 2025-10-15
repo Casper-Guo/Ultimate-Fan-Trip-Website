@@ -11,7 +11,10 @@ title: Seattle Mariners, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 31469.6 km / 19554.3 miles
 - **Total Driving Duration:** 12 days, 1 hours, 42 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Petco+Park+San+Diego/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Rate+Field+Chicago/Daikin+Park+Houston/Kauffman+Stadium+Kansas+City/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Nationals+Park+Washington/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/loanDepot+park+Miami/George+M.+Steinbrenner+Field+Tampa/Globe+Life+Field+Arlington/Dodger+Stadium+Los+Angeles/Yankee+Stadium+Bronx/American+Family+Field+Milwaukee/Rogers+Centre+Toronto/Fenway+Park+Boston/Sutter+Health+Park+Sacramento/Angel+Stadium+Anaheim/Coors+Field+Denver)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Petco+Park+San+Diego/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Rate+Field+Chicago/Daikin+Park+Houston/Kauffman+Stadium+Kansas+City/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Nationals+Park+Washington/PNC+Park+Pittsburgh)
+- [Leg 2](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/loanDepot+park+Miami/George+M.+Steinbrenner+Field+Tampa/Globe+Life+Field+Arlington/Dodger+Stadium+Los+Angeles/Yankee+Stadium+Bronx/American+Family+Field+Milwaukee/Rogers+Centre+Toronto/Fenway+Park+Boston)
+- [Leg 3](https://www.google.com/maps/dir/Fenway+Park+Boston/Sutter+Health+Park+Sacramento/Angel+Stadium+Anaheim/Coors+Field+Denver)
 
 # Trip Details
 1. Attend the game against the **San Diego Padres** in Petco Park on **Apr 16 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Petco+Park+San+Diego/Busch+Stadium+St.+Louis) 2910.4 km / 1808.4 miles to Busch Stadium.

@@ -11,7 +11,11 @@ title: Montréal Canadiens, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41990.1 km / 26091.5 miles
 - **Total Driving Duration:** 16 days, 6 hours, 26 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/United+Center+Chicago/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Scotiabank+Arena+Toronto/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/United+Center+Chicago/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas/Ball+Arena+Colorado)
+- [Leg 2](https://www.google.com/maps/dir/Ball+Arena+Colorado/Scotiabank+Arena+Toronto/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/KeyBank+Center+Buffalo)
+- [Leg 3](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville)
+- [Leg 4](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia)
 
 # Trip Details
 1. Attend the game against the **Chicago Blackhawks** in United Center on **Oct 11 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago/Scotiabank+Saddledome+Calgary) 2574.8 km / 1599.9 miles to Scotiabank Saddledome.

@@ -11,7 +11,11 @@ title: New Jersey Devils, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 37929.1 km / 23568.1 miles
 - **Total Driving Duration:** 14 days, 16 hours, 11 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Ball+Arena+Colorado/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/United+Center+Chicago/Capital+One+Arena+Washington/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/T-Mobile+Arena+Vegas/Delta+Center+Utah/Scotiabank+Arena+Toronto/Nationwide+Arena+Columbus/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Colorado/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/United+Center+Chicago/Capital+One+Arena+Washington/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo)
+- [Leg 2](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/T-Mobile+Arena+Vegas/Delta+Center+Utah/Scotiabank+Arena+Toronto/Nationwide+Arena+Columbus/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg)
+- [Leg 3](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina)
+- [Leg 4](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit)
 
 # Trip Details
 1. Attend the game against the **Colorado Avalanche** in Ball Arena on **Oct 28 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Colorado/SAP+Center+at+San+Jose+San+Jose) 2046.1 km / 1271.4 miles to SAP Center at San Jose.

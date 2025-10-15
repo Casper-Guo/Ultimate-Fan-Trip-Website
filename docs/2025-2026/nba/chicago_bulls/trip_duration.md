@@ -11,7 +11,11 @@ title: Chicago Bulls, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46681.8 km / 29006.8 miles
 - **Total Driving Duration:** 17 days, 21 hours, 4 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/Rocket+Arena+Cleveland+OH/State+Farm+Arena+Atlanta+GA/Little+Caesars+Arena+Detroit+MI/Toyota+Center+Houston+TX/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/American+Airlines+Center+Dallas+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/Rocket+Arena+Cleveland+OH/State+Farm+Arena+Atlanta+GA/Little+Caesars+Arena+Detroit+MI/Toyota+Center+Houston+TX)
+- [Leg 2](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA)
+- [Leg 3](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC)
+- [Leg 4](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/American+Airlines+Center+Dallas+TX)
 
 # Trip Details
 1. Attend the game against the **Utah Jazz** in Delta Center on **Nov 16 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO) 835.8 km / 519.3 miles to Ball Arena.

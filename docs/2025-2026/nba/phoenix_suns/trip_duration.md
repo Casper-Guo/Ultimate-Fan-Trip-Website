@@ -11,7 +11,11 @@ title: Phoenix Suns, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 47854.1 km / 29735.2 miles
 - **Total Driving Duration:** 18 days, 4 hours, 12 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/American+Airlines+Center+Dallas+TX/Paycom+Center+Oklahoma+City+OK/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Chase+Center+San+Francisco+CA/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/FedExForum+Memphis+TN/Kaseya+Center+Miami+FL/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/State+Farm+Arena+Atlanta+GA/Moda+Center+Portland+OR/Moody+Center+Austin+TX/Golden+1+Center+Sacramento+CA/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/United+Center+Chicago+IL)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/American+Airlines+Center+Dallas+TX/Paycom+Center+Oklahoma+City+OK/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Chase+Center+San+Francisco+CA/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/FedExForum+Memphis+TN/Kaseya+Center+Miami+FL/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/State+Farm+Arena+Atlanta+GA)
+- [Leg 3](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Moda+Center+Portland+OR/Moody+Center+Austin+TX/Golden+1+Center+Sacramento+CA/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC)
+- [Leg 4](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/United+Center+Chicago+IL)
 
 # Trip Details
 1. Attend the game against the **Denver Nuggets** in Ball Arena on **Oct 25 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT) 836.0 km / 519.5 miles to Delta Center.

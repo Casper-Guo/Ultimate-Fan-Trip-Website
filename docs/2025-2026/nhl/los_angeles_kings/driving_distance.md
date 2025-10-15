@@ -11,7 +11,11 @@ title: Los Angeles Kings, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36826.3 km / 22882.8 miles
 - **Total Driving Duration:** 14 days, 10 hours, 59 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Delta+Center+Utah/American+Airlines+Center+Dallas/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Rogers+Place+Edmonton/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/TD+Garden+Boston/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa)
+- [Leg 2](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Delta+Center+Utah/American+Airlines+Center+Dallas/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Rogers+Place+Edmonton)
+- [Leg 3](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/TD+Garden+Boston/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York)
+- [Leg 4](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle)
 
 # Trip Details
 1. Attend the game against the **Vegas Golden Knights** in T-Mobile Arena on **Oct 08 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg) 2729.4 km / 1696.0 miles to Canada Life Centre.

@@ -11,7 +11,11 @@ title: Memphis Grizzlies, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46598.9 km / 28955.3 miles
 - **Total Driving Duration:** 17 days, 17 hours, 28 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/TD+Garden+Boston+MA/Rocket+Arena+Cleveland+OH/Frost+Bank+Center+San+Antonio+TX/American+Airlines+Center+Dallas+TX/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Capital+One+Arena+Washington+DC/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/TD+Garden+Boston+MA/Rocket+Arena+Cleveland+OH/Frost+Bank+Center+San+Antonio+TX/American+Airlines+Center+Dallas+TX/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA)
+- [Leg 2](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Paycom+Center+Oklahoma+City+OK/Delta+Center+Salt+Lake+City+UT/Capital+One+Arena+Washington+DC/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/Kaseya+Center+Miami+FL)
+- [Leg 3](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI)
+- [Leg 4](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI)
 
 # Trip Details
 1. Attend the game against the **Golden State Warriors** in Chase Center on **Oct 27 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/PHX+Arena+Phoenix+AZ) 1211.3 km / 752.7 miles to PHX Arena.

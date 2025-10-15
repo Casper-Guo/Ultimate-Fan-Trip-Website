@@ -11,7 +11,11 @@ title: Seattle Kraken, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 43706.8 km / 27158.2 miles
 - **Total Driving Duration:** 16 days, 21 hours, 16 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto/Xfinity+Mobile+Arena+Philadelphia/Capital+One+Arena+Washington/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Little+Caesars+Arena+Detroit/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Rogers+Place+Edmonton/Delta+Center+Utah/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Scotiabank+Saddledome+Calgary/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/TD+Garden+Boston/Rogers+Arena+Vancouver/Bridgestone+Arena+Nashville/Nationwide+Arena+Columbus/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/KeyBank+Center+Buffalo/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/T-Mobile+Arena+Vegas/Ball+Arena+Colorado)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto/Xfinity+Mobile+Arena+Philadelphia/Capital+One+Arena+Washington/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Little+Caesars+Arena+Detroit/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh)
+- [Leg 2](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Rogers+Place+Edmonton/Delta+Center+Utah/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Scotiabank+Saddledome+Calgary/Lenovo+Center+Carolina/Madison+Square+Garden+New+York)
+- [Leg 3](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/TD+Garden+Boston/Rogers+Arena+Vancouver/Bridgestone+Arena+Nashville/Nationwide+Arena+Columbus/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/KeyBank+Center+Buffalo/Canada+Life+Centre+Winnipeg)
+- [Leg 4](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/T-Mobile+Arena+Vegas/Ball+Arena+Colorado)
 
 # Trip Details
 1. Attend the game against the **Montréal Canadiens** in Centre Bell on **Oct 14 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa) 220.5 km / 137.0 miles to Canadian Tire Centre.

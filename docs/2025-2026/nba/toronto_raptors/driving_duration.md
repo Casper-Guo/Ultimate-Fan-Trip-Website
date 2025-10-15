@@ -11,7 +11,11 @@ title: Toronto Raptors, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 37015.4 km / 23000.4 miles
 - **Total Driving Duration:** 14 days, 1 hours, 57 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Xfinity+Mobile+Arena+Philadelphia+PA/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Paycom+Center+Oklahoma+City+OK/Kia+Center+Orlando+FL/United+Center+Chicago+IL/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Little+Caesars+Arena+Detroit+MI/FedExForum+Memphis+TN)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Xfinity+Mobile+Arena+Philadelphia+PA/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Spectrum+Center+Charlotte+NC)
+- [Leg 2](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Paycom+Center+Oklahoma+City+OK/Kia+Center+Orlando+FL/United+Center+Chicago+IL)
+- [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago+IL/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Little+Caesars+Arena+Detroit+MI)
+- [Leg 4](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/FedExForum+Memphis+TN)
 
 # Trip Details
 1. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Oct 26 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX) 436.8 km / 271.4 miles to Frost Bank Center.

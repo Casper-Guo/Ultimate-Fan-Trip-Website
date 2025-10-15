@@ -11,7 +11,11 @@ title: Cleveland Cavaliers, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 37838.7 km / 23511.9 miles
 - **Total Driving Duration:** 14 days, 11 hours, 51 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX/Target+Center+Minneapolis+MN/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/Fiserv+Forum+Milwaukee+WI/Little+Caesars+Arena+Detroit+MI/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX)
+- [Leg 2](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Target+Center+Minneapolis+MN/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO)
+- [Leg 3](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/Fiserv+Forum+Milwaukee+WI/Little+Caesars+Arena+Detroit+MI/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/FedExForum+Memphis+TN)
+- [Leg 4](https://www.google.com/maps/dir/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA)
 
 # Trip Details
 1. Attend the game against the **New York Knicks** in Madison Square Garden on **Oct 22 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY) 8.5 km / 5.3 miles to Barclays Center.

@@ -11,7 +11,10 @@ title: Arizona Diamondbacks, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 32987.4 km / 20497.5 miles
 - **Total Driving Duration:** 12 days, 14 hours, 5 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Dodger+Stadium+Los+Angeles/Citi+Field+Flushing/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Globe+Life+Field+Arlington/Oracle+Park+San+Francisco/T-Mobile+Park+Seattle/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati/Busch+Stadium+St.+Louis/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/Truist+Park+Atlanta/Fenway+Park+Boston/Daikin+Park+Houston/Kauffman+Stadium+Kansas+City/Coors+Field+Denver/Petco+Park+San+Diego)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Dodger+Stadium+Los+Angeles/Citi+Field+Flushing/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Globe+Life+Field+Arlington/Oracle+Park+San+Francisco/T-Mobile+Park+Seattle/loanDepot+park+Miami)
+- [Leg 2](https://www.google.com/maps/dir/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati/Busch+Stadium+St.+Louis/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/Truist+Park+Atlanta/Fenway+Park+Boston/Daikin+Park+Houston)
+- [Leg 3](https://www.google.com/maps/dir/Daikin+Park+Houston/Kauffman+Stadium+Kansas+City/Coors+Field+Denver/Petco+Park+San+Diego)
 
 # Trip Details
 1. Attend the game against the **Los Angeles Dodgers** in Dodger Stadium on **Mar 26 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Dodger+Stadium+Los+Angeles/Citi+Field+Flushing) 4515.8 km / 2806.0 miles to Citi Field.

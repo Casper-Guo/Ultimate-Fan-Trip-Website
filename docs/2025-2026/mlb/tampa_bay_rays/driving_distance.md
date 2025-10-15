@@ -11,7 +11,10 @@ title: Tampa Bay Rays, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 28881.8 km / 17946.4 miles
 - **Total Driving Duration:** 10 days, 23 hours, 56 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/American+Family+Field+Milwaukee/Target+Field+Minneapolis/Rate+Field+Chicago/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/Fenway+Park+Boston/Rogers+Centre+Toronto/Oriole+Park+at+Camden+Yards+Baltimore/loanDepot+park+Miami/Angel+Stadium+Anaheim/Dodger+Stadium+Los+Angeles/Kauffman+Stadium+Kansas+City/Daikin+Park+Houston/Coors+Field+Denver/T-Mobile+Park+Seattle/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Globe+Life+Field+Arlington/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/American+Family+Field+Milwaukee/Target+Field+Minneapolis/Rate+Field+Chicago/PNC+Park+Pittsburgh/Progressive+Field+Cleveland/Fenway+Park+Boston/Rogers+Centre+Toronto/Oriole+Park+at+Camden+Yards+Baltimore/loanDepot+park+Miami)
+- [Leg 2](https://www.google.com/maps/dir/loanDepot+park+Miami/Angel+Stadium+Anaheim/Dodger+Stadium+Los+Angeles/Kauffman+Stadium+Kansas+City/Daikin+Park+Houston/Coors+Field+Denver/T-Mobile+Park+Seattle/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Globe+Life+Field+Arlington)
+- [Leg 3](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia)
 
 # Trip Details
 1. Attend the game against the **St. Louis Cardinals** in Busch Stadium on **Mar 29 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/American+Family+Field+Milwaukee) 605.2 km / 376.1 miles to American Family Field.

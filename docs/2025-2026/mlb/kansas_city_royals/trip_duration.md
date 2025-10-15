@@ -11,7 +11,10 @@ title: Kansas City Royals, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 36367.2 km / 22597.6 miles
 - **Total Driving Duration:** 13 days, 21 hours, 10 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Truist+Park+Atlanta/Progressive+Field+Cleveland/Comerica+Park+Detroit/Yankee+Stadium+Bronx/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Busch+Stadium+St.+Louis/Globe+Life+Field+Arlington/Great+American+Ball+Park+Cincinnati/Target+Field+Minneapolis/Nationals+Park+Washington/George+M.+Steinbrenner+Field+Tampa/Rate+Field+Chicago/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/Coors+Field+Denver/Dodger+Stadium+Los+Angeles/Angel+Stadium+Anaheim/Rogers+Centre+Toronto/Fenway+Park+Boston/Daikin+Park+Houston/PNC+Park+Pittsburgh)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Truist+Park+Atlanta/Progressive+Field+Cleveland/Comerica+Park+Detroit/Yankee+Stadium+Bronx/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Busch+Stadium+St.+Louis/Globe+Life+Field+Arlington/Great+American+Ball+Park+Cincinnati/Target+Field+Minneapolis)
+- [Leg 2](https://www.google.com/maps/dir/Target+Field+Minneapolis/Nationals+Park+Washington/George+M.+Steinbrenner+Field+Tampa/Rate+Field+Chicago/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/Coors+Field+Denver/Dodger+Stadium+Los+Angeles/Angel+Stadium+Anaheim/Rogers+Centre+Toronto)
+- [Leg 3](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Fenway+Park+Boston/Daikin+Park+Houston/PNC+Park+Pittsburgh)
 
 # Trip Details
 1. Attend the game against the **Atlanta Braves** in Truist Park on **Mar 29 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Truist+Park+Atlanta/Progressive+Field+Cleveland) 1121.7 km / 697.0 miles to Progressive Field.

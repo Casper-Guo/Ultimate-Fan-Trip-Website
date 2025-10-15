@@ -11,7 +11,11 @@ title: Orlando Magic, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 36589.4 km / 22735.7 miles
 - **Total Driving Duration:** 14 days, 1 hours, 49 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 2](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA)
+- [Leg 3](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 4](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
 1. Attend the game against the **Houston Rockets** in Toyota Center on **Nov 16 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA) 2975.7 km / 1849.0 miles to TD Garden.

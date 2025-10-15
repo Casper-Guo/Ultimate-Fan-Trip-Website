@@ -11,7 +11,11 @@ title: Detroit Red Wings, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39500.8 km / 24544.7 miles
 - **Total Driving Duration:** 15 days, 6 hours, 13 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/UBS+Arena+New+York/Enterprise+Center+St.+Louis/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Madison+Square+Garden+New+York/TD+Garden+Boston/Nationwide+Arena+Columbus/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/United+Center+Chicago/Capital+One+Arena+Washington/Lenovo+Center+Carolina/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Ball+Arena+Colorado/Delta+Center+Utah/Bridgestone+Arena+Nashville/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/American+Airlines+Center+Dallas/KeyBank+Center+Buffalo/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/UBS+Arena+New+York/Enterprise+Center+St.+Louis/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Madison+Square+Garden+New+York/TD+Garden+Boston/Nationwide+Arena+Columbus/Climate+Pledge+Arena+Seattle)
+- [Leg 2](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/United+Center+Chicago/Capital+One+Arena+Washington/Lenovo+Center+Carolina/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Scotiabank+Arena+Toronto)
+- [Leg 3](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Ball+Arena+Colorado/Delta+Center+Utah/Bridgestone+Arena+Nashville/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/American+Airlines+Center+Dallas)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/KeyBank+Center+Buffalo/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia)
 
 # Trip Details
 1. Attend the game against the **New York Islanders** in UBS Arena on **Oct 23 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/UBS+Arena+New+York/Enterprise+Center+St.+Louis) 1589.8 km / 987.8 miles to Enterprise Center.

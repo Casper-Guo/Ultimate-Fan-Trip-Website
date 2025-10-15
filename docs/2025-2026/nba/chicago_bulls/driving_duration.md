@@ -11,7 +11,11 @@ title: Chicago Bulls, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 43094.6 km / 26777.8 miles
 - **Total Driving Duration:** 16 days, 10 hours, 35 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/American+Airlines+Center+Dallas+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/State+Farm+Arena+Atlanta+GA)
+- [Leg 2](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA)
+- [Leg 3](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC)
+- [Leg 4](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/American+Airlines+Center+Dallas+TX)
 
 # Trip Details
 1. Attend the game against the **Milwaukee Bucks** in Fiserv Forum on **Nov 07 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH) 715.9 km / 444.8 miles to Rocket Arena.

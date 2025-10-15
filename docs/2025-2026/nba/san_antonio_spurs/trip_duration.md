@@ -11,7 +11,11 @@ title: San Antonio Spurs, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 54906.8 km / 34117.6 miles
 - **Total Driving Duration:** 20 days, 19 hours, 52 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/United+Center+Chicago+IL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Target+Center+Minneapolis+MN/Kia+Center+Orlando+FL/Rocket+Arena+Cleveland+OH/Smoothie+King+Center+New+Orleans+LA/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Paycom+Center+Oklahoma+City+OK/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/Delta+Center+Salt+Lake+City+UT/Toyota+Center+Houston+TX/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Golden+1+Center+Sacramento+CA/Kaseya+Center+Miami+FL/FedExForum+Memphis+TN/Fiserv+Forum+Milwaukee+WI/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/United+Center+Chicago+IL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Target+Center+Minneapolis+MN/Kia+Center+Orlando+FL/Rocket+Arena+Cleveland+OH/Smoothie+King+Center+New+Orleans+LA/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Paycom+Center+Oklahoma+City+OK)
+- [Leg 2](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/Delta+Center+Salt+Lake+City+UT/Toyota+Center+Houston+TX/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Little+Caesars+Arena+Detroit+MI)
+- [Leg 3](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Golden+1+Center+Sacramento+CA/Kaseya+Center+Miami+FL/FedExForum+Memphis+TN/Fiserv+Forum+Milwaukee+WI/Intuit+Dome+Inglewood+CA)
+- [Leg 4](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO)
 
 # Trip Details
 1. Attend the game against the **Chicago Bulls** in United Center on **Nov 10 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago+IL/PHX+Arena+Phoenix+AZ) 2823.0 km / 1754.1 miles to PHX Arena.

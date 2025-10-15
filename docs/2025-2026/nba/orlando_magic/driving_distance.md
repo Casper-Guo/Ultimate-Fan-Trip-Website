@@ -11,7 +11,11 @@ title: Orlando Magic, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 35673.0 km / 22166.2 miles
 - **Total Driving Duration:** 13 days, 17 hours, 8 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA)
+- [Leg 2](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA)
+- [Leg 3](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 4](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
 1. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA) 393.2 km / 244.4 miles to State Farm Arena.

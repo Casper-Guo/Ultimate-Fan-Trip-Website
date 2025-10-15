@@ -11,7 +11,11 @@ title: Buffalo Sabres, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 40125.4 km / 24932.8 miles
 - **Total Driving Duration:** 15 days, 12 hours, 21 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/PPG+Paints+Arena+Pittsburgh/Grand+Casino+Arena+Minnesota/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/UBS+Arena+New+York/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/United+Center+Chicago)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Delta+Center+Utah/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/PPG+Paints+Arena+Pittsburgh/Grand+Casino+Arena+Minnesota/Xfinity+Mobile+Arena+Philadelphia/Canada+Life+Centre+Winnipeg)
+- [Leg 2](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville)
+- [Leg 3](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/UBS+Arena+New+York/Prudential+Center+New+Jersey/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Canadian+Tire+Centre+Ottawa)
+- [Leg 4](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/United+Center+Chicago)
 
 # Trip Details
 1. Attend the game against the **Boston Bruins** in TD Garden on **Oct 11 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston/Centre+Bell+Montréal) 496.7 km / 308.6 miles to Centre Bell.

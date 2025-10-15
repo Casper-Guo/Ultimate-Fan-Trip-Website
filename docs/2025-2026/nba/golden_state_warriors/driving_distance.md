@@ -11,7 +11,11 @@ title: Golden State Warriors, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 34186.1 km / 21242.3 miles
 - **Total Driving Duration:** 13 days, 2 hours, 53 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Crypto.com+Arena+Los+Angeles+CA/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Rocket+Arena+Cleveland+OH)
+- [Leg 2](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Scotiabank+Arena+Toronto+ON/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Crypto.com+Arena+Los+Angeles+CA/FedExForum+Memphis+TN)
+- [Leg 3](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Capital+One+Arena+Washington+DC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA)
+- [Leg 4](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA)
 
 # Trip Details
 1. Attend the game against the **Portland Trail Blazers** in Moda Center on **Oct 24 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Fiserv+Forum+Milwaukee+WI) 3286.6 km / 2042.2 miles to Fiserv Forum.

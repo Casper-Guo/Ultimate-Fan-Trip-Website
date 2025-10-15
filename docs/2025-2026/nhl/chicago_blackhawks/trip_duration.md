@@ -11,7 +11,11 @@ title: Chicago Blackhawks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44844.7 km / 27865.3 miles
 - **Total Driving Duration:** 17 days, 10 hours, 11 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/Lenovo+Center+Carolina/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas/Delta+Center+Utah/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/SAP+Center+at+San+Jose+San+Jose)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim)
+- [Leg 2](https://www.google.com/maps/dir/Honda+Center+Anaheim/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/Lenovo+Center+Carolina/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/Bridgestone+Arena+Nashville)
+- [Leg 3](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas/Delta+Center+Utah/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey)
+- [Leg 4](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/SAP+Center+at+San+Jose+San+Jose)
 
 # Trip Details
 1. Attend the game against the **Florida Panthers** in Amerant Bank Arena on **Oct 07 2025, 05:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/TD+Garden+Boston) 2367.6 km / 1471.2 miles to TD Garden.

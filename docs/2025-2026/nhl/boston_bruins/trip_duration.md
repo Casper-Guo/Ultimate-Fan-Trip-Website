@@ -11,7 +11,11 @@ title: Boston Bruins, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 40448.2 km / 25133.4 miles
 - **Total Driving Duration:** 15 days, 16 hours, 8 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Delta+Center+Utah/UBS+Arena+New+York/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/United+Center+Chicago/American+Airlines+Center+Dallas/Madison+Square+Garden+New+York/Raymond+James+Stadium+Tampa+Bay/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh/Capital+One+Arena+Washington/Prudential+Center+New+Jersey/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Delta+Center+Utah/UBS+Arena+New+York/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis)
+- [Leg 2](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/United+Center+Chicago/American+Airlines+Center+Dallas/Madison+Square+Garden+New+York)
+- [Leg 3](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Raymond+James+Stadium+Tampa+Bay/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh/Capital+One+Arena+Washington/Prudential+Center+New+Jersey/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo)
+- [Leg 4](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina)
 
 # Trip Details
 1. Attend the game against the **Vegas Golden Knights** in T-Mobile Arena on **Oct 16 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Ball+Arena+Colorado) 1210.8 km / 752.3 miles to Ball Arena.

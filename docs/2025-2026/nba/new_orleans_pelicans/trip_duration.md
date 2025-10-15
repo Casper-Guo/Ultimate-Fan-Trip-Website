@@ -11,7 +11,11 @@ title: New Orleans Pelicans, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46787.0 km / 29072.2 miles
 - **Total Driving Duration:** 17 days, 19 hours, 4 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/American+Airlines+Center+Dallas+TX/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Kia+Center+Orlando+FL/Gainbridge+Fieldhouse+Indianapolis+IN/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/TD+Garden+Boston+MA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/American+Airlines+Center+Dallas+TX/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC)
+- [Leg 2](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/Kia+Center+Orlando+FL/Gainbridge+Fieldhouse+Indianapolis+IN/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN)
+- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR)
+- [Leg 4](https://www.google.com/maps/dir/Moda+Center+Portland+OR/TD+Garden+Boston+MA)
 
 # Trip Details
 1. Attend the game against the **Denver Nuggets** in Ball Arena on **Oct 29 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ) 1319.9 km / 820.1 miles to PHX Arena.

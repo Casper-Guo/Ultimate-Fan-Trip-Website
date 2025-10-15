@@ -11,7 +11,11 @@ title: Nashville Predators, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44037.1 km / 27363.5 miles
 - **Total Driving Duration:** 16 days, 23 hours, 44 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Xfinity+Mobile+Arena+Philadelphia/Grand+Casino+Arena+Minnesota/Madison+Square+Garden+New+York/Little+Caesars+Arena+Detroit/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Enterprise+Center+St.+Louis/Delta+Center+Utah/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/TD+Garden+Boston/Prudential+Center+New+Jersey/UBS+Arena+New+York/Capital+One+Arena+Washington/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/KeyBank+Center+Buffalo/Rogers+Arena+Vancouver/Canada+Life+Centre+Winnipeg/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Xfinity+Mobile+Arena+Philadelphia/Grand+Casino+Arena+Minnesota/Madison+Square+Garden+New+York/Little+Caesars+Arena+Detroit/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Enterprise+Center+St.+Louis)
+- [Leg 2](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Delta+Center+Utah/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/TD+Garden+Boston/Prudential+Center+New+Jersey/UBS+Arena+New+York)
+- [Leg 3](https://www.google.com/maps/dir/UBS+Arena+New+York/Capital+One+Arena+Washington/American+Airlines+Center+Dallas/Nationwide+Arena+Columbus/KeyBank+Center+Buffalo/Rogers+Arena+Vancouver/Canada+Life+Centre+Winnipeg/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/SAP+Center+at+San+Jose+San+Jose)
+- [Leg 4](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim)
 
 # Trip Details
 1. Attend the game against the **Ottawa Senators** in Canadian Tire Centre on **Oct 13 2025, 01:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto) 411.2 km / 255.5 miles to Scotiabank Arena.

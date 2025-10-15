@@ -11,7 +11,11 @@ title: Edmonton Oilers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 45740.5 km / 28421.9 miles
 - **Total Driving Duration:** 17 days, 19 hours, 53 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/UBS+Arena+New+York/Prudential+Center+New+Jersey/Little+Caesars+Arena+Detroit/Canadian+Tire+Centre+Ottawa/Rogers+Arena+Vancouver/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/KeyBank+Center+Buffalo/Capital+One+Arena+Washington/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Climate+Pledge+Arena+Seattle/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/United+Center+Chicago/Bridgestone+Arena+Nashville/Scotiabank+Saddledome+Calgary/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/Delta+Center+Utah)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/UBS+Arena+New+York/Prudential+Center+New+Jersey/Little+Caesars+Arena+Detroit/Canadian+Tire+Centre+Ottawa/Rogers+Arena+Vancouver/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/KeyBank+Center+Buffalo)
+- [Leg 2](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Capital+One+Arena+Washington/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Climate+Pledge+Arena+Seattle/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Grand+Casino+Arena+Minnesota)
+- [Leg 3](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/United+Center+Chicago/Bridgestone+Arena+Nashville/Scotiabank+Saddledome+Calgary/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Ball+Arena+Colorado)
+- [Leg 4](https://www.google.com/maps/dir/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/Delta+Center+Utah)
 
 # Trip Details
 1. Attend the game against the **New York Rangers** in Madison Square Garden on **Oct 14 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/UBS+Arena+New+York) 29.5 km / 18.4 miles to UBS Arena.

@@ -11,7 +11,10 @@ title: Detroit Tigers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39803.5 km / 24732.8 miles
 - **Total Driving Duration:** 15 days, 4 hours, 46 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Petco+Park+San+Diego/Chase+Field+Phoenix/Target+Field+Minneapolis/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati/Truist+Park+Atlanta/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/Rate+Field+Chicago/George+M.+Steinbrenner+Field+Tampa/Progressive+Field+Cleveland/Daikin+Park+Houston/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington/Angel+Stadium+Anaheim/Wrigley+Field+Chicago/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh/Kauffman+Stadium+Kansas+City/Rogers+Centre+Toronto)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Petco+Park+San+Diego/Chase+Field+Phoenix/Target+Field+Minneapolis/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati/Truist+Park+Atlanta/Citi+Field+Flushing/Oriole+Park+at+Camden+Yards+Baltimore/Rate+Field+Chicago/George+M.+Steinbrenner+Field+Tampa)
+- [Leg 2](https://www.google.com/maps/dir/George+M.+Steinbrenner+Field+Tampa/Progressive+Field+Cleveland/Daikin+Park+Houston/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington/Angel+Stadium+Anaheim/Wrigley+Field+Chicago/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco)
+- [Leg 3](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh/Kauffman+Stadium+Kansas+City/Rogers+Centre+Toronto)
 
 # Trip Details
 1. Attend the game against the **San Diego Padres** in Petco Park on **Mar 28 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Petco+Park+San+Diego/Chase+Field+Phoenix) 571.6 km / 355.2 miles to Chase Field.

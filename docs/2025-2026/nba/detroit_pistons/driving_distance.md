@@ -11,7 +11,11 @@ title: Detroit Pistons, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 44447.9 km / 27618.7 miles
 - **Total Driving Duration:** 16 days, 23 hours, 11 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Rocket+Arena+Cleveland+OH/Smoothie+King+Center+New+Orleans+LA/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Frost+Bank+Center+San+Antonio+TX/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX/Moda+Center+Portland+OR)
+- [Leg 2](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Rocket+Arena+Cleveland+OH/Smoothie+King+Center+New+Orleans+LA/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA)
+- [Leg 3](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Frost+Bank+Center+San+Antonio+TX/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Kia+Center+Orlando+FL)
+- [Leg 4](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC)
 
 # Trip Details
 1. Attend the game against the **Houston Rockets** in Toyota Center on **Oct 24 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/FedExForum+Memphis+TN) 917.2 km / 569.9 miles to FedExForum.

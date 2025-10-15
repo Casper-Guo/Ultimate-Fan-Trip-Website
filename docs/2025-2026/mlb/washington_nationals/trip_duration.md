@@ -11,7 +11,10 @@ title: Washington Nationals, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 37379.8 km / 23226.8 miles
 - **Total Driving Duration:** 14 days, 4 hours, 54 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Wrigley+Field+Chicago/American+Family+Field+Milwaukee/PNC+Park+Pittsburgh/Rate+Field+Chicago/Citi+Field+Flushing/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati/Progressive+Field+Cleveland/Chase+Field+Phoenix/Oracle+Park+San+Francisco/George+M.+Steinbrenner+Field+Tampa/Oriole+Park+at+Camden+Yards+Baltimore/Fenway+Park+Boston/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Truist+Park+Atlanta/Citizens+Bank+Park+Philadelphia/Globe+Life+Field+Arlington/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego/Busch+Stadium+St.+Louis/Comerica+Park+Detroit)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Wrigley+Field+Chicago/American+Family+Field+Milwaukee/PNC+Park+Pittsburgh/Rate+Field+Chicago/Citi+Field+Flushing/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati/Progressive+Field+Cleveland/Chase+Field+Phoenix/Oracle+Park+San+Francisco)
+- [Leg 2](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/George+M.+Steinbrenner+Field+Tampa/Oriole+Park+at+Camden+Yards+Baltimore/Fenway+Park+Boston/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Truist+Park+Atlanta/Citizens+Bank+Park+Philadelphia/Globe+Life+Field+Arlington/Dodger+Stadium+Los+Angeles)
+- [Leg 3](https://www.google.com/maps/dir/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego/Busch+Stadium+St.+Louis/Comerica+Park+Detroit)
 
 # Trip Details
 1. Attend the game against the **Chicago Cubs** in Wrigley Field on **Mar 29 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/American+Family+Field+Milwaukee) 145.7 km / 90.5 miles to American Family Field.

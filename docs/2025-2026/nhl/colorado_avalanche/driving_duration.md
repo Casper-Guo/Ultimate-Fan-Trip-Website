@@ -11,7 +11,11 @@ title: Colorado Avalanche, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 40134.9 km / 24938.7 miles
 - **Total Driving Duration:** 15 days, 12 hours, 3 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/TD+Garden+Boston/Prudential+Center+New+Jersey/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Rogers+Arena+Vancouver/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/Madison+Square+Garden+New+York/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit/Delta+Center+Utah/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Climate+Pledge+Arena+Seattle/United+Center+Chicago/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus/TD+Garden+Boston/Prudential+Center+New+Jersey/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Rogers+Arena+Vancouver/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/Madison+Square+Garden+New+York)
+- [Leg 2](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Xfinity+Mobile+Arena+Philadelphia/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Little+Caesars+Arena+Detroit)
+- [Leg 3](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Delta+Center+Utah/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Climate+Pledge+Arena+Seattle/United+Center+Chicago/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary)
 
 # Trip Details
 1. Attend the game against the **Buffalo Sabres** in KeyBank Center on **Oct 13 2025, 12:30PM EDT**. Then [drive](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Nationwide+Arena+Columbus) 528.6 km / 328.4 miles to Nationwide Arena.

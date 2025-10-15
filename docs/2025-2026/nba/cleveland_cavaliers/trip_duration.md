@@ -11,7 +11,11 @@ title: Cleveland Cavaliers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46900.4 km / 29142.6 miles
 - **Total Driving Duration:** 17 days, 22 hours, 41 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/Madison+Square+Garden+New+York+NY/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX/Target+Center+Minneapolis+MN/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK/Little+Caesars+Arena+Detroit+MI/Barclays+Center+Brooklyn+NY/American+Airlines+Center+Dallas+TX/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/FedExForum+Memphis+TN)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/Madison+Square+Garden+New+York+NY/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX/Target+Center+Minneapolis+MN)
+- [Leg 2](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK)
+- [Leg 3](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Little+Caesars+Arena+Detroit+MI/Barclays+Center+Brooklyn+NY/American+Airlines+Center+Dallas+TX/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA)
+- [Leg 4](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/FedExForum+Memphis+TN)
 
 # Trip Details
 1. Attend the game against the **Boston Celtics** in TD Garden on **Oct 29 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC) 707.6 km / 439.7 miles to Capital One Arena.

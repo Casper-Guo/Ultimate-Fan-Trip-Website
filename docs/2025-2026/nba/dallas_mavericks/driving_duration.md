@@ -11,7 +11,11 @@ title: Dallas Mavericks, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 42343.4 km / 26311.1 miles
 - **Total Driving Duration:** 16 days, 6 hours, 47 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Smoothie+King+Center+New+Orleans+LA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Capital+One+Arena+Washington+DC/Kaseya+Center+Miami+FL/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Paycom+Center+Oklahoma+City+OK/Xfinity+Mobile+Arena+Philadelphia+PA/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 3](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Scotiabank+Arena+Toronto+ON/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ)
+- [Leg 4](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX)
 
 # Trip Details
 1. Attend the game against the **Detroit Pistons** in Arena CDMX on **Nov 01 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Arena+CDMX+Mexico+City+MX/Toyota+Center+Houston+TX) 1490.1 km / 925.9 miles to Toyota Center.

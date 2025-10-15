@@ -11,7 +11,10 @@ title: Cleveland Guardians, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41240.8 km / 25625.9 miles
 - **Total Driving Duration:** 15 days, 15 hours, 12 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/Truist+Park+Atlanta/Busch+Stadium+St.+Louis/Rogers+Centre+Toronto/Sutter+Health+Park+Sacramento/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington/American+Family+Field+Milwaukee/Daikin+Park+Houston/loanDepot+park+Miami/George+M.+Steinbrenner+Field+Tampa/Great+American+Ball+Park+Cincinnati/Rate+Field+Chicago/Comerica+Park+Detroit/Coors+Field+Denver/Angel+Stadium+Anaheim/Oriole+Park+at+Camden+Yards+Baltimore/Target+Field+Minneapolis/Fenway+Park+Boston/Kauffman+Stadium+Kansas+City)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/Truist+Park+Atlanta/Busch+Stadium+St.+Louis/Rogers+Centre+Toronto/Sutter+Health+Park+Sacramento/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington/American+Family+Field+Milwaukee)
+- [Leg 2](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/Daikin+Park+Houston/loanDepot+park+Miami/George+M.+Steinbrenner+Field+Tampa/Great+American+Ball+Park+Cincinnati/Rate+Field+Chicago/Comerica+Park+Detroit/Coors+Field+Denver/Angel+Stadium+Anaheim/Oriole+Park+at+Camden+Yards+Baltimore)
+- [Leg 3](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Target+Field+Minneapolis/Fenway+Park+Boston/Kauffman+Stadium+Kansas+City)
 
 # Trip Details
 1. Attend the game against the **Seattle Mariners** in T-Mobile Park on **Mar 28 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles) 1824.1 km / 1133.5 miles to Dodger Stadium.

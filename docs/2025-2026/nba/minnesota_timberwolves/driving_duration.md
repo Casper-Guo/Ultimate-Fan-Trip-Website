@@ -11,7 +11,11 @@ title: Minnesota Timberwolves, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 40161.3 km / 24955.2 miles
 - **Total Driving Duration:** 15 days, 7 hours, 51 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA/United+Center+Chicago+IL/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX/American+Airlines+Center+Dallas+TX/FedExForum+Memphis+TN/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/Xfinity+Mobile+Arena+Philadelphia+PA/Gainbridge+Fieldhouse+Indianapolis+IN/Kia+Center+Orlando+FL)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA/United+Center+Chicago+IL/State+Farm+Arena+Atlanta+GA)
+- [Leg 2](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Toyota+Center+Houston+TX/Frost+Bank+Center+San+Antonio+TX/American+Airlines+Center+Dallas+TX/FedExForum+Memphis+TN/Scotiabank+Arena+Toronto+ON)
+- [Leg 3](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/Xfinity+Mobile+Arena+Philadelphia+PA/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 4](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Kia+Center+Orlando+FL)
 
 # Trip Details
 1. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Nov 01 2025, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Barclays+Center+Brooklyn+NY) 1009.9 km / 627.5 miles to Barclays Center.

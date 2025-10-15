@@ -11,7 +11,10 @@ title: Miami Marlins, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 33959.6 km / 21101.5 miles
 - **Total Driving Duration:** 12 days, 23 hours, 33 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Comerica+Park+Detroit/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Rogers+Centre+Toronto/Citi+Field+Flushing/Nationals+Park+Washington/PNC+Park+Pittsburgh/Citizens+Bank+Park+Philadelphia/Busch+Stadium+St.+Louis/Coors+Field+Denver/Sutter+Health+Park+Sacramento/American+Family+Field+Milwaukee/Daikin+Park+Houston/Truist+Park+Atlanta/Great+American+Ball+Park+Cincinnati/Kauffman+Stadium+Kansas+City/Chase+Field+Phoenix/Petco+Park+San+Diego/Wrigley+Field+Chicago)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Comerica+Park+Detroit/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Rogers+Centre+Toronto/Citi+Field+Flushing/Nationals+Park+Washington/PNC+Park+Pittsburgh)
+- [Leg 2](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Citizens+Bank+Park+Philadelphia/Busch+Stadium+St.+Louis/Coors+Field+Denver/Sutter+Health+Park+Sacramento/American+Family+Field+Milwaukee/Daikin+Park+Houston/Truist+Park+Atlanta/Great+American+Ball+Park+Cincinnati/Kauffman+Stadium+Kansas+City)
+- [Leg 3](https://www.google.com/maps/dir/Kauffman+Stadium+Kansas+City/Chase+Field+Phoenix/Petco+Park+San+Diego/Wrigley+Field+Chicago)
 
 # Trip Details
 1. Attend the game against the **New York Yankees** in Yankee Stadium on **Apr 05 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Yankee+Stadium+Bronx/Comerica+Park+Detroit) 995.0 km / 618.3 miles to Comerica Park.

@@ -11,7 +11,11 @@ title: Oklahoma City Thunder, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 48401.9 km / 30075.6 miles
 - **Total Driving Duration:** 18 days, 11 hours, 20 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Spectrum+Center+Charlotte+NC/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Target+Center+Minneapolis+MN/Chase+Center+San+Francisco+CA/PHX+Arena+Phoenix+AZ/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA/Scotiabank+Arena+Toronto+ON/Little+Caesars+Arena+Detroit+MI/American+Airlines+Center+Dallas+TX/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Spectrum+Center+Charlotte+NC/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/Target+Center+Minneapolis+MN/Chase+Center+San+Francisco+CA)
+- [Leg 2](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/PHX+Arena+Phoenix+AZ/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA)
+- [Leg 3](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Scotiabank+Arena+Toronto+ON/Little+Caesars+Arena+Detroit+MI/American+Airlines+Center+Dallas+TX/United+Center+Chicago+IL/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Xfinity+Mobile+Arena+Philadelphia+PA)
+- [Leg 4](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA)
 
 # Trip Details
 1. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Oct 23 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA) 855.8 km / 531.8 miles to State Farm Arena.

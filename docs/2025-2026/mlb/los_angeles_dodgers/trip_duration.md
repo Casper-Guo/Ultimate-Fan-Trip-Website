@@ -11,7 +11,10 @@ title: Los Angeles Dodgers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 38993.3 km / 24229.4 miles
 - **Total Driving Duration:** 14 days, 19 hours, 27 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Nationals+Park+Washington/Rogers+Centre+Toronto/Coors+Field+Denver/Oracle+Park+San+Francisco/Busch+Stadium+St.+Louis/Daikin+Park+Houston/Angel+Stadium+Anaheim/American+Family+Field+Milwaukee/PNC+Park+Pittsburgh/Rate+Field+Chicago/Target+Field+Minneapolis/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia/Citi+Field+Flushing/Wrigley+Field+Chicago/Chase+Field+Phoenix/Truist+Park+Atlanta/Comerica+Park+Detroit/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Nationals+Park+Washington/Rogers+Centre+Toronto/Coors+Field+Denver/Oracle+Park+San+Francisco/Busch+Stadium+St.+Louis/Daikin+Park+Houston/Angel+Stadium+Anaheim/American+Family+Field+Milwaukee/PNC+Park+Pittsburgh/Rate+Field+Chicago)
+- [Leg 2](https://www.google.com/maps/dir/Rate+Field+Chicago/Target+Field+Minneapolis/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia/Citi+Field+Flushing/Wrigley+Field+Chicago/Chase+Field+Phoenix/Truist+Park+Atlanta)
+- [Leg 3](https://www.google.com/maps/dir/Truist+Park+Atlanta/Comerica+Park+Detroit/loanDepot+park+Miami/Great+American+Ball+Park+Cincinnati)
 
 # Trip Details
 1. Attend the game against the **Washington Nationals** in Nationals Park on **Apr 05 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Nationals+Park+Washington/Rogers+Centre+Toronto) 774.7 km / 481.4 miles to Rogers Centre.
