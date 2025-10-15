@@ -11,7 +11,11 @@ title: Utah Mammoth, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41666.9 km / 25890.7 miles
 - **Total Driving Duration:** 16 days, 3 hours, 58 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/United+Center+Chicago/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Rogers+Arena+Vancouver)
+- [Leg 2](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville)
+- [Leg 3](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/United+Center+Chicago/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle)
 
 # Trip Details
 1. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Oct 26 2025, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton) 1304.9 km / 810.8 miles to Rogers Place.

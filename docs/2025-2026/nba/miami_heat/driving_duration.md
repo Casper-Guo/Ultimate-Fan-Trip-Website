@@ -11,7 +11,11 @@ title: Miami Heat, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 33194.3 km / 20626.1 miles
 - **Total Driving Duration:** 12 days, 17 hours, 56 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Toyota+Center+Houston+TX/Rocket+Arena+Cleveland+OH/Gainbridge+Fieldhouse+Indianapolis+IN/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Ball+Arena+Denver+CO/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/TD+Garden+Boston+MA/Madison+Square+Garden+New+York+NY)
+- [Leg 2](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/Chase+Center+San+Francisco+CA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ)
+- [Leg 3](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Toyota+Center+Houston+TX/Rocket+Arena+Cleveland+OH/Gainbridge+Fieldhouse+Indianapolis+IN/Scotiabank+Arena+Toronto+ON)
+- [Leg 4](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC)
 
 # Trip Details
 1. Attend the game against the **Memphis Grizzlies** in FedExForum on **Oct 24 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Frost+Bank+Center+San+Antonio+TX) 1166.4 km / 724.8 miles to Frost Bank Center.

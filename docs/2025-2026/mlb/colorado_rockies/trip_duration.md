@@ -11,7 +11,10 @@ title: Colorado Rockies, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 34882.0 km / 21674.7 miles
 - **Total Driving Duration:** 13 days, 6 hours, 12 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/loanDepot+park+Miami/Rogers+Centre+Toronto/Petco+Park+San+Diego/Daikin+Park+Houston/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati/Citizens+Bank+Park+Philadelphia/PNC+Park+Pittsburgh/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Las+Vegas+Ballpark+Las+Vegas/Wrigley+Field+Chicago/Target+Field+Minneapolis/Dodger+Stadium+Los+Angeles/Oracle+Park+San+Francisco/American+Family+Field+Milwaukee/Busch+Stadium+St.+Louis/Nationals+Park+Washington/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Comerica+Park+Detroit/Rate+Field+Chicago)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/loanDepot+park+Miami/Rogers+Centre+Toronto/Petco+Park+San+Diego/Daikin+Park+Houston/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati/Citizens+Bank+Park+Philadelphia/PNC+Park+Pittsburgh/Chase+Field+Phoenix/Angel+Stadium+Anaheim)
+- [Leg 2](https://www.google.com/maps/dir/Angel+Stadium+Anaheim/Las+Vegas+Ballpark+Las+Vegas/Wrigley+Field+Chicago/Target+Field+Minneapolis/Dodger+Stadium+Los+Angeles/Oracle+Park+San+Francisco/American+Family+Field+Milwaukee/Busch+Stadium+St.+Louis/Nationals+Park+Washington/Truist+Park+Atlanta)
+- [Leg 3](https://www.google.com/maps/dir/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Comerica+Park+Detroit/Rate+Field+Chicago)
 
 # Trip Details
 1. Attend the game against the **Miami Marlins** in loanDepot park on **Mar 28 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/loanDepot+park+Miami/Rogers+Centre+Toronto) 2395.8 km / 1488.7 miles to Rogers Centre.

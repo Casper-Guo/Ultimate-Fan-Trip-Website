@@ -11,7 +11,11 @@ title: Boston Celtics, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 39323.4 km / 24434.5 miles
 - **Total Driving Duration:** 14 days, 23 hours, 14 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Capital+One+Arena+Washington+DC/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Capital+One+Arena+Washington+DC/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT)
+- [Leg 2](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Gainbridge+Fieldhouse+Indianapolis+IN/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX)
+- [Leg 3](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN)
+- [Leg 4](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC)
 
 # Trip Details
 1. Attend the game against the **New York Knicks** in Madison Square Garden on **Oct 24 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Smoothie+King+Center+New+Orleans+LA) 2103.4 km / 1307.0 miles to Smoothie King Center.

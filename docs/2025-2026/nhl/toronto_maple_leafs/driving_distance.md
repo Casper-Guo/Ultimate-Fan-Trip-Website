@@ -11,7 +11,11 @@ title: Toronto Maple Leafs, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36150.7 km / 22463.0 miles
 - **Total Driving Duration:** 14 days, 4 hours, 11 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/United+Center+Chicago/Nationwide+Arena+Columbus/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Bridgestone+Arena+Nashville/American+Airlines+Center+Dallas/Little+Caesars+Arena+Detroit/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Centre+Bell+Montréal/KeyBank+Center+Buffalo/Grand+Casino+Arena+Minnesota/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston/Enterprise+Center+St.+Louis/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/United+Center+Chicago/Nationwide+Arena+Columbus/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Bridgestone+Arena+Nashville/American+Airlines+Center+Dallas/Little+Caesars+Arena+Detroit/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 2](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Benchmark+International+Arena+Tampa+Bay)
+- [Leg 3](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Centre+Bell+Montréal/KeyBank+Center+Buffalo/Grand+Casino+Arena+Minnesota/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston/Enterprise+Center+St.+Louis)
+- [Leg 4](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles)
 
 # Trip Details
 1. Attend the game against the **Chicago Blackhawks** in United Center on **Nov 15 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago/Nationwide+Arena+Columbus) 573.6 km / 356.4 miles to Nationwide Arena.

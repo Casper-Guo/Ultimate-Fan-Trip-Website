@@ -11,7 +11,11 @@ title: Los Angeles Lakers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 43555.1 km / 27064.0 miles
 - **Total Driving Duration:** 16 days, 14 hours, 16 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK/Fiserv+Forum+Milwaukee+WI/Delta+Center+Salt+Lake+City+UT/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/American+Airlines+Center+Dallas+TX/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Chase+Center+San+Francisco+CA/Ball+Arena+Denver+CO/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Little+Caesars+Arena+Detroit+MI/Gainbridge+Fieldhouse+Indianapolis+IN)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK/Fiserv+Forum+Milwaukee+WI/Delta+Center+Salt+Lake+City+UT/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA)
+- [Leg 2](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/American+Airlines+Center+Dallas+TX/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH)
+- [Leg 3](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Chase+Center+San+Francisco+CA/Ball+Arena+Denver+CO/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Little+Caesars+Arena+Detroit+MI)
+- [Leg 4](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Gainbridge+Fieldhouse+Indianapolis+IN)
 
 # Trip Details
 1. Attend the game against the **Minnesota Timberwolves** in Target Center on **Oct 29 2025, 09:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN) 1300.5 km / 808.1 miles to FedExForum.

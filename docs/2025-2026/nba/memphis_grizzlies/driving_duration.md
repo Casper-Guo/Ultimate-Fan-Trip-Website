@@ -11,7 +11,11 @@ title: Memphis Grizzlies, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 44700.8 km / 27775.9 miles
 - **Total Driving Duration:** 17 days, 0 hours, 28 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/TD+Garden+Boston+MA/Rocket+Arena+Cleveland+OH/American+Airlines+Center+Dallas+TX/Intuit+Dome+Inglewood+CA/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Capital+One+Arena+Washington+DC/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON/Madison+Square+Garden+New+York+NY/TD+Garden+Boston+MA/Rocket+Arena+Cleveland+OH/American+Airlines+Center+Dallas+TX/Intuit+Dome+Inglewood+CA/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Capital+One+Arena+Washington+DC)
+- [Leg 2](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Smoothie+King+Center+New+Orleans+LA/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Chase+Center+San+Francisco+CA/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN)
+- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT)
+- [Leg 4](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT)
 
 # Trip Details
 1. Attend the game against the **Phoenix Suns** in PHX Arena on **Oct 29 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Scotiabank+Arena+Toronto+ON) 3560.5 km / 2212.4 miles to Scotiabank Arena.

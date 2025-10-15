@@ -11,7 +11,11 @@ title: Minnesota Wild, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36594.7 km / 22738.9 miles
 - **Total Driving Duration:** 14 days, 4 hours, 54 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Delta+Center+Utah/Ball+Arena+Colorado/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Little+Caesars+Arena+Detroit/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary)
+- [Leg 2](https://www.google.com/maps/dir/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto)
+- [Leg 3](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Delta+Center+Utah/Ball+Arena+Colorado/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Little+Caesars+Arena+Detroit)
+- [Leg 4](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis)
 
 # Trip Details
 1. Attend the game against the **Washington Capitals** in Capital One Arena on **Oct 17 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia) 216.7 km / 134.6 miles to Xfinity Mobile Arena.

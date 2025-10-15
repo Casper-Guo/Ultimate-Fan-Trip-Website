@@ -11,7 +11,10 @@ title: Cincinnati Reds, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 40429.7 km / 25121.9 miles
 - **Total Driving Duration:** 15 days, 8 hours, 38 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/loanDepot+park+Miami/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Wrigley+Field+Chicago/Progressive+Field+Cleveland/Citizens+Bank+Park+Philadelphia/Citi+Field+Flushing/Busch+Stadium+St.+Louis/Petco+Park+San+Diego/Yankee+Stadium+Bronx/PNC+Park+Pittsburgh/American+Family+Field+Milwaukee/Coors+Field+Denver/T-Mobile+Park+Seattle/Nationals+Park+Washington/Rate+Field+Chicago/Chase+Field+Phoenix/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Truist+Park+Atlanta/Rogers+Centre+Toronto)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/loanDepot+park+Miami/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Wrigley+Field+Chicago/Progressive+Field+Cleveland/Citizens+Bank+Park+Philadelphia/Citi+Field+Flushing/Busch+Stadium+St.+Louis/Petco+Park+San+Diego)
+- [Leg 2](https://www.google.com/maps/dir/Petco+Park+San+Diego/Yankee+Stadium+Bronx/PNC+Park+Pittsburgh/American+Family+Field+Milwaukee/Coors+Field+Denver/T-Mobile+Park+Seattle/Nationals+Park+Washington/Rate+Field+Chicago/Chase+Field+Phoenix/Oracle+Park+San+Francisco)
+- [Leg 3](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Truist+Park+Atlanta/Rogers+Centre+Toronto)
 
 # Trip Details
 1. Attend the game against the **Texas Rangers** in Globe Life Field on **Apr 03 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/loanDepot+park+Miami) 2136.3 km / 1327.5 miles to loanDepot park.

@@ -11,7 +11,11 @@ title: Indiana Pacers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44064.0 km / 27380.2 miles
 - **Total Driving Duration:** 16 days, 20 hours, 21 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Toyota+Center+Houston+TX/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Little+Caesars+Arena+Detroit+MI/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Madison+Square+Garden+New+York+NY/Frost+Bank+Center+San+Antonio+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/United+Center+Chicago+IL)
+- [Leg 2](https://www.google.com/maps/dir/United+Center+Chicago+IL/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Toyota+Center+Houston+TX/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Little+Caesars+Arena+Detroit+MI/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Paycom+Center+Oklahoma+City+OK)
+- [Leg 3](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/State+Farm+Arena+Atlanta+GA/Fiserv+Forum+Milwaukee+WI/Barclays+Center+Brooklyn+NY/Capital+One+Arena+Washington+DC/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Madison+Square+Garden+New+York+NY)
+- [Leg 4](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Frost+Bank+Center+San+Antonio+TX)
 
 # Trip Details
 1. Attend the game against the **Memphis Grizzlies** in FedExForum on **Oct 25 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Target+Center+Minneapolis+MN) 1341.4 km / 833.5 miles to Target Center.

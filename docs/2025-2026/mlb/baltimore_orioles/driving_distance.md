@@ -11,7 +11,10 @@ title: Baltimore Orioles, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36690.7 km / 22798.6 miles
 - **Total Driving Duration:** 13 days, 23 hours, 15 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Rate+Field+Chicago/Progressive+Field+Cleveland/Kauffman+Stadium+Kansas+City/loanDepot+park+Miami/Nationals+Park+Washington/George+M.+Steinbrenner+Field+Tampa/Fenway+Park+Boston/Rogers+Centre+Toronto/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/Angel+Stadium+Anaheim/Great+American+Ball+Park+Cincinnati/Daikin+Park+Houston/Comerica+Park+Detroit/Globe+Life+Field+Arlington/Target+Field+Minneapolis/Busch+Stadium+St.+Louis/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Citi+Field+Flushing/Yankee+Stadium+Bronx)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Rate+Field+Chicago/Progressive+Field+Cleveland/Kauffman+Stadium+Kansas+City/loanDepot+park+Miami/Nationals+Park+Washington/George+M.+Steinbrenner+Field+Tampa/Fenway+Park+Boston/Rogers+Centre+Toronto/T-Mobile+Park+Seattle)
+- [Leg 2](https://www.google.com/maps/dir/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/Angel+Stadium+Anaheim/Great+American+Ball+Park+Cincinnati/Daikin+Park+Houston/Comerica+Park+Detroit/Globe+Life+Field+Arlington/Target+Field+Minneapolis/Busch+Stadium+St.+Louis/Sutter+Health+Park+Sacramento)
+- [Leg 3](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Citi+Field+Flushing/Yankee+Stadium+Bronx)
 
 # Trip Details
 1. Attend the game against the **Pittsburgh Pirates** in PNC Park on **Apr 05 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Rate+Field+Chicago) 734.4 km / 456.3 miles to Rate Field.

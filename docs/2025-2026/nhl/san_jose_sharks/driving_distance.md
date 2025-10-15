@@ -11,7 +11,11 @@ title: San Jose Sharks, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 43457.7 km / 27003.4 miles
 - **Total Driving Duration:** 16 days, 16 hours, 55 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Delta+Center+Utah/UBS+Arena+New+York/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Grand+Casino+Arena+Minnesota/Climate+Pledge+Arena+Seattle/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Lenovo+Center+Carolina/Xfinity+Mobile+Arena+Philadelphia/Scotiabank+Arena+Toronto/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Little+Caesars+Arena+Detroit/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo/TD+Garden+Boston/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus/United+Center+Chicago/Canada+Life+Centre+Winnipeg)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Delta+Center+Utah/UBS+Arena+New+York/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Grand+Casino+Arena+Minnesota/Climate+Pledge+Arena+Seattle/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Lenovo+Center+Carolina/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 2](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Scotiabank+Arena+Toronto/PPG+Paints+Arena+Pittsburgh/T-Mobile+Arena+Vegas/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Little+Caesars+Arena+Detroit/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay)
+- [Leg 3](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo/TD+Garden+Boston/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Bridgestone+Arena+Nashville/Enterprise+Center+St.+Louis)
+- [Leg 4](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus/United+Center+Chicago/Canada+Life+Centre+Winnipeg)
 
 # Trip Details
 1. Attend the game against the **Utah Mammoth** in Delta Center on **Oct 17 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Utah/UBS+Arena+New+York) 3531.3 km / 2194.3 miles to UBS Arena.

@@ -11,7 +11,11 @@ title: Montréal Canadiens, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36579.5 km / 22729.5 miles
 - **Total Driving Duration:** 14 days, 4 hours, 21 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit/United+Center+Chicago/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/PPG+Paints+Arena+Pittsburgh/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston/KeyBank+Center+Buffalo/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit/United+Center+Chicago/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas)
+- [Leg 2](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/PPG+Paints+Arena+Pittsburgh/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston)
+- [Leg 3](https://www.google.com/maps/dir/TD+Garden+Boston/KeyBank+Center+Buffalo/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Madison+Square+Garden+New+York)
+- [Leg 4](https://www.google.com/maps/dir/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Xfinity+Mobile+Arena+Philadelphia)
 
 # Trip Details
 1. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Oct 08 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit) 376.9 km / 234.2 miles to Little Caesars Arena.

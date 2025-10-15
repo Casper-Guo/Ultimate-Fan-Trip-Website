@@ -11,7 +11,11 @@ title: Los Angeles Kings, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 45185.8 km / 28077.2 miles
 - **Total Driving Duration:** 17 days, 12 hours, 24 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Delta+Center+Utah/Climate+Pledge+Arena+Seattle/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/T-Mobile+Arena+Vegas/TD+Garden+Boston/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas/Bridgestone+Arena+Nashville/United+Center+Chicago/PPG+Paints+Arena+Pittsburgh/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Capital+One+Arena+Washington/SAP+Center+at+San+Jose+San+Jose)
+- [Leg 2](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Delta+Center+Utah/Climate+Pledge+Arena+Seattle/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Enterprise+Center+St.+Louis)
+- [Leg 3](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/KeyBank+Center+Buffalo/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/T-Mobile+Arena+Vegas/TD+Garden+Boston/UBS+Arena+New+York/Prudential+Center+New+Jersey)
+- [Leg 4](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver)
 
 # Trip Details
 1. Attend the game against the **Minnesota Wild** in Grand Casino Arena on **Oct 13 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas) 1511.8 km / 939.4 miles to American Airlines Center.

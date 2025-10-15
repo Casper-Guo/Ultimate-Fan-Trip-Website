@@ -11,7 +11,11 @@ title: Philadelphia 76Ers, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 39466.6 km / 24523.5 miles
 - **Total Driving Duration:** 15 days, 2 hours, 52 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Fiserv+Forum+Milwaukee+WI/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Scotiabank+Arena+Toronto+ON/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Spectrum+Center+Charlotte+NC/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Fiserv+Forum+Milwaukee+WI/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN)
+- [Leg 2](https://www.google.com/maps/dir/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Scotiabank+Arena+Toronto+ON/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 3](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Spectrum+Center+Charlotte+NC/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX)
+- [Leg 4](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX)
 
 # Trip Details
 1. Attend the game against the **Boston Celtics** in TD Garden on **Oct 22 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC) 707.6 km / 439.7 miles to Capital One Arena.

@@ -11,7 +11,11 @@ title: Philadelphia 76Ers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44988.5 km / 27954.6 miles
 - **Total Driving Duration:** 17 days, 4 hours, 12 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Scotiabank+Arena+Toronto+ON/Spectrum+Center+Charlotte+NC/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Fiserv+Forum+Milwaukee+WI/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/American+Airlines+Center+Dallas+TX/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Scotiabank+Arena+Toronto+ON/Spectrum+Center+Charlotte+NC)
+- [Leg 2](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Intuit+Dome+Inglewood+CA/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Smoothie+King+Center+New+Orleans+LA/Target+Center+Minneapolis+MN/Gainbridge+Fieldhouse+Indianapolis+IN/TD+Garden+Boston+MA)
+- [Leg 3](https://www.google.com/maps/dir/TD+Garden+Boston+MA/State+Farm+Arena+Atlanta+GA/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Ball+Arena+Denver+CO/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX)
+- [Leg 4](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Toyota+Center+Houston+TX)
 
 # Trip Details
 1. Attend the game against the **Brooklyn Nets** in Barclays Center on **Nov 28 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Fiserv+Forum+Milwaukee+WI) 1437.1 km / 893.0 miles to Fiserv Forum.

@@ -11,7 +11,11 @@ title: Washington Capitals, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 41826.4 km / 25989.8 miles
 - **Total Driving Duration:** 16 days, 3 hours, 57 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/UBS+Arena+New+York/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina/Amerant+Bank+Arena+Florida/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Little+Caesars+Arena+Detroit/Prudential+Center+New+Jersey/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Centre+Bell+Montréal/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo/Enterprise+Center+St.+Louis/Delta+Center+Utah/T-Mobile+Arena+Vegas/Scotiabank+Arena+Toronto/PPG+Paints+Arena+Pittsburgh)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/UBS+Arena+New+York/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina/Amerant+Bank+Arena+Florida/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim)
+- [Leg 2](https://www.google.com/maps/dir/Honda+Center+Anaheim/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/Little+Caesars+Arena+Detroit/Prudential+Center+New+Jersey/Canadian+Tire+Centre+Ottawa/United+Center+Chicago/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Rogers+Arena+Vancouver)
+- [Leg 3](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Centre+Bell+Montréal/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo/Enterprise+Center+St.+Louis/Delta+Center+Utah)
+- [Leg 4](https://www.google.com/maps/dir/Delta+Center+Utah/T-Mobile+Arena+Vegas/Scotiabank+Arena+Toronto/PPG+Paints+Arena+Pittsburgh)
 
 # Trip Details
 1. Attend the game against the **New York Islanders** in UBS Arena on **Oct 11 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/UBS+Arena+New+York/Madison+Square+Garden+New+York) 30.1 km / 18.7 miles to Madison Square Garden.

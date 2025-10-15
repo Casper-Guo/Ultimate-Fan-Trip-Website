@@ -11,7 +11,11 @@ title: Atlanta Hawks, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 38841.5 km / 24135.1 miles
 - **Total Driving Duration:** 14 days, 21 hours, 2 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/FedExForum+Memphis+TN/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/Little+Caesars+Arena+Detroit+MI/TD+Garden+Boston+MA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Delta+Center+Salt+Lake+City+UT/PHX+Arena+Phoenix+AZ/Frost+Bank+Center+San+Antonio+TX/Smoothie+King+Center+New+Orleans+LA/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC)
+- [Leg 2](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/Spectrum+Center+Charlotte+NC/Paycom+Center+Oklahoma+City+OK/Madison+Square+Garden+New+York+NY/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/Moda+Center+Portland+OR/FedExForum+Memphis+TN)
+- [Leg 3](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/Little+Caesars+Arena+Detroit+MI/TD+Garden+Boston+MA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH)
+- [Leg 4](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL)
 
 # Trip Details
 1. Attend the game against the **Orlando Magic** in Kia Center on **Oct 24 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/United+Center+Chicago+IL) 1860.8 km / 1156.3 miles to United Center.

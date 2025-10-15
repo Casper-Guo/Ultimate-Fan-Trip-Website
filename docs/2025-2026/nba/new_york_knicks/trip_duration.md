@@ -11,7 +11,11 @@ title: New York Knicks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 35937.8 km / 22330.8 miles
 - **Total Driving Duration:** 13 days, 20 hours, 10 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Delta+Center+Salt+Lake+City+UT/FedExForum+Memphis+TN/Paycom+Center+Oklahoma+City+OK/Toyota+Center+Houston+TX)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Barclays+Center+Brooklyn+NY/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Gainbridge+Fieldhouse+Indianapolis+IN/Target+Center+Minneapolis+MN/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Chase+Center+San+Francisco+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL)
+- [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Ball+Arena+Denver+CO/Crypto.com+Arena+Los+Angeles+CA/Intuit+Dome+Inglewood+CA/Delta+Center+Salt+Lake+City+UT/FedExForum+Memphis+TN/Paycom+Center+Oklahoma+City+OK)
+- [Leg 4](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Toyota+Center+Houston+TX)
 
 # Trip Details
 1. Attend the game against the **Miami Heat** in Kaseya Center on **Nov 17 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/American+Airlines+Center+Dallas+TX) 2118.9 km / 1316.6 miles to American Airlines Center.

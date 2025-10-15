@@ -11,7 +11,11 @@ title: Portland Trail Blazers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 42613.1 km / 26478.6 miles
 - **Total Driving Duration:** 16 days, 8 hours, 16 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Delta+Center+Salt+Lake+City+UT/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Golden+1+Center+Sacramento+CA/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Chase+Center+San+Francisco+CA/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Target+Center+Minneapolis+MN/PHX+Arena+Phoenix+AZ/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Gainbridge+Fieldhouse+Indianapolis+IN/Ball+Arena+Denver+CO)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Delta+Center+Salt+Lake+City+UT/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH)
+- [Leg 2](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Golden+1+Center+Sacramento+CA/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Chase+Center+San+Francisco+CA/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Target+Center+Minneapolis+MN)
+- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/PHX+Arena+Phoenix+AZ/United+Center+Chicago+IL/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 4](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Ball+Arena+Denver+CO)
 
 # Trip Details
 1. Attend the game against the **LA Clippers** in Intuit Dome on **Oct 26 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA) 21.8 km / 13.5 miles to Crypto.com Arena.

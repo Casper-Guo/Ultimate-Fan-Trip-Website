@@ -11,7 +11,11 @@ title: Ottawa Senators, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 44803.3 km / 27839.6 miles
 - **Total Driving Duration:** 17 days, 7 hours, 58 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/United+Center+Chicago/Xfinity+Mobile+Arena+Philadelphia/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Centre+Bell+Montréal/Nationwide+Arena+Columbus/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/TD+Garden+Boston/Scotiabank+Arena+Toronto/Delta+Center+Utah/Ball+Arena+Colorado/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Little+Caesars+Arena+Detroit/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/UBS+Arena+New+York/Prudential+Center+New+Jersey)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/United+Center+Chicago/Xfinity+Mobile+Arena+Philadelphia/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/T-Mobile+Arena+Vegas/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Centre+Bell+Montréal)
+- [Leg 2](https://www.google.com/maps/dir/Centre+Bell+Montréal/Nationwide+Arena+Columbus/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/TD+Garden+Boston/Scotiabank+Arena+Toronto/Delta+Center+Utah/Ball+Arena+Colorado/Bridgestone+Arena+Nashville/PPG+Paints+Arena+Pittsburgh)
+- [Leg 3](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Lenovo+Center+Carolina/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Little+Caesars+Arena+Detroit/Benchmark+International+Arena+Tampa+Bay)
+- [Leg 4](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/UBS+Arena+New+York/Prudential+Center+New+Jersey)
 
 # Trip Details
 1. Attend the game against the **Buffalo Sabres** in KeyBank Center on **Oct 15 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/United+Center+Chicago) 865.0 km / 537.5 miles to United Center.

@@ -11,7 +11,11 @@ title: Minnesota Wild, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41057.9 km / 25512.2 miles
 - **Total Driving Duration:** 15 days, 22 hours, 43 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Nationwide+Arena+Columbus/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Little+Caesars+Arena+Detroit)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Lenovo+Center+Carolina/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Rogers+Place+Edmonton)
+- [Leg 2](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Nationwide+Arena+Columbus/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/KeyBank+Center+Buffalo)
+- [Leg 3](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas/United+Center+Chicago/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida)
+- [Leg 4](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Little+Caesars+Arena+Detroit)
 
 # Trip Details
 1. Attend the game against the **St. Louis Blues** in Enterprise Center on **Oct 09 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas) 1011.8 km / 628.7 miles to American Airlines Center.

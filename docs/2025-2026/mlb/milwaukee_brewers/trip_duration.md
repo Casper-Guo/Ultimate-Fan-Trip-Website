@@ -11,7 +11,10 @@ title: Milwaukee Brewers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 30274.6 km / 18811.8 miles
 - **Total Driving Duration:** 11 days, 13 hours, 51 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Kauffman+Stadium+Kansas+City/Fenway+Park+Boston/loanDepot+park+Miami/Comerica+Park+Detroit/Nationals+Park+Washington/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Wrigley+Field+Chicago/Daikin+Park+Houston/Coors+Field+Denver/Las+Vegas+Ballpark+Las+Vegas/Truist+Park+Atlanta/Chase+Field+Phoenix/Oracle+Park+San+Francisco/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Dodger+Stadium+Los+Angeles/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati/PNC+Park+Pittsburgh/Oriole+Park+at+Camden+Yards+Baltimore/Citizens+Bank+Park+Philadelphia)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Kauffman+Stadium+Kansas+City/Fenway+Park+Boston/loanDepot+park+Miami/Comerica+Park+Detroit/Nationals+Park+Washington/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Wrigley+Field+Chicago/Daikin+Park+Houston/Coors+Field+Denver)
+- [Leg 2](https://www.google.com/maps/dir/Coors+Field+Denver/Las+Vegas+Ballpark+Las+Vegas/Truist+Park+Atlanta/Chase+Field+Phoenix/Oracle+Park+San+Francisco/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Dodger+Stadium+Los+Angeles/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati)
+- [Leg 3](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/PNC+Park+Pittsburgh/Oriole+Park+at+Camden+Yards+Baltimore/Citizens+Bank+Park+Philadelphia)
 
 # Trip Details
 1. Attend the game against the **Kansas City Royals** in Kauffman Stadium on **Apr 03 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Kauffman+Stadium+Kansas+City/Fenway+Park+Boston) 2288.9 km / 1422.3 miles to Fenway Park.

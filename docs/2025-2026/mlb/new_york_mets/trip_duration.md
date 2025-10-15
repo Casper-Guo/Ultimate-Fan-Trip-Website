@@ -11,7 +11,10 @@ title: New York Mets, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 40152.4 km / 24949.6 miles
 - **Total Driving Duration:** 15 days, 6 hours, 25 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Wrigley+Field+Chicago/Angel+Stadium+Anaheim/Coors+Field+Denver/Chase+Field+Phoenix/Nationals+Park+Washington/T-Mobile+Park+Seattle/Petco+Park+San+Diego/Great+American+Ball+Park+Cincinnati/Rogers+Centre+Toronto/Citizens+Bank+Park+Philadelphia/American+Family+Field+Milwaukee/Progressive+Field+Cleveland/PNC+Park+Pittsburgh/Truist+Park+Atlanta/Rate+Field+Chicago/George+M.+Steinbrenner+Field+Tampa/loanDepot+park+Miami/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Oracle+Park+San+Francisco/Dodger+Stadium+Los+Angeles/Wrigley+Field+Chicago/Angel+Stadium+Anaheim/Coors+Field+Denver/Chase+Field+Phoenix/Nationals+Park+Washington/T-Mobile+Park+Seattle/Petco+Park+San+Diego)
+- [Leg 2](https://www.google.com/maps/dir/Petco+Park+San+Diego/Great+American+Ball+Park+Cincinnati/Rogers+Centre+Toronto/Citizens+Bank+Park+Philadelphia/American+Family+Field+Milwaukee/Progressive+Field+Cleveland/PNC+Park+Pittsburgh/Truist+Park+Atlanta/Rate+Field+Chicago/George+M.+Steinbrenner+Field+Tampa)
+- [Leg 3](https://www.google.com/maps/dir/George+M.+Steinbrenner+Field+Tampa/loanDepot+park+Miami/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington)
 
 # Trip Details
 1. Attend the game against the **St. Louis Cardinals** in Busch Stadium on **Mar 31 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Oracle+Park+San+Francisco) 3304.5 km / 2053.4 miles to Oracle Park.

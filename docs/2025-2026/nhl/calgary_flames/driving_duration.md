@@ -11,7 +11,11 @@ title: Calgary Flames, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 37500.7 km / 23301.9 miles
 - **Total Driving Duration:** 14 days, 13 hours, 22 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Delta+Center+Utah/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago/Grand+Casino+Arena+Minnesota/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Delta+Center+Utah/T-Mobile+Arena+Vegas/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Xfinity+Mobile+Arena+Philadelphia/Enterprise+Center+St.+Louis/KeyBank+Center+Buffalo)
+- [Leg 2](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Bridgestone+Arena+Nashville/Centre+Bell+Montréal/TD+Garden+Boston/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/United+Center+Chicago)
+- [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago/Grand+Casino+Arena+Minnesota/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/UBS+Arena+New+York/Little+Caesars+Arena+Detroit)
+- [Leg 4](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Climate+Pledge+Arena+Seattle)
 
 # Trip Details
 1. Attend the game against the **Edmonton Oilers** in Rogers Place on **Oct 08 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Place+Edmonton/Rogers+Arena+Vancouver) 1158.2 km / 719.6 miles to Rogers Arena.

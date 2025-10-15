@@ -11,7 +11,10 @@ title: Los Angeles Angels, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 32927.9 km / 20460.5 miles
 - **Total Driving Duration:** 12 days, 12 hours, 45 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Great+American+Ball+Park+Cincinnati/Yankee+Stadium+Bronx/Kauffman+Stadium+Kansas+City/Rate+Field+Chicago/Rogers+Centre+Toronto/Progressive+Field+Cleveland/Comerica+Park+Detroit/George+M.+Steinbrenner+Field+Tampa/Dodger+Stadium+Los+Angeles/Chase+Field+Phoenix/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Target+Field+Minneapolis/Oracle+Park+San+Francisco/Oriole+Park+at+Camden+Yards+Baltimore/loanDepot+park+Miami/Daikin+Park+Houston/Globe+Life+Field+Arlington/PNC+Park+Pittsburgh/Fenway+Park+Boston/Nationals+Park+Washington)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Great+American+Ball+Park+Cincinnati/Yankee+Stadium+Bronx/Kauffman+Stadium+Kansas+City/Rate+Field+Chicago/Rogers+Centre+Toronto/Progressive+Field+Cleveland/Comerica+Park+Detroit/George+M.+Steinbrenner+Field+Tampa/Dodger+Stadium+Los+Angeles)
+- [Leg 2](https://www.google.com/maps/dir/Dodger+Stadium+Los+Angeles/Chase+Field+Phoenix/Sutter+Health+Park+Sacramento/T-Mobile+Park+Seattle/Target+Field+Minneapolis/Oracle+Park+San+Francisco/Oriole+Park+at+Camden+Yards+Baltimore/loanDepot+park+Miami/Daikin+Park+Houston/Globe+Life+Field+Arlington)
+- [Leg 3](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/PNC+Park+Pittsburgh/Fenway+Park+Boston/Nationals+Park+Washington)
 
 # Trip Details
 1. Attend the game against the **Chicago Cubs** in Wrigley Field on **Apr 01 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Great+American+Ball+Park+Cincinnati) 485.1 km / 301.5 miles to Great American Ball Park.

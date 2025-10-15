@@ -11,7 +11,11 @@ title: Pittsburgh Penguins, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 42614.9 km / 26479.8 miles
 - **Total Driving Duration:** 16 days, 11 hours, 47 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Amerant+Bank+Arena+Florida/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Nationwide+Arena+Columbus/Xfinity+Mobile+Arena+Philadelphia/Benchmark+International+Arena+Tampa+Bay/American+Airlines+Center+Dallas/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/United+Center+Chicago/Little+Caesars+Arena+Detroit/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/KeyBank+Center+Buffalo/Madison+Square+Garden+New+York/TD+Garden+Boston/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/Lenovo+Center+Carolina/UBS+Arena+New+York/Prudential+Center+New+Jersey/Capital+One+Arena+Washington/Enterprise+Center+St.+Louis)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Amerant+Bank+Arena+Florida/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Nationwide+Arena+Columbus/Xfinity+Mobile+Arena+Philadelphia/Benchmark+International+Arena+Tampa+Bay/American+Airlines+Center+Dallas)
+- [Leg 2](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Scotiabank+Arena+Toronto/United+Center+Chicago/Little+Caesars+Arena+Detroit/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver)
+- [Leg 3](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/KeyBank+Center+Buffalo/Madison+Square+Garden+New+York/TD+Garden+Boston/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/Lenovo+Center+Carolina/UBS+Arena+New+York/Prudential+Center+New+Jersey)
+- [Leg 4](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/Capital+One+Arena+Washington/Enterprise+Center+St.+Louis)
 
 # Trip Details
 1. Attend the game against the **Anaheim Ducks** in Honda Center on **Oct 14 2025, 10:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles) 48.9 km / 30.4 miles to Crypto.com Arena.

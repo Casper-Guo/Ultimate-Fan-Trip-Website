@@ -11,7 +11,11 @@ title: New Orleans Pelicans, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 42686.8 km / 26524.4 miles
 - **Total Driving Duration:** 16 days, 4 hours, 56 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Kia+Center+Orlando+FL/Gainbridge+Fieldhouse+Indianapolis+IN/FedExForum+Memphis+TN/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/TD+Garden+Boston+MA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Kaseya+Center+Miami+FL)
+- [Leg 2](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Kia+Center+Orlando+FL/Gainbridge+Fieldhouse+Indianapolis+IN/FedExForum+Memphis+TN/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN)
+- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA)
+- [Leg 4](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/TD+Garden+Boston+MA)
 
 # Trip Details
 1. Attend the game against the **Denver Nuggets** in Ball Arena on **Oct 29 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK) 1089.2 km / 676.8 miles to Paycom Center.

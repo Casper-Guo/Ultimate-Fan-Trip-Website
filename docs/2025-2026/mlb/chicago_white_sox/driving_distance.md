@@ -11,7 +11,10 @@ title: Chicago White Sox, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 30086.3 km / 18694.8 miles
 - **Total Driving Duration:** 11 days, 14 hours, 17 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/loanDepot+park+Miami/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Chase+Field+Phoenix/Petco+Park+San+Diego/Angel+Stadium+Anaheim/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco/Target+Field+Minneapolis/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Oriole+Park+at+Camden+Yards+Baltimore/Progressive+Field+Cleveland/Rogers+Centre+Toronto/Globe+Life+Field+Arlington/George+M.+Steinbrenner+Field+Tampa/Fenway+Park+Boston/Comerica+Park+Detroit/Wrigley+Field+Chicago/Daikin+Park+Houston/Busch+Stadium+St.+Louis)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/loanDepot+park+Miami/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Chase+Field+Phoenix/Petco+Park+San+Diego/Angel+Stadium+Anaheim/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco/Target+Field+Minneapolis)
+- [Leg 2](https://www.google.com/maps/dir/Target+Field+Minneapolis/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Oriole+Park+at+Camden+Yards+Baltimore/Progressive+Field+Cleveland/Rogers+Centre+Toronto/Globe+Life+Field+Arlington/George+M.+Steinbrenner+Field+Tampa/Fenway+Park+Boston/Comerica+Park+Detroit)
+- [Leg 3](https://www.google.com/maps/dir/Comerica+Park+Detroit/Wrigley+Field+Chicago/Daikin+Park+Houston/Busch+Stadium+St.+Louis)
 
 # Trip Details
 1. Attend the game against the **Milwaukee Brewers** in American Family Field on **Mar 26 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/loanDepot+park+Miami) 2377.0 km / 1477.0 miles to loanDepot park.

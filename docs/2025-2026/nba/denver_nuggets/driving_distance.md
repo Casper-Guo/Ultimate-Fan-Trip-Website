@@ -11,7 +11,11 @@ title: Denver Nuggets, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 29823.9 km / 18531.8 miles
 - **Total Driving Duration:** 11 days, 14 hours, 17 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Target+Center+Minneapolis+MN/Smoothie+King+Center+New+Orleans+LA/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Delta+Center+Salt+Lake+City+UT)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Target+Center+Minneapolis+MN/Smoothie+King+Center+New+Orleans+LA/Toyota+Center+Houston+TX/FedExForum+Memphis+TN/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA)
+- [Leg 2](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/American+Airlines+Center+Dallas+TX/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Scotiabank+Arena+Toronto+ON/Rocket+Arena+Cleveland+OH/Barclays+Center+Brooklyn+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA)
+- [Leg 3](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/United+Center+Chicago+IL/Paycom+Center+Oklahoma+City+OK/Frost+Bank+Center+San+Antonio+TX/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ)
+- [Leg 4](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Delta+Center+Salt+Lake+City+UT)
 
 # Trip Details
 1. Attend the game against the **Golden State Warriors** in Chase Center on **Oct 23 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR) 1022.1 km / 635.1 miles to Moda Center.

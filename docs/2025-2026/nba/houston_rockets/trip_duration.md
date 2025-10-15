@@ -11,7 +11,11 @@ title: Houston Rockets, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 47911.7 km / 29771.0 miles
 - **Total Driving Duration:** 18 days, 6 hours, 0 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/FedExForum+Memphis+TN/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Barclays+Center+Brooklyn+NY/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX/Ball+Arena+Denver+CO/United+Center+Chicago+IL/Target+Center+Minneapolis+MN)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/FedExForum+Memphis+TN/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Barclays+Center+Brooklyn+NY/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 3](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX/Ball+Arena+Denver+CO/United+Center+Chicago+IL)
+- [Leg 4](https://www.google.com/maps/dir/United+Center+Chicago+IL/Target+Center+Minneapolis+MN)
 
 # Trip Details
 1. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Oct 29 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA) 884.3 km / 549.5 miles to TD Garden.

@@ -11,7 +11,11 @@ title: Boston Celtics, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 36074.0 km / 22415.4 miles
 - **Total Driving Duration:** 13 days, 18 hours, 21 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Gainbridge+Fieldhouse+Indianapolis+IN/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Fiserv+Forum+Milwaukee+WI/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL/Madison+Square+Garden+New+York+NY)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL/Xfinity+Mobile+Arena+Philadelphia+PA/Barclays+Center+Brooklyn+NY/Target+Center+Minneapolis+MN/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Delta+Center+Salt+Lake+City+UT)
+- [Leg 2](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Golden+1+Center+Sacramento+CA/Intuit+Dome+Inglewood+CA/Gainbridge+Fieldhouse+Indianapolis+IN/Little+Caesars+Arena+Detroit+MI/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Toyota+Center+Houston+TX/Chase+Center+San+Francisco+CA/Crypto.com+Arena+Los+Angeles+CA)
+- [Leg 3](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/PHX+Arena+Phoenix+AZ/Ball+Arena+Denver+CO/Fiserv+Forum+Milwaukee+WI/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Kaseya+Center+Miami+FL)
+- [Leg 4](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Madison+Square+Garden+New+York+NY)
 
 # Trip Details
 1. Attend the game against the **New Orleans Pelicans** in Smoothie King Center on **Oct 27 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA/Kia+Center+Orlando+FL) 1029.4 km / 639.6 miles to Kia Center.

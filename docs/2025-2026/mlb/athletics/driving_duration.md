@@ -11,7 +11,10 @@ title: Athletics, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 43223.8 km / 26858.1 miles
 - **Total Driving Duration:** 16 days, 9 hours, 37 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Citi+Field+Flushing/T-Mobile+Park+Seattle/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Wrigley+Field+Chicago/Oracle+Park+San+Francisco/Comerica+Park+Detroit/Rate+Field+Chicago/Chase+Field+Phoenix/Target+Field+Minneapolis/Great+American+Ball+Park+Cincinnati/Fenway+Park+Boston/Kauffman+Stadium+Kansas+City/Daikin+Park+Houston/Globe+Life+Field+Arlington/George+M.+Steinbrenner+Field+Tampa/Progressive+Field+Cleveland)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Truist+Park+Atlanta/Yankee+Stadium+Bronx/Citi+Field+Flushing/T-Mobile+Park+Seattle/Citizens+Bank+Park+Philadelphia/Oriole+Park+at+Camden+Yards+Baltimore/Angel+Stadium+Anaheim/Petco+Park+San+Diego/Wrigley+Field+Chicago)
+- [Leg 2](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Oracle+Park+San+Francisco/Comerica+Park+Detroit/Rate+Field+Chicago/Chase+Field+Phoenix/Target+Field+Minneapolis/Great+American+Ball+Park+Cincinnati/Fenway+Park+Boston/Kauffman+Stadium+Kansas+City/Daikin+Park+Houston)
+- [Leg 3](https://www.google.com/maps/dir/Daikin+Park+Houston/Globe+Life+Field+Arlington/George+M.+Steinbrenner+Field+Tampa/Progressive+Field+Cleveland)
 
 # Trip Details
 1. Attend the game against the **Toronto Blue Jays** in Rogers Centre on **Mar 26 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Centre+Toronto/Truist+Park+Atlanta) 1509.4 km / 937.9 miles to Truist Park.

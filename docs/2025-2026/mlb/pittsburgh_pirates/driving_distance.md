@@ -11,7 +11,10 @@ title: Pittsburgh Pirates, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 36229.8 km / 22512.2 miles
 - **Total Driving Duration:** 13 days, 17 hours, 41 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati/Globe+Life+Field+Arlington/Chase+Field+Phoenix/Oracle+Park+San+Francisco/Busch+Stadium+St.+Louis/Rogers+Centre+Toronto/Daikin+Park+Houston/Truist+Park+Atlanta/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Citizens+Bank+Park+Philadelphia/Nationals+Park+Washington/Progressive+Field+Cleveland/Yankee+Stadium+Bronx/American+Family+Field+Milwaukee/loanDepot+park+Miami/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego/Rate+Field+Chicago/Wrigley+Field+Chicago/Comerica+Park+Detroit)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati/Globe+Life+Field+Arlington/Chase+Field+Phoenix/Oracle+Park+San+Francisco/Busch+Stadium+St.+Louis/Rogers+Centre+Toronto/Daikin+Park+Houston/Truist+Park+Atlanta/Sutter+Health+Park+Sacramento)
+- [Leg 2](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Coors+Field+Denver/Citizens+Bank+Park+Philadelphia/Nationals+Park+Washington/Progressive+Field+Cleveland/Yankee+Stadium+Bronx/American+Family+Field+Milwaukee/loanDepot+park+Miami/Dodger+Stadium+Los+Angeles/Petco+Park+San+Diego)
+- [Leg 3](https://www.google.com/maps/dir/Petco+Park+San+Diego/Rate+Field+Chicago/Wrigley+Field+Chicago/Comerica+Park+Detroit)
 
 # Trip Details
 1. Attend the game against the **New York Mets** in Citi Field on **Mar 26 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Citi+Field+Flushing/Great+American+Ball+Park+Cincinnati) 1058.9 km / 658.0 miles to Great American Ball Park.

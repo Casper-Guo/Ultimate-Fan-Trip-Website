@@ -11,7 +11,11 @@ title: Anaheim Ducks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 46038.4 km / 28607.0 miles
 - **Total Driving Duration:** 17 days, 20 hours, 45 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/United+Center+Chicago/Bridgestone+Arena+Nashville/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/KeyBank+Center+Buffalo/Ball+Arena+Colorado/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Delta+Center+Utah)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/United+Center+Chicago/Bridgestone+Arena+Nashville/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota)
+- [Leg 2](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/Crypto.com+Arena+Los+Angeles/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 3](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/KeyBank+Center+Buffalo/Ball+Arena+Colorado/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Rogers+Arena+Vancouver/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto)
+- [Leg 4](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Delta+Center+Utah)
 
 # Trip Details
 1. Attend the game against the **San Jose Sharks** in SAP Center at San Jose on **Oct 11 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/United+Center+Chicago) 3482.8 km / 2164.1 miles to United Center.

@@ -11,7 +11,10 @@ title: Atlanta Braves, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 35776.0 km / 22230.3 miles
 - **Total Driving Duration:** 13 days, 15 hours, 12 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Citizens+Bank+Park+Philadelphia/Nationals+Park+Washington/Coors+Field+Denver/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/loanDepot+park+Miami/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati/Rate+Field+Chicago/Petco+Park+San+Diego/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh/Busch+Stadium+St.+Louis/Oriole+Park+at+Camden+Yards+Baltimore/Citi+Field+Flushing/Yankee+Stadium+Bronx/Target+Field+Minneapolis/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Daikin+Park+Houston)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Citizens+Bank+Park+Philadelphia/Nationals+Park+Washington/Coors+Field+Denver/T-Mobile+Park+Seattle/Dodger+Stadium+Los+Angeles/loanDepot+park+Miami/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati)
+- [Leg 2](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Rate+Field+Chicago/Petco+Park+San+Diego/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh/Busch+Stadium+St.+Louis/Oriole+Park+at+Camden+Yards+Baltimore/Citi+Field+Flushing/Yankee+Stadium+Bronx/Target+Field+Minneapolis)
+- [Leg 3](https://www.google.com/maps/dir/Target+Field+Minneapolis/American+Family+Field+Milwaukee/Wrigley+Field+Chicago/Daikin+Park+Houston)
 
 # Trip Details
 1. Attend the game against the **Arizona Diamondbacks** in Chase Field on **Apr 05 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Chase+Field+Phoenix/Angel+Stadium+Anaheim) 575.7 km / 357.7 miles to Angel Stadium.

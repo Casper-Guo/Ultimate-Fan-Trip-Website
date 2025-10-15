@@ -11,7 +11,11 @@ title: Tampa Bay Lightning, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 40622.3 km / 25241.6 miles
 - **Total Driving Duration:** 15 days, 20 hours, 3 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Delta+Center+Utah/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/Amerant+Bank+Arena+Florida/Capital+One+Arena+Washington/Little+Caesars+Arena+Detroit/Madison+Square+Garden+New+York/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Prudential+Center+New+Jersey/UBS+Arena+New+York/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Xfinity+Mobile+Arena+Philadelphia/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/United+Center+Chicago/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Delta+Center+Utah/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/Amerant+Bank+Arena+Florida/Capital+One+Arena+Washington/Little+Caesars+Arena+Detroit/Madison+Square+Garden+New+York/Scotiabank+Arena+Toronto/Centre+Bell+Montréal)
+- [Leg 2](https://www.google.com/maps/dir/Centre+Bell+Montréal/Prudential+Center+New+Jersey/UBS+Arena+New+York/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Xfinity+Mobile+Arena+Philadelphia/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas)
+- [Leg 3](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/United+Center+Chicago/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary)
+- [Leg 4](https://www.google.com/maps/dir/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/TD+Garden+Boston)
 
 # Trip Details
 1. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Oct 28 2025, 07:45PM EDT**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Delta+Center+Utah) 2624.6 km / 1630.9 miles to Delta Center.

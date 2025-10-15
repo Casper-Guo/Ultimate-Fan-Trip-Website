@@ -11,7 +11,10 @@ title: Toronto Blue Jays, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 37538.8 km / 23325.6 miles
 - **Total Driving Duration:** 14 days, 7 hours, 41 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Rate+Field+Chicago/American+Family+Field+Milwaukee/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Truist+Park+Atlanta/Wrigley+Field+Chicago/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco/Petco+Park+San+Diego/Fenway+Park+Boston/Nationals+Park+Washington/Daikin+Park+Houston/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Progressive+Field+Cleveland/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Globe+Life+Field+Arlington)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Rate+Field+Chicago/American+Family+Field+Milwaukee/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Target+Field+Minneapolis/George+M.+Steinbrenner+Field+Tampa/Comerica+Park+Detroit/Oriole+Park+at+Camden+Yards+Baltimore/Truist+Park+Atlanta/Wrigley+Field+Chicago)
+- [Leg 2](https://www.google.com/maps/dir/Wrigley+Field+Chicago/T-Mobile+Park+Seattle/Oracle+Park+San+Francisco/Petco+Park+San+Diego/Fenway+Park+Boston/Nationals+Park+Washington/Daikin+Park+Houston/Citizens+Bank+Park+Philadelphia/Yankee+Stadium+Bronx/Progressive+Field+Cleveland)
+- [Leg 3](https://www.google.com/maps/dir/Progressive+Field+Cleveland/Kauffman+Stadium+Kansas+City/Sutter+Health+Park+Sacramento/Globe+Life+Field+Arlington)
 
 # Trip Details
 1. Attend the game against the **Chicago White Sox** in Rate Field on **Apr 05 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Rate+Field+Chicago/American+Family+Field+Milwaukee) 171.3 km / 106.5 miles to American Family Field.

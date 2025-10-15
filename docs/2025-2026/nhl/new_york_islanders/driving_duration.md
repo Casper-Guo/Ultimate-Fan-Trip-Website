@@ -11,7 +11,11 @@ title: New York Islanders, 2025-2026 season, Driving Duration
 - **Total Driving Distance:** 35340.4 km / 21959.5 miles
 - **Total Driving Duration:** 13 days, 16 hours, 27 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Lenovo+Center+Carolina/Capital+One+Arena+Washington/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Little+Caesars+Arena+Detroit/United+Center+Chicago/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/KeyBank+Center+Buffalo)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Lenovo+Center+Carolina/Capital+One+Arena+Washington/T-Mobile+Arena+Vegas/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay)
+- [Leg 2](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Little+Caesars+Arena+Detroit/United+Center+Chicago/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver)
+- [Leg 3](https://www.google.com/maps/dir/Rogers+Arena+Vancouver/Climate+Pledge+Arena+Seattle/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Nationwide+Arena+Columbus/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Enterprise+Center+St.+Louis/Scotiabank+Arena+Toronto)
+- [Leg 4](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/KeyBank+Center+Buffalo)
 
 # Trip Details
 1. Attend the game against the **Pittsburgh Penguins** in PPG Paints Arena on **Oct 09 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia) 497.1 km / 308.9 miles to Xfinity Mobile Arena.

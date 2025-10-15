@@ -11,7 +11,11 @@ title: Utah Mammoth, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 33338.3 km / 20715.5 miles
 - **Total Driving Duration:** 13 days, 0 hours, 57 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Ball+Arena+Colorado/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Little+Caesars+Arena+Detroit/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/United+Center+Chicago/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Colorado/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Rogers+Place+Edmonton/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose)
+- [Leg 2](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/American+Airlines+Center+Dallas/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/TD+Garden+Boston/Little+Caesars+Arena+Detroit/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Bridgestone+Arena+Nashville)
+- [Leg 3](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Nationwide+Arena+Columbus/United+Center+Chicago/T-Mobile+Arena+Vegas/Crypto.com+Arena+Los+Angeles)
+- [Leg 4](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary)
 
 # Trip Details
 1. Attend the game against the **Colorado Avalanche** in Ball Arena on **Oct 09 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Colorado/Grand+Casino+Arena+Minnesota) 1472.6 km / 915.1 miles to Grand Casino Arena.

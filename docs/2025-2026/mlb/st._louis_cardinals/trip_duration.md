@@ -11,7 +11,10 @@ title: St. Louis Cardinals, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 38966.2 km / 24212.5 miles
 - **Total Driving Duration:** 14 days, 19 hours, 7 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Comerica+Park+Detroit/Nationals+Park+Washington/Daikin+Park+Houston/loanDepot+park+Miami/PNC+Park+Pittsburgh/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento/Great+American+Ball+Park+Cincinnati/American+Family+Field+Milwaukee/Citi+Field+Flushing/Target+Field+Minneapolis/Kauffman+Stadium+Kansas+City/Truist+Park+Atlanta/Wrigley+Field+Chicago/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Rogers+Centre+Toronto/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia/Dodger+Stadium+Los+Angeles/Coors+Field+Denver/Oracle+Park+San+Francisco)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Comerica+Park+Detroit/Nationals+Park+Washington/Daikin+Park+Houston/loanDepot+park+Miami/PNC+Park+Pittsburgh/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento/Great+American+Ball+Park+Cincinnati/American+Family+Field+Milwaukee/Citi+Field+Flushing)
+- [Leg 2](https://www.google.com/maps/dir/Citi+Field+Flushing/Target+Field+Minneapolis/Kauffman+Stadium+Kansas+City/Truist+Park+Atlanta/Wrigley+Field+Chicago/Chase+Field+Phoenix/Angel+Stadium+Anaheim/Rogers+Centre+Toronto/Yankee+Stadium+Bronx/Citizens+Bank+Park+Philadelphia)
+- [Leg 3](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Dodger+Stadium+Los+Angeles/Coors+Field+Denver/Oracle+Park+San+Francisco)
 
 # Trip Details
 1. Attend the game against the **Detroit Tigers** in Comerica Park on **Apr 05 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Comerica+Park+Detroit/Nationals+Park+Washington) 848.6 km / 527.3 miles to Nationals Park.

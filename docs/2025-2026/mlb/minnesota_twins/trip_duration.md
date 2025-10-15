@@ -11,7 +11,10 @@ title: Minnesota Twins, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 37743.2 km / 23452.6 miles
 - **Total Driving Duration:** 14 days, 7 hours, 59 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Rogers+Centre+Toronto/Citi+Field+Flushing/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/Progressive+Field+Cleveland/Fenway+Park+Boston/Rate+Field+Chicago/PNC+Park+Pittsburgh/Globe+Life+Field+Arlington/Chase+Field+Phoenix/Daikin+Park+Houston/Yankee+Stadium+Bronx/Wrigley+Field+Chicago/T-Mobile+Park+Seattle/Kauffman+Stadium+Kansas+City/American+Family+Field+Milwaukee/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Angel+Stadium+Anaheim/Oracle+Park+San+Francisco)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Rogers+Centre+Toronto/Citi+Field+Flushing/George+M.+Steinbrenner+Field+Tampa/Nationals+Park+Washington/Progressive+Field+Cleveland/Fenway+Park+Boston/Rate+Field+Chicago/PNC+Park+Pittsburgh/Globe+Life+Field+Arlington)
+- [Leg 2](https://www.google.com/maps/dir/Globe+Life+Field+Arlington/Chase+Field+Phoenix/Daikin+Park+Houston/Yankee+Stadium+Bronx/Wrigley+Field+Chicago/T-Mobile+Park+Seattle/Kauffman+Stadium+Kansas+City/American+Family+Field+Milwaukee/Petco+Park+San+Diego/Sutter+Health+Park+Sacramento)
+- [Leg 3](https://www.google.com/maps/dir/Sutter+Health+Park+Sacramento/Comerica+Park+Detroit/Angel+Stadium+Anaheim/Oracle+Park+San+Francisco)
 
 # Trip Details
 1. Attend the game against the **Baltimore Orioles** in Oriole Park at Camden Yards on **Mar 29 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Rogers+Centre+Toronto) 751.2 km / 466.8 miles to Rogers Centre.

@@ -11,7 +11,11 @@ title: Sacramento Kings, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41568.3 km / 25829.4 miles
 - **Total Driving Duration:** 15 days, 22 hours, 8 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/United+Center+Chicago+IL/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Target+Center+Minneapolis+MN/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Crypto.com+Arena+Los+Angeles+CA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/State+Farm+Arena+Atlanta+GA/Barclays+Center+Brooklyn+NY/Scotiabank+Arena+Toronto+ON)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/United+Center+Chicago+IL/Fiserv+Forum+Milwaukee+WI/Ball+Arena+Denver+CO/Target+Center+Minneapolis+MN/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/FedExForum+Memphis+TN/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 2](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Moda+Center+Portland+OR/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Rocket+Arena+Cleveland+OH/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Xfinity+Mobile+Arena+Philadelphia+PA/TD+Garden+Boston+MA)
+- [Leg 3](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Capital+One+Arena+Washington+DC/Smoothie+King+Center+New+Orleans+LA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Crypto.com+Arena+Los+Angeles+CA/Spectrum+Center+Charlotte+NC/Kia+Center+Orlando+FL/State+Farm+Arena+Atlanta+GA/Barclays+Center+Brooklyn+NY)
+- [Leg 4](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Scotiabank+Arena+Toronto+ON)
 
 # Trip Details
 1. Attend the game against the **Chicago Bulls** in United Center on **Oct 29 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago+IL/Fiserv+Forum+Milwaukee+WI) 161.7 km / 100.5 miles to Fiserv Forum.

@@ -11,7 +11,11 @@ title: Houston Rockets, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 46332.1 km / 28789.5 miles
 - **Total Driving Duration:** 17 days, 17 hours, 46 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Barclays+Center+Brooklyn+NY/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX/United+Center+Chicago+IL/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Delta+Center+Salt+Lake+City+UT/American+Airlines+Center+Dallas+TX/Ball+Arena+Denver+CO)
+- [Leg 2](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Barclays+Center+Brooklyn+NY/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/State+Farm+Arena+Atlanta+GA/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 3](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Spectrum+Center+Charlotte+NC/Madison+Square+Garden+New+York+NY/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/Capital+One+Arena+Washington+DC/Frost+Bank+Center+San+Antonio+TX/United+Center+Chicago+IL/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN)
+- [Leg 4](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
 1. Attend the game against the **Oklahoma City Thunder** in Paycom Center on **Oct 21 2025, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Scotiabank+Arena+Toronto+ON) 2018.9 km / 1254.5 miles to Scotiabank Arena.

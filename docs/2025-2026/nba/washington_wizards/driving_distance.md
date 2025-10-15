@@ -11,7 +11,11 @@ title: Washington Wizards, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 35899.2 km / 22306.8 miles
 - **Total Driving Duration:** 13 days, 21 hours, 5 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Paycom+Center+Oklahoma+City+OK/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Scotiabank+Arena+Toronto+ON/United+Center+Chicago+IL/Gainbridge+Fieldhouse+Indianapolis+IN/Xfinity+Mobile+Arena+Philadelphia+PA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Little+Caesars+Arena+Detroit+MI/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Madison+Square+Garden+New+York+NY/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Crypto.com+Arena+Los+Angeles+CA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Paycom+Center+Oklahoma+City+OK/Toyota+Center+Houston+TX/Target+Center+Minneapolis+MN/Scotiabank+Arena+Toronto+ON/United+Center+Chicago+IL/Gainbridge+Fieldhouse+Indianapolis+IN/Xfinity+Mobile+Arena+Philadelphia+PA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN)
+- [Leg 2](https://www.google.com/maps/dir/FedExForum+Memphis+TN/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Golden+1+Center+Sacramento+CA/Ball+Arena+Denver+CO/Little+Caesars+Arena+Detroit+MI/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH)
+- [Leg 3](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/State+Farm+Arena+Atlanta+GA/Smoothie+King+Center+New+Orleans+LA/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/TD+Garden+Boston+MA/Madison+Square+Garden+New+York+NY/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR)
+- [Leg 4](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Crypto.com+Arena+Los+Angeles+CA)
 
 # Trip Details
 1. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Oct 24 2025, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Paycom+Center+Oklahoma+City+OK) 328.7 km / 204.2 miles to Paycom Center.

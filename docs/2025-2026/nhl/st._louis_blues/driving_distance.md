@@ -11,7 +11,11 @@ title: St. Louis Blues, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 37458.8 km / 23275.9 miles
 - **Total Driving Duration:** 14 days, 12 hours, 47 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/Capital+One+Arena+Washington/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Xfinity+Mobile+Arena+Philadelphia/UBS+Arena+New+York/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas/Rogers+Place+Edmonton/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas/Grand+Casino+Arena+Minnesota/Climate+Pledge+Arena+Seattle/Lenovo+Center+Carolina/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/United+Center+Chicago)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/PPG+Paints+Arena+Pittsburgh/Nationwide+Arena+Columbus/Capital+One+Arena+Washington/KeyBank+Center+Buffalo/Scotiabank+Arena+Toronto/Xfinity+Mobile+Arena+Philadelphia/UBS+Arena+New+York/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey)
+- [Leg 2](https://www.google.com/maps/dir/Prudential+Center+New+Jersey/TD+Garden+Boston/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Bridgestone+Arena+Nashville/Amerant+Bank+Arena+Florida/Benchmark+International+Arena+Tampa+Bay/Ball+Arena+Colorado/Delta+Center+Utah/T-Mobile+Arena+Vegas)
+- [Leg 3](https://www.google.com/maps/dir/T-Mobile+Arena+Vegas/Rogers+Place+Edmonton/Canada+Life+Centre+Winnipeg/American+Airlines+Center+Dallas/Grand+Casino+Arena+Minnesota/Climate+Pledge+Arena+Seattle/Lenovo+Center+Carolina/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/SAP+Center+at+San+Jose+San+Jose)
+- [Leg 4](https://www.google.com/maps/dir/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/United+Center+Chicago)
 
 # Trip Details
 1. Attend the game against the **Detroit Red Wings** in Little Caesars Arena on **Oct 25 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/PPG+Paints+Arena+Pittsburgh) 458.6 km / 284.9 miles to PPG Paints Arena.

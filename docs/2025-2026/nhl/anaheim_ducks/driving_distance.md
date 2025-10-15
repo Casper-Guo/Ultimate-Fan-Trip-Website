@@ -11,7 +11,11 @@ title: Anaheim Ducks, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 37160.8 km / 23090.7 miles
 - **Total Driving Duration:** 14 days, 12 hours, 50 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina/KeyBank+Center+Buffalo/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Delta+Center+Utah/Rogers+Arena+Vancouver/SAP+Center+at+San+Jose+San+Jose)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/TD+Garden+Boston/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/American+Airlines+Center+Dallas/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Little+Caesars+Arena+Detroit/Grand+Casino+Arena+Minnesota/United+Center+Chicago)
+- [Leg 2](https://www.google.com/maps/dir/United+Center+Chicago/Enterprise+Center+St.+Louis/PPG+Paints+Arena+Pittsburgh/UBS+Arena+New+York/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/Nationwide+Arena+Columbus/Capital+One+Arena+Washington/Xfinity+Mobile+Arena+Philadelphia/Lenovo+Center+Carolina)
+- [Leg 3](https://www.google.com/maps/dir/Lenovo+Center+Carolina/KeyBank+Center+Buffalo/Crypto.com+Arena+Los+Angeles/Climate+Pledge+Arena+Seattle/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal)
+- [Leg 4](https://www.google.com/maps/dir/Centre+Bell+Montréal/Delta+Center+Utah/Rogers+Arena+Vancouver/SAP+Center+at+San+Jose+San+Jose)
 
 # Trip Details
 1. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Oct 21 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/TD+Garden+Boston) 1779.2 km / 1105.5 miles to TD Garden.

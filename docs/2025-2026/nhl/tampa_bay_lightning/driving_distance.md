@@ -11,7 +11,11 @@ title: Tampa Bay Lightning, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 39588.9 km / 24599.5 miles
 - **Total Driving Duration:** 15 days, 10 hours, 0 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville/Delta+Center+Utah/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/Amerant+Bank+Arena+Florida/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/UBS+Arena+New+York/Scotiabank+Arena+Toronto/Prudential+Center+New+Jersey/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Xfinity+Mobile+Arena+Philadelphia/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/United+Center+Chicago/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/TD+Garden+Boston)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville/Delta+Center+Utah/Ball+Arena+Colorado/T-Mobile+Arena+Vegas/Amerant+Bank+Arena+Florida/Capital+One+Arena+Washington/Madison+Square+Garden+New+York/UBS+Arena+New+York/Scotiabank+Arena+Toronto)
+- [Leg 2](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Prudential+Center+New+Jersey/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/Xfinity+Mobile+Arena+Philadelphia/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/American+Airlines+Center+Dallas/United+Center+Chicago)
+- [Leg 3](https://www.google.com/maps/dir/United+Center+Chicago/Nationwide+Arena+Columbus/Lenovo+Center+Carolina/Grand+Casino+Arena+Minnesota/Canada+Life+Centre+Winnipeg/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/KeyBank+Center+Buffalo)
+- [Leg 4](https://www.google.com/maps/dir/KeyBank+Center+Buffalo/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/TD+Garden+Boston)
 
 # Trip Details
 1. Attend the game against the **Detroit Red Wings** in Little Caesars Arena on **Oct 17 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Bridgestone+Arena+Nashville) 859.3 km / 533.9 miles to Bridgestone Arena.

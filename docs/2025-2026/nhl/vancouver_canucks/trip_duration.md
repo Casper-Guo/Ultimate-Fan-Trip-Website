@@ -11,7 +11,11 @@ title: Vancouver Canucks, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 36602.5 km / 22743.8 miles
 - **Total Driving Duration:** 14 days, 3 hours, 39 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Rogers+Place+Edmonton/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/Grand+Casino+Arena+Minnesota/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Ball+Arena+Colorado/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/UBS+Arena+New+York/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo/Little+Caesars+Arena+Detroit/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas/Climate+Pledge+Arena+Seattle/United+Center+Chicago/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Rogers+Place+Edmonton/American+Airlines+Center+Dallas/Capital+One+Arena+Washington/PPG+Paints+Arena+Pittsburgh/Enterprise+Center+St.+Louis/Grand+Casino+Arena+Minnesota/Bridgestone+Arena+Nashville/Lenovo+Center+Carolina/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida)
+- [Leg 2](https://www.google.com/maps/dir/Amerant+Bank+Arena+Florida/Honda+Center+Anaheim/SAP+Center+at+San+Jose+San+Jose/Crypto.com+Arena+Los+Angeles/Ball+Arena+Colorado/Prudential+Center+New+Jersey/Madison+Square+Garden+New+York/UBS+Arena+New+York/TD+Garden+Boston/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 3](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/KeyBank+Center+Buffalo/Little+Caesars+Arena+Detroit/Scotiabank+Arena+Toronto/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Nationwide+Arena+Columbus/Delta+Center+Utah/T-Mobile+Arena+Vegas/Climate+Pledge+Arena+Seattle)
+- [Leg 4](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/United+Center+Chicago/Canada+Life+Centre+Winnipeg/Scotiabank+Saddledome+Calgary)
 
 # Trip Details
 1. Attend the game against the **Edmonton Oilers** in Rogers Place on **Oct 11 2025, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rogers+Place+Edmonton/American+Airlines+Center+Dallas) 3156.7 km / 1961.5 miles to American Airlines Center.

@@ -11,7 +11,10 @@ title: Boston Red Sox, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 41402.2 km / 25726.2 miles
 - **Total Driving Duration:** 15 days, 17 hours, 41 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Daikin+Park+Houston/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Oriole+Park+at+Camden+Yards+Baltimore/Comerica+Park+Detroit/Truist+Park+Atlanta/Kauffman+Stadium+Kansas+City/Progressive+Field+Cleveland/George+M.+Steinbrenner+Field+Tampa/T-Mobile+Park+Seattle/Coors+Field+Denver/Angel+Stadium+Anaheim/Rate+Field+Chicago/Citi+Field+Flushing/Sutter+Health+Park+Sacramento/Dodger+Stadium+Los+Angeles/Rogers+Centre+Toronto/PNC+Park+Pittsburgh/loanDepot+park+Miami/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Daikin+Park+Houston/Busch+Stadium+St.+Louis/Target+Field+Minneapolis/Oriole+Park+at+Camden+Yards+Baltimore/Comerica+Park+Detroit/Truist+Park+Atlanta/Kauffman+Stadium+Kansas+City/Progressive+Field+Cleveland/George+M.+Steinbrenner+Field+Tampa)
+- [Leg 2](https://www.google.com/maps/dir/George+M.+Steinbrenner+Field+Tampa/T-Mobile+Park+Seattle/Coors+Field+Denver/Angel+Stadium+Anaheim/Rate+Field+Chicago/Citi+Field+Flushing/Sutter+Health+Park+Sacramento/Dodger+Stadium+Los+Angeles/Rogers+Centre+Toronto/PNC+Park+Pittsburgh)
+- [Leg 3](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/loanDepot+park+Miami/Yankee+Stadium+Bronx/Globe+Life+Field+Arlington)
 
 # Trip Details
 1. Attend the game against the **Cincinnati Reds** in Great American Ball Park on **Mar 29 2026, 03:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Daikin+Park+Houston) 1686.4 km / 1047.9 miles to Daikin Park.

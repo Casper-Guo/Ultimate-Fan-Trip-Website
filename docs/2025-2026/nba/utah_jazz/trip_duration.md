@@ -11,7 +11,11 @@ title: Utah Jazz, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 43161.4 km / 26819.3 miles
 - **Total Driving Duration:** 16 days, 11 hours, 10 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/Scotiabank+Arena+Toronto+ON/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/FedExForum+Memphis+TN/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Toyota+Center+Houston+TX/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA/Little+Caesars+Arena+Detroit+MI/Target+Center+Minneapolis+MN/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Intuit+Dome+Inglewood+CA)
+- [Leg 2](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Moda+Center+Portland+OR/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/Scotiabank+Arena+Toronto+ON/Gainbridge+Fieldhouse+Indianapolis+IN/State+Farm+Arena+Atlanta+GA/Kia+Center+Orlando+FL)
+- [Leg 3](https://www.google.com/maps/dir/Kia+Center+Orlando+FL/Kaseya+Center+Miami+FL/FedExForum+Memphis+TN/Xfinity+Mobile+Arena+Philadelphia+PA/Capital+One+Arena+Washington+DC/Fiserv+Forum+Milwaukee+WI/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Toyota+Center+Houston+TX/Paycom+Center+Oklahoma+City+OK)
+- [Leg 4](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
 1. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Nov 02 2025, 06:00PM EST**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/TD+Garden+Boston+MA) 1349.1 km / 838.3 miles to TD Garden.

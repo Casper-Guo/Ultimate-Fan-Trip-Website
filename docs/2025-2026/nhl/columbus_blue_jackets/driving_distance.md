@@ -11,7 +11,11 @@ title: Columbus Blue Jackets, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 43351.3 km / 26937.3 miles
 - **Total Driving Duration:** 16 days, 22 hours, 51 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit/Capital+One+Arena+Washington/Lenovo+Center+Carolina/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Canadian+Tire+Centre+Ottawa/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Delta+Center+Utah/PPG+Paints+Arena+Pittsburgh/United+Center+Chicago/Enterprise+Center+St.+Louis/Prudential+Center+New+Jersey/TD+Garden+Boston/Madison+Square+Garden+New+York/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Xfinity+Mobile+Arena+Philadelphia/UBS+Arena+New+York/Centre+Bell+Montréal/KeyBank+Center+Buffalo)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota/American+Airlines+Center+Dallas/Scotiabank+Saddledome+Calgary/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit)
+- [Leg 2](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Capital+One+Arena+Washington/Lenovo+Center+Carolina/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/Canadian+Tire+Centre+Ottawa/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Delta+Center+Utah)
+- [Leg 3](https://www.google.com/maps/dir/Delta+Center+Utah/PPG+Paints+Arena+Pittsburgh/United+Center+Chicago/Enterprise+Center+St.+Louis/Prudential+Center+New+Jersey/TD+Garden+Boston/Madison+Square+Garden+New+York/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 4](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/UBS+Arena+New+York/Centre+Bell+Montréal/KeyBank+Center+Buffalo)
 
 # Trip Details
 1. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Oct 09 2025, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Grand+Casino+Arena+Minnesota) 1409.6 km / 875.9 miles to Grand Casino Arena.

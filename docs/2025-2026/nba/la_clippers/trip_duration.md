@@ -11,7 +11,11 @@ title: La Clippers, 2025-2026 season, Trip Duration
 - **Total Driving Distance:** 40077.8 km / 24903.3 miles
 - **Total Driving Duration:** 15 days, 6 hours, 37 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Moda+Center+Portland+OR/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC/United+Center+Chicago+IL/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Gainbridge+Fieldhouse+Indianapolis+IN/Fiserv+Forum+Milwaukee+WI)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Kia+Center+Orlando+FL/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Target+Center+Minneapolis+MN/Paycom+Center+Oklahoma+City+OK/Moda+Center+Portland+OR)
+- [Leg 2](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Capital+One+Arena+Washington+DC/United+Center+Chicago+IL/Delta+Center+Salt+Lake+City+UT/Ball+Arena+Denver+CO/PHX+Arena+Phoenix+AZ)
+- [Leg 3](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX/Crypto.com+Arena+Los+Angeles+CA/Chase+Center+San+Francisco+CA/Frost+Bank+Center+San+Antonio+TX/FedExForum+Memphis+TN/Smoothie+King+Center+New+Orleans+LA/American+Airlines+Center+Dallas+TX/Gainbridge+Fieldhouse+Indianapolis+IN)
+- [Leg 4](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/Fiserv+Forum+Milwaukee+WI)
 
 # Trip Details
 1. Attend the game against the **Boston Celtics** in TD Garden on **Nov 16 2025, 03:30PM EST**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA) 502.5 km / 312.2 miles to Xfinity Mobile Arena.

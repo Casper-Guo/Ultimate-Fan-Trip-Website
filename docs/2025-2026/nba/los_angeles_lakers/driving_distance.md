@@ -11,7 +11,11 @@ title: Los Angeles Lakers, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 34808.9 km / 21629.3 miles
 - **Total Driving Duration:** 13 days, 8 hours, 52 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Little+Caesars+Arena+Detroit+MI/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/American+Airlines+Center+Dallas+TX/Chase+Center+San+Francisco+CA)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Scotiabank+Arena+Toronto+ON/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA)
+- [Leg 2](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/PHX+Arena+Phoenix+AZ/Smoothie+King+Center+New+Orleans+LA/Frost+Bank+Center+San+Antonio+TX/Golden+1+Center+Sacramento+CA/Moda+Center+Portland+OR/Ball+Arena+Denver+CO/United+Center+Chicago+IL/Rocket+Arena+Cleveland+OH/Capital+One+Arena+Washington+DC)
+- [Leg 3](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/Madison+Square+Garden+New+York+NY/Barclays+Center+Brooklyn+NY/Toyota+Center+Houston+TX/Kaseya+Center+Miami+FL/Kia+Center+Orlando+FL/Little+Caesars+Arena+Detroit+MI/Gainbridge+Fieldhouse+Indianapolis+IN/Paycom+Center+Oklahoma+City+OK/American+Airlines+Center+Dallas+TX)
+- [Leg 4](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Chase+Center+San+Francisco+CA)
 
 # Trip Details
 1. Attend the game against the **Minnesota Timberwolves** in Target Center on **Oct 29 2025, 09:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/FedExForum+Memphis+TN) 1300.5 km / 808.1 miles to FedExForum.

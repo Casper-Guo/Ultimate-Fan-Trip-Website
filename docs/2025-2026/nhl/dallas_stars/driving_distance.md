@@ -11,7 +11,11 @@ title: Dallas Stars, 2025-2026 season, Driving Distance
 - **Total Driving Distance:** 47127.3 km / 29283.6 miles
 - **Total Driving Duration:** 18 days, 5 hours, 58 minutes
 
-[View the route on Google Maps](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Little+Caesars+Arena+Detroit/United+Center+Chicago/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Delta+Center+Utah/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Scotiabank+Arena+Toronto/KeyBank+Center+Buffalo)
+**View the route on Google Maps:**
+- [Leg 1](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville/Benchmark+International+Arena+Tampa+Bay/Amerant+Bank+Arena+Florida/Canadian+Tire+Centre+Ottawa/Centre+Bell+Montréal/Rogers+Arena+Vancouver/Scotiabank+Saddledome+Calgary/Rogers+Place+Edmonton/Climate+Pledge+Arena+Seattle)
+- [Leg 2](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Madison+Square+Garden+New+York/Prudential+Center+New+Jersey/Canada+Life+Centre+Winnipeg/SAP+Center+at+San+Jose+San+Jose/Little+Caesars+Arena+Detroit/United+Center+Chicago/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Crypto.com+Arena+Los+Angeles)
+- [Leg 3](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Honda+Center+Anaheim/Delta+Center+Utah/Nationwide+Arena+Columbus/T-Mobile+Arena+Vegas/Ball+Arena+Colorado/Grand+Casino+Arena+Minnesota/UBS+Arena+New+York/PPG+Paints+Arena+Pittsburgh/Xfinity+Mobile+Arena+Philadelphia)
+- [Leg 4](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/TD+Garden+Boston/Scotiabank+Arena+Toronto/KeyBank+Center+Buffalo)
 
 # Trip Details
 1. Attend the game against the **St. Louis Blues** in Enterprise Center on **Oct 18 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Bridgestone+Arena+Nashville) 498.3 km / 309.6 miles to Bridgestone Arena.
