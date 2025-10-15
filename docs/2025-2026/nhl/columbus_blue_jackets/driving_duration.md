@@ -6,7 +6,7 @@ title: Columbus Blue Jackets, 2025-2026 season, Driving Duration
 - **Season:** 2025-2026
 - **Team:** Columbus Blue Jackets
 - **Stops on the Trip:** 31
-- **Most Required Driving in a Day:** 11 hours
+- **Most Required Driving in a Day:** 14 hours
 - **Total Trip Duration:** 182 days
 - **Total Driving Distance:** 43351.3 km / 26937.3 miles
 - **Total Driving Duration:** 16 days, 22 hours, 51 minutes
@@ -28,7 +28,7 @@ title: Columbus Blue Jackets, 2025-2026 season, Driving Duration
 8. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Nov 18 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Scotiabank+Arena+Toronto) 2055.5 km / 1277.2 miles to Scotiabank Arena.
 9. Attend the game against the **Toronto Maple Leafs** in Scotiabank Arena on **Nov 20 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto/Little+Caesars+Arena+Detroit) 376.9 km / 234.2 miles to Little Caesars Arena.
 10. Attend the game against the **Detroit Red Wings** in Little Caesars Arena on **Nov 22 2025, 01:00PM EST**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Capital+One+Arena+Washington) 847.8 km / 526.8 miles to Capital One Arena.
-11. Attend the game against the **Washington Capitals** in Capital One Arena on **Nov 24 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Lenovo+Center+Carolina) 442.3 km / 274.8 miles to Lenovo Center.
+11. Attend the game against the **Washington Capitals** in Capital One Arena on **Dec 07 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Lenovo+Center+Carolina) 442.3 km / 274.8 miles to Lenovo Center.
 12. Attend the game against the **Carolina Hurricanes** in Lenovo Center on **Dec 09 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Honda+Center+Anaheim) 4089.6 km / 2541.2 miles to Honda Center.
 13. Attend the game against the **Anaheim Ducks** in Honda Center on **Dec 20 2025, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles) 48.9 km / 30.4 miles to Crypto.com Arena.
 14. Attend the game against the **Los Angeles Kings** in Crypto.com Arena on **Dec 22 2025, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles/Canadian+Tire+Centre+Ottawa) 4419.2 km / 2746.0 miles to Canadian Tire Centre.

@@ -6,16 +6,15 @@ title: Orlando Magic, 2025-2026 season, Trip Duration
 - **Season:** 2025-2026
 - **Team:** Orlando Magic
 - **Stops on the Trip:** 28
-- **Most Required Driving in a Day:** 6 hours
+- **Most Required Driving in a Day:** 10 hours
 - **Total Trip Duration:** 141 days
-- **Total Driving Distance:** 36589.4 km / 22735.7 miles
-- **Total Driving Duration:** 14 days, 1 hours, 49 minutes
+- **Total Driving Distance:** 36413.5 km / 22626.4 miles
+- **Total Driving Duration:** 14 days, 0 hours, 26 minutes
 
 **View the route on Google Maps:**
 - [Leg 1](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN)
-- [Leg 2](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA)
-- [Leg 3](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
-- [Leg 4](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA)
+- [Leg 2](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ)
+- [Leg 3](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
 1. Attend the game against the **Houston Rockets** in Toyota Center on **Nov 16 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA) 2975.7 km / 1849.0 miles to TD Garden.
@@ -30,19 +29,19 @@ title: Orlando Magic, 2025-2026 season, Trip Duration
 10. Attend the game against the **Indiana Pacers** in Gainbridge Fieldhouse on **Dec 31 2025, 03:00PM EST**. Then [drive](https://www.google.com/maps/dir/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL) 296.4 km / 184.2 miles to United Center.
 11. Attend the game against the **Chicago Bulls** in United Center on **Jan 02 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC) 1133.8 km / 704.5 miles to Capital One Arena.
 12. Attend the game against the **Washington Wizards** in Capital One Arena on **Jan 06 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY) 368.7 km / 229.1 miles to Barclays Center.
-13. Attend the game against the **Brooklyn Nets** in Barclays Center on **Jan 07 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Frost+Bank+Center+San+Antonio+TX) 2927.0 km / 1818.8 miles to Frost Bank Center.
-14. Attend the game against the **San Antonio Spurs** in Frost Bank Center on **Feb 01 2026, 04:00PM EST**. Then [drive](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK) 744.9 km / 462.9 miles to Paycom Center.
-15. Attend the game against the **Oklahoma City Thunder** in Paycom Center on **Feb 03 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA) 2608.2 km / 1620.7 miles to Golden 1 Center.
-16. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Feb 19 2026, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ) 1216.5 km / 755.9 miles to PHX Arena.
-17. Attend the game against the **Phoenix Suns** in PHX Arena on **Feb 21 2026, 05:00PM EST**. Then [drive](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA) 621.6 km / 386.2 miles to Intuit Dome.
-18. Attend the game against the **LA Clippers** in Intuit Dome on **Feb 22 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA) 21.8 km / 13.5 miles to Crypto.com Arena.
-19. Attend the game against the **Los Angeles Lakers** in Crypto.com Arena on **Feb 24 2026, 10:30PM EST**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN) 2991.5 km / 1858.9 miles to Target Center.
-20. Attend the game against the **Minnesota Timberwolves** in Target Center on **Mar 07 2026, 03:00PM EST**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI) 541.7 km / 336.6 miles to Fiserv Forum.
-21. Attend the game against the **Milwaukee Bucks** in Fiserv Forum on **Mar 08 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Kaseya+Center+Miami+FL) 2374.9 km / 1475.7 miles to Kaseya Center.
-22. Attend the game against the **Miami Heat** in Kaseya Center on **Mar 14 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA) 1072.6 km / 666.5 miles to State Farm Arena.
-23. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Mar 16 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC) 393.1 km / 244.3 miles to Spectrum Center.
-24. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Mar 19 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Rocket+Arena+Cleveland+OH) 828.6 km / 514.9 miles to Rocket Arena.
-25. Attend the game against the **Cleveland Cavaliers** in Rocket Arena on **Mar 24 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON) 468.9 km / 291.4 miles to Scotiabank Arena.
+13. Attend the game against the **Brooklyn Nets** in Barclays Center on **Jan 07 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH) 745.4 km / 463.2 miles to Rocket Arena.
+14. Attend the game against the **Cleveland Cavaliers** in Rocket Arena on **Jan 26 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Rocket+Arena+Cleveland+OH/Kaseya+Center+Miami+FL) 2005.5 km / 1246.1 miles to Kaseya Center.
+15. Attend the game against the **Miami Heat** in Kaseya Center on **Jan 28 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX) 2221.1 km / 1380.1 miles to Frost Bank Center.
+16. Attend the game against the **San Antonio Spurs** in Frost Bank Center on **Feb 01 2026, 04:00PM EST**. Then [drive](https://www.google.com/maps/dir/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK) 744.9 km / 462.9 miles to Paycom Center.
+17. Attend the game against the **Oklahoma City Thunder** in Paycom Center on **Feb 03 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA) 2608.2 km / 1620.7 miles to Golden 1 Center.
+18. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Feb 19 2026, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ) 1216.5 km / 755.9 miles to PHX Arena.
+19. Attend the game against the **Phoenix Suns** in PHX Arena on **Feb 21 2026, 05:00PM EST**. Then [drive](https://www.google.com/maps/dir/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA) 621.6 km / 386.2 miles to Intuit Dome.
+20. Attend the game against the **LA Clippers** in Intuit Dome on **Feb 22 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA) 21.8 km / 13.5 miles to Crypto.com Arena.
+21. Attend the game against the **Los Angeles Lakers** in Crypto.com Arena on **Feb 24 2026, 10:30PM EST**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN) 2991.5 km / 1858.9 miles to Target Center.
+22. Attend the game against the **Minnesota Timberwolves** in Target Center on **Mar 07 2026, 03:00PM EST**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI) 541.7 km / 336.6 miles to Fiserv Forum.
+23. Attend the game against the **Milwaukee Bucks** in Fiserv Forum on **Mar 08 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/State+Farm+Arena+Atlanta+GA) 1305.5 km / 811.2 miles to State Farm Arena.
+24. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Mar 16 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Spectrum+Center+Charlotte+NC) 393.1 km / 244.3 miles to Spectrum Center.
+25. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Mar 19 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Scotiabank+Arena+Toronto+ON) 1218.8 km / 757.4 miles to Scotiabank Arena.
 26. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Mar 29 2026, 06:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX) 2229.5 km / 1385.3 miles to American Airlines Center.
 27. Attend the game against the **Dallas Mavericks** in American Airlines Center on **Apr 03 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA) 816.5 km / 507.4 miles to Smoothie King Center.
 28. Attend the game against **New Orleans Pelicans** in Smoothie King Center at **Apr 05 2026, 07:00PM EDT**.

@@ -6,7 +6,7 @@ title: Indiana Pacers, 2025-2026 season, Trip Duration
 - **Season:** 2025-2026
 - **Team:** Indiana Pacers
 - **Stops on the Trip:** 29
-- **Most Required Driving in a Day:** 12 hours
+- **Most Required Driving in a Day:** 19 hours
 - **Total Trip Duration:** 148 days
 - **Total Driving Distance:** 44064.0 km / 27380.2 miles
 - **Total Driving Duration:** 16 days, 20 hours, 21 minutes

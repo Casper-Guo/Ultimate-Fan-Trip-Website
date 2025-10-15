@@ -6,7 +6,7 @@ title: Columbus Blue Jackets, 2025-2026 season, Driving Distance
 - **Season:** 2025-2026
 - **Team:** Columbus Blue Jackets
 - **Stops on the Trip:** 31
-- **Most Required Driving in a Day:** 11 hours
+- **Most Required Driving in a Day:** 14 hours
 - **Total Trip Duration:** 182 days
 - **Total Driving Distance:** 43351.3 km / 26937.3 miles
 - **Total Driving Duration:** 16 days, 22 hours, 51 minutes

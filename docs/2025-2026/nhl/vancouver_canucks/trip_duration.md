@@ -6,7 +6,7 @@ title: Vancouver Canucks, 2025-2026 season, Trip Duration
 - **Season:** 2025-2026
 - **Team:** Vancouver Canucks
 - **Stops on the Trip:** 31
-- **Most Required Driving in a Day:** 7 hours
+- **Most Required Driving in a Day:** 14 hours
 - **Total Trip Duration:** 169 days
 - **Total Driving Distance:** 36602.5 km / 22743.8 miles
 - **Total Driving Duration:** 14 days, 3 hours, 39 minutes

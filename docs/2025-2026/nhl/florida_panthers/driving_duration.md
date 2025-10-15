@@ -6,15 +6,15 @@ title: Florida Panthers, 2025-2026 season, Driving Duration
 - **Season:** 2025-2026
 - **Team:** Florida Panthers
 - **Stops on the Trip:** 31
-- **Most Required Driving in a Day:** 6 hours
+- **Most Required Driving in a Day:** 8 hours
 - **Total Trip Duration:** 181 days
-- **Total Driving Distance:** 37255.6 km / 23149.6 miles
-- **Total Driving Duration:** 14 days, 9 hours, 33 minutes
+- **Total Driving Distance:** 35589.8 km / 22114.5 miles
+- **Total Driving Duration:** 13 days, 18 hours, 52 minutes
 
 **View the route on Google Maps:**
 - [Leg 1](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia/Prudential+Center+New+Jersey/KeyBank+Center+Buffalo/TD+Garden+Boston/Honda+Center+Anaheim/Crypto.com+Arena+Los+Angeles/SAP+Center+at+San+Jose+San+Jose/T-Mobile+Arena+Vegas/Bridgestone+Arena+Nashville/Delta+Center+Utah)
-- [Leg 2](https://www.google.com/maps/dir/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Enterprise+Center+St.+Louis/Benchmark+International+Arena+Tampa+Bay)
-- [Leg 3](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/UBS+Arena+New+York/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh)
+- [Leg 2](https://www.google.com/maps/dir/Delta+Center+Utah/Ball+Arena+Colorado/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota/United+Center+Chicago/Enterprise+Center+St.+Louis)
+- [Leg 3](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver/Rogers+Place+Edmonton/Scotiabank+Saddledome+Calgary/UBS+Arena+New+York/Madison+Square+Garden+New+York/PPG+Paints+Arena+Pittsburgh)
 - [Leg 4](https://www.google.com/maps/dir/PPG+Paints+Arena+Pittsburgh/Centre+Bell+Montréal/Canadian+Tire+Centre+Ottawa/Scotiabank+Arena+Toronto)
 
 # Trip Details
@@ -29,14 +29,14 @@ title: Florida Panthers, 2025-2026 season, Driving Duration
 9. Attend the game against the **Nashville Predators** in Bridgestone Arena on **Nov 24 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Bridgestone+Arena+Nashville/Delta+Center+Utah) 2624.6 km / 1630.9 miles to Delta Center.
 10. Attend the game against the **Utah Mammoth** in Delta Center on **Dec 10 2025, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Utah/Ball+Arena+Colorado) 835.8 km / 519.3 miles to Ball Arena.
 11. Attend the game against the **Colorado Avalanche** in Ball Arena on **Dec 11 2025, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Colorado/American+Airlines+Center+Dallas) 1277.7 km / 793.9 miles to American Airlines Center.
-12. Attend the game against the **Dallas Stars** in American Airlines Center on **Dec 13 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Lenovo+Center+Carolina) 1903.0 km / 1182.5 miles to Lenovo Center.
-13. Attend the game against the **Carolina Hurricanes** in Lenovo Center on **Dec 23 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Capital+One+Arena+Washington) 442.7 km / 275.1 miles to Capital One Arena.
-14. Attend the game against the **Washington Capitals** in Capital One Arena on **Jan 17 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg) 2530.0 km / 1572.1 miles to Canada Life Centre.
-15. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Jan 22 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota) 750.4 km / 466.3 miles to Grand Casino Arena.
-16. Attend the game against the **Minnesota Wild** in Grand Casino Arena on **Jan 24 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/United+Center+Chicago) 648.7 km / 403.1 miles to United Center.
-17. Attend the game against the **Chicago Blackhawks** in United Center on **Jan 25 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago/Enterprise+Center+St.+Louis) 479.1 km / 297.7 miles to Enterprise Center.
-18. Attend the game against the **St. Louis Blues** in Enterprise Center on **Jan 29 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Benchmark+International+Arena+Tampa+Bay) 1626.7 km / 1010.8 miles to Benchmark International Arena.
-19. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Feb 05 2026, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Nationwide+Arena+Columbus) 1647.5 km / 1023.7 miles to Nationwide Arena.
+12. Attend the game against the **Dallas Stars** in American Airlines Center on **Dec 13 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/American+Airlines+Center+Dallas/Benchmark+International+Arena+Tampa+Bay) 1777.9 km / 1104.8 miles to Benchmark International Arena.
+13. Attend the game against the **Tampa Bay Lightning** in Benchmark International Arena on **Dec 15 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Benchmark+International+Arena+Tampa+Bay/Lenovo+Center+Carolina) 1060.9 km / 659.2 miles to Lenovo Center.
+14. Attend the game against the **Carolina Hurricanes** in Lenovo Center on **Jan 16 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Lenovo+Center+Carolina/Capital+One+Arena+Washington) 442.7 km / 275.1 miles to Capital One Arena.
+15. Attend the game against the **Washington Capitals** in Capital One Arena on **Jan 17 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Capital+One+Arena+Washington/Canada+Life+Centre+Winnipeg) 2530.0 km / 1572.1 miles to Canada Life Centre.
+16. Attend the game against the **Winnipeg Jets** in Canada Life Centre on **Jan 22 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Canada+Life+Centre+Winnipeg/Grand+Casino+Arena+Minnesota) 750.4 km / 466.3 miles to Grand Casino Arena.
+17. Attend the game against the **Minnesota Wild** in Grand Casino Arena on **Jan 24 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Grand+Casino+Arena+Minnesota/United+Center+Chicago) 648.7 km / 403.1 miles to United Center.
+18. Attend the game against the **Chicago Blackhawks** in United Center on **Jan 25 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/United+Center+Chicago/Enterprise+Center+St.+Louis) 479.1 km / 297.7 miles to Enterprise Center.
+19. Attend the game against the **St. Louis Blues** in Enterprise Center on **Jan 29 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Enterprise+Center+St.+Louis/Nationwide+Arena+Columbus) 672.5 km / 417.9 miles to Nationwide Arena.
 20. Attend the game against the **Columbus Blue Jackets** in Nationwide Arena on **Mar 05 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Nationwide+Arena+Columbus/Little+Caesars+Arena+Detroit) 324.3 km / 201.5 miles to Little Caesars Arena.
 21. Attend the game against the **Detroit Red Wings** in Little Caesars Arena on **Mar 06 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit/Climate+Pledge+Arena+Seattle) 3787.3 km / 2353.3 miles to Climate Pledge Arena.
 22. Attend the game against the **Seattle Kraken** in Climate Pledge Arena on **Mar 15 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Climate+Pledge+Arena+Seattle/Rogers+Arena+Vancouver) 228.5 km / 142.0 miles to Rogers Arena.

@@ -6,24 +6,23 @@ title: Orlando Magic, 2025-2026 season, Driving Duration
 - **Season:** 2025-2026
 - **Team:** Orlando Magic
 - **Stops on the Trip:** 28
-- **Most Required Driving in a Day:** 6 hours
-- **Total Trip Duration:** 158 days
-- **Total Driving Distance:** 35673.0 km / 22166.2 miles
-- **Total Driving Duration:** 13 days, 17 hours, 8 minutes
+- **Most Required Driving in a Day:** 10 hours
+- **Total Trip Duration:** 159 days
+- **Total Driving Distance:** 34889.6 km / 21679.4 miles
+- **Total Driving Duration:** 13 days, 10 hours, 24 minutes
 
 **View the route on Google Maps:**
-- [Leg 1](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA)
+- [Leg 1](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA)
 - [Leg 2](https://www.google.com/maps/dir/Chase+Center+San+Francisco+CA/Moda+Center+Portland+OR/Gainbridge+Fieldhouse+Indianapolis+IN/United+Center+Chicago+IL/Capital+One+Arena+Washington+DC/Barclays+Center+Brooklyn+NY/Kaseya+Center+Miami+FL/Frost+Bank+Center+San+Antonio+TX/Paycom+Center+Oklahoma+City+OK/Golden+1+Center+Sacramento+CA)
 - [Leg 3](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/PHX+Arena+Phoenix+AZ/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Target+Center+Minneapolis+MN/Fiserv+Forum+Milwaukee+WI/Rocket+Arena+Cleveland+OH/Scotiabank+Arena+Toronto+ON/American+Airlines+Center+Dallas+TX/Smoothie+King+Center+New+Orleans+LA)
-- [Leg 4](https://www.google.com/maps/dir/Smoothie+King+Center+New+Orleans+LA)
 
 # Trip Details
-1. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA) 393.2 km / 244.4 miles to State Farm Arena.
-2. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Nov 04 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX) 1276.9 km / 793.4 miles to Toyota Center.
-3. Attend the game against the **Houston Rockets** in Toyota Center on **Nov 16 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA) 2975.7 km / 1849.0 miles to TD Garden.
-4. Attend the game against the **Boston Celtics** in TD Garden on **Nov 23 2025, 06:00PM EST**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA) 502.5 km / 312.2 miles to Xfinity Mobile Arena.
-5. Attend the game against the **Philadelphia 76ers** in Xfinity Mobile Arena on **Nov 25 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Little+Caesars+Arena+Detroit+MI) 945.9 km / 587.7 miles to Little Caesars Arena.
-6. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Nov 28 2025, 07:30PM EST**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Madison+Square+Garden+New+York+NY) 990.1 km / 615.2 miles to Madison Square Garden.
+1. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Oct 29 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Spectrum+Center+Charlotte+NC) 992.3 km / 616.6 miles to Spectrum Center.
+2. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Oct 30 2025, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/State+Farm+Arena+Atlanta+GA) 393.2 km / 244.4 miles to State Farm Arena.
+3. Attend the game against the **Atlanta Hawks** in State Farm Arena on **Nov 04 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/State+Farm+Arena+Atlanta+GA/Toyota+Center+Houston+TX) 1276.9 km / 793.4 miles to Toyota Center.
+4. Attend the game against the **Houston Rockets** in Toyota Center on **Nov 16 2025, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/TD+Garden+Boston+MA) 2975.7 km / 1849.0 miles to TD Garden.
+5. Attend the game against the **Boston Celtics** in TD Garden on **Nov 23 2025, 06:00PM EST**. Then [drive](https://www.google.com/maps/dir/TD+Garden+Boston+MA/Xfinity+Mobile+Arena+Philadelphia+PA) 502.5 km / 312.2 miles to Xfinity Mobile Arena.
+6. Attend the game against the **Philadelphia 76ers** in Xfinity Mobile Arena on **Nov 25 2025, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Xfinity+Mobile+Arena+Philadelphia+PA/Madison+Square+Garden+New+York+NY) 160.3 km / 99.6 miles to Madison Square Garden.
 7. Attend the game against the **New York Knicks** in Madison Square Garden on **Dec 07 2025, 12:00PM EST**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Ball+Arena+Denver+CO) 2862.0 km / 1778.3 miles to Ball Arena.
 8. Attend the game against the **Denver Nuggets** in Ball Arena on **Dec 18 2025, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Delta+Center+Salt+Lake+City+UT) 836.0 km / 519.5 miles to Delta Center.
 9. Attend the game against the **Utah Jazz** in Delta Center on **Dec 20 2025, 09:30PM EST**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Chase+Center+San+Francisco+CA) 1184.0 km / 735.7 miles to Chase Center.

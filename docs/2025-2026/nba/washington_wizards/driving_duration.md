@@ -6,7 +6,7 @@ title: Washington Wizards, 2025-2026 season, Driving Duration
 - **Season:** 2025-2026
 - **Team:** Washington Wizards
 - **Stops on the Trip:** 29
-- **Most Required Driving in a Day:** 13 hours
+- **Most Required Driving in a Day:** 17 hours
 - **Total Trip Duration:** 158 days
 - **Total Driving Distance:** 35899.2 km / 22306.8 miles
 - **Total Driving Duration:** 13 days, 21 hours, 5 minutes

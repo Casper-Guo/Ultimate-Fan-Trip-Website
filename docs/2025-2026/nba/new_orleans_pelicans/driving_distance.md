@@ -8,14 +8,14 @@ title: New Orleans Pelicans, 2025-2026 season, Driving Distance
 - **Stops on the Trip:** 29
 - **Most Required Driving in a Day:** 7 hours
 - **Total Trip Duration:** 163 days
-- **Total Driving Distance:** 42686.8 km / 26524.4 miles
-- **Total Driving Duration:** 16 days, 4 hours, 56 minutes
+- **Total Driving Distance:** 43101.1 km / 26781.9 miles
+- **Total Driving Duration:** 16 days, 8 hours, 39 minutes
 
 **View the route on Google Maps:**
 - [Leg 1](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK/American+Airlines+Center+Dallas+TX/Frost+Bank+Center+San+Antonio+TX/PHX+Arena+Phoenix+AZ/Chase+Center+San+Francisco+CA/Barclays+Center+Brooklyn+NY/Rocket+Arena+Cleveland+OH/United+Center+Chicago+IL/Kaseya+Center+Miami+FL)
 - [Leg 2](https://www.google.com/maps/dir/Kaseya+Center+Miami+FL/State+Farm+Arena+Atlanta+GA/Capital+One+Arena+Washington+DC/Kia+Center+Orlando+FL/Gainbridge+Fieldhouse+Indianapolis+IN/FedExForum+Memphis+TN/Xfinity+Mobile+Arena+Philadelphia+PA/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN)
-- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA)
-- [Leg 4](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/TD+Garden+Boston+MA)
+- [Leg 3](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR)
+- [Leg 4](https://www.google.com/maps/dir/Moda+Center+Portland+OR/TD+Garden+Boston+MA)
 
 # Trip Details
 1. Attend the game against the **Denver Nuggets** in Ball Arena on **Oct 29 2025, 09:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Ball+Arena+Denver+CO/Paycom+Center+Oklahoma+City+OK) 1089.2 km / 676.8 miles to Paycom Center.
@@ -37,15 +37,15 @@ title: New Orleans Pelicans, 2025-2026 season, Driving Distance
 17. Attend the game against the **Charlotte Hornets** in Spectrum Center on **Feb 02 2026, 07:00PM EST**. Then [drive](https://www.google.com/maps/dir/Spectrum+Center+Charlotte+NC/Fiserv+Forum+Milwaukee+WI) 1371.9 km / 852.5 miles to Fiserv Forum.
 18. Attend the game against the **Milwaukee Bucks** in Fiserv Forum on **Feb 04 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Fiserv+Forum+Milwaukee+WI/Target+Center+Minneapolis+MN) 542.3 km / 337.0 miles to Target Center.
 19. Attend the game against the **Minnesota Timberwolves** in Target Center on **Feb 06 2026, 08:00PM EST**. Then [drive](https://www.google.com/maps/dir/Target+Center+Minneapolis+MN/Delta+Center+Salt+Lake+City+UT) 2007.6 km / 1247.5 miles to Delta Center.
-20. Attend the game against the **Utah Jazz** in Delta Center on **Feb 28 2026, 09:30PM EST**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA) 1129.1 km / 701.6 miles to Intuit Dome.
+20. Attend the game against the **Utah Jazz** in Delta Center on **Feb 26 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Delta+Center+Salt+Lake+City+UT/Intuit+Dome+Inglewood+CA) 1129.1 km / 701.6 miles to Intuit Dome.
 21. Attend the game against the **LA Clippers** in Intuit Dome on **Mar 01 2026, 09:00PM EST**. Then [drive](https://www.google.com/maps/dir/Intuit+Dome+Inglewood+CA/Crypto.com+Arena+Los+Angeles+CA) 21.8 km / 13.5 miles to Crypto.com Arena.
-22. Attend the game against the **Los Angeles Lakers** in Crypto.com Arena on **Mar 03 2026, 10:30PM EST**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Toyota+Center+Houston+TX) 2494.8 km / 1550.2 miles to Toyota Center.
-23. Attend the game against the **Houston Rockets** in Toyota Center on **Mar 13 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY) 2623.5 km / 1630.1 miles to Madison Square Garden.
-24. Attend the game against the **New York Knicks** in Madison Square Garden on **Mar 24 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI) 990.9 km / 615.7 miles to Little Caesars Arena.
-25. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Mar 26 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON) 378.1 km / 235.0 miles to Scotiabank Arena.
-26. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Mar 27 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR) 4218.0 km / 2621.0 miles to Moda Center.
-27. Attend the game against the **Portland Trail Blazers** in Moda Center on **Apr 02 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/Golden+1+Center+Sacramento+CA) 933.2 km / 579.9 miles to Golden 1 Center.
-28. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Apr 03 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/TD+Garden+Boston+MA) 4855.0 km / 3016.8 miles to TD Garden.
+22. Attend the game against the **Los Angeles Lakers** in Crypto.com Arena on **Mar 03 2026, 10:30PM EST**. Then [drive](https://www.google.com/maps/dir/Crypto.com+Arena+Los+Angeles+CA/Golden+1+Center+Sacramento+CA) 618.6 km / 384.4 miles to Golden 1 Center.
+23. Attend the game against the **Sacramento Kings** in Golden 1 Center on **Mar 05 2026, 10:00PM EST**. Then [drive](https://www.google.com/maps/dir/Golden+1+Center+Sacramento+CA/Toyota+Center+Houston+TX) 3107.7 km / 1931.1 miles to Toyota Center.
+24. Attend the game against the **Houston Rockets** in Toyota Center on **Mar 13 2026, 08:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Toyota+Center+Houston+TX/Madison+Square+Garden+New+York+NY) 2623.5 km / 1630.1 miles to Madison Square Garden.
+25. Attend the game against the **New York Knicks** in Madison Square Garden on **Mar 24 2026, 07:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Madison+Square+Garden+New+York+NY/Little+Caesars+Arena+Detroit+MI) 990.9 km / 615.7 miles to Little Caesars Arena.
+26. Attend the game against the **Detroit Pistons** in Little Caesars Arena on **Mar 26 2026, 07:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Little+Caesars+Arena+Detroit+MI/Scotiabank+Arena+Toronto+ON) 378.1 km / 235.0 miles to Scotiabank Arena.
+27. Attend the game against the **Toronto Raptors** in Scotiabank Arena on **Mar 27 2026, 08:30PM EDT**. Then [drive](https://www.google.com/maps/dir/Scotiabank+Arena+Toronto+ON/Moda+Center+Portland+OR) 4218.0 km / 2621.0 miles to Moda Center.
+28. Attend the game against the **Portland Trail Blazers** in Moda Center on **Apr 02 2026, 10:00PM EDT**. Then [drive](https://www.google.com/maps/dir/Moda+Center+Portland+OR/TD+Garden+Boston+MA) 4971.0 km / 3088.9 miles to TD Garden.
 29. Attend the game against **Boston Celtics** in TD Garden at **Apr 10 2026, 07:30PM EDT**.
 
 [Back to New Orleans Pelicans, 2025-2026 season]({{ '2025-2026/nba/new_orleans_pelicans' | relative_url }})
