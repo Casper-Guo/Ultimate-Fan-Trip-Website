@@ -6,7 +6,6 @@ from pathlib import Path
 from trip_solver.models.internal import Events
 from trip_solver.util.cost_matrix import load_cost_matrix_from_json
 
-from consts import CURRENT_SEASON, SOURCE
 from format import (
     create_league_index_page,
     create_solution_markdown,
@@ -32,9 +31,18 @@ def main() -> None:
     """
     parser = argparse.ArgumentParser(description="Ultimate Fan Trip Solver CLI")
     parser.add_argument("input_dir", type=str, help="Path to the input directory")
+    parser.add_argument(
+        "output_dir",
+        type=str,
+        help=(
+            "Path to the output root. "
+            "The created pages are placed in a subdirectory named after the input directory."
+        ),
+    )
     args = parser.parse_args()
 
-    input_dir = Path(args.input_dir)
+    input_dir = Path(args.input_dir).resolve()
+    output_dir = Path(args.output_dir).resolve()
 
     if not input_dir.is_dir():
         raise ValueError(
@@ -59,27 +67,29 @@ def main() -> None:
 
     create_league_index_page(
         input_dir / "solutions",
-        SOURCE / CURRENT_SEASON / input_dir.name,
+        output_dir / input_dir.name,
         (input_dir.name).upper(),
+        season=output_dir.name,
     )
 
     for team_dir in (input_dir / "solutions").iterdir():
         create_team_index_page(
             team_dir,
-            SOURCE / CURRENT_SEASON / input_dir.name / team_dir.name,
+            output_dir / input_dir.name / team_dir.name,
+            season=output_dir.name,
         )
         for solution_file in team_dir.iterdir():
             if solution_file.is_file():
                 create_solution_markdown(
                     solution_file,
-                    SOURCE
-                    / CURRENT_SEASON
+                    output_dir
                     / input_dir.name
                     / team_dir.name
                     / f"{(solution_file.name).replace('.txt', '.md')}",
                     events,
                     distance_matrix,
                     duration_matrix,
+                    season=output_dir.name,
                 )
 
 
