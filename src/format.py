@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from trip_solver.models.internal import CostMatrix, Event, Events
 from trip_solver.util.google_maps_util import format_route_url
 
-from consts import CURRENT_SEASON, GOOGLE_MAP_MAX_STOPS, SOURCE
+from consts import GOOGLE_MAP_MAX_STOPS, SOURCE
 
 
 def format_jekyll_link(name: str, path: Path) -> str:
@@ -26,7 +26,7 @@ def create_league_index_page(
     input_dir: Path,
     output_dir: Path,
     title: str,
-    season: str = CURRENT_SEASON,
+    season: str,
 ) -> None:
     """
     Input directory should be the root of all solutions for a league.
@@ -61,7 +61,7 @@ def create_league_index_page(
 def create_team_index_page(
     input_dir: Path,
     output_dir: Path,
-    season: str = CURRENT_SEASON,
+    season: str,
 ) -> None:
     """
     Input directory should be the directory containing solutions for a team.
@@ -181,7 +181,7 @@ def create_solution_markdown(
     events: Events,
     distance_matrix: CostMatrix,
     duration_matrix: CostMatrix,
-    season: str = CURRENT_SEASON,
+    season: str,
 ) -> None:
     """Format the input solution file into an informational markdown file."""
     if SOURCE not in output_file.parents:
