@@ -136,7 +136,7 @@ def format_trip_details(
         game_time = event_1.time.astimezone(ZoneInfo("America/New_York")).strftime(
             "%b %d %Y, %I:%M%p %Z",
         )
-        game_desc = f"Attend the game against the **{event_1.home_team.name}** in {event_1.venue.name} on **{game_time}**."  # noqa: E501
+        game_desc = f"Attend the game against the **{event_1.home_team.name}** in {event_1.venue.name} at **{game_time}**."  # noqa: E501
 
         driving_distance = readable_distance(
             distance_matrix[event_1.venue.id][event_2.venue.id],
