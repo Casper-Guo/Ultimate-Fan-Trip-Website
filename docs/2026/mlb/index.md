@@ -1,0 +1,37 @@
+---
+title: MLB, 2026 season
+---
+
+# Teams
+- [Arizona Diamondbacks]({{ '2026/mlb/arizona_diamondbacks' | relative_url }})
+- [Athletics]({{ '2026/mlb/athletics' | relative_url }})
+- [Atlanta Braves]({{ '2026/mlb/atlanta_braves' | relative_url }})
+- [Baltimore Orioles]({{ '2026/mlb/baltimore_orioles' | relative_url }})
+- [Boston Red Sox]({{ '2026/mlb/boston_red_sox' | relative_url }})
+- [Chicago Cubs]({{ '2026/mlb/chicago_cubs' | relative_url }})
+- [Chicago White Sox]({{ '2026/mlb/chicago_white_sox' | relative_url }})
+- [Cincinnati Reds]({{ '2026/mlb/cincinnati_reds' | relative_url }})
+- [Cleveland Guardians]({{ '2026/mlb/cleveland_guardians' | relative_url }})
+- [Colorado Rockies]({{ '2026/mlb/colorado_rockies' | relative_url }})
+- [Detroit Tigers]({{ '2026/mlb/detroit_tigers' | relative_url }})
+- [Houston Astros]({{ '2026/mlb/houston_astros' | relative_url }})
+- [Kansas City Royals]({{ '2026/mlb/kansas_city_royals' | relative_url }})
+- [Los Angeles Angels]({{ '2026/mlb/los_angeles_angels' | relative_url }})
+- [Los Angeles Dodgers]({{ '2026/mlb/los_angeles_dodgers' | relative_url }})
+- [Miami Marlins]({{ '2026/mlb/miami_marlins' | relative_url }})
+- [Milwaukee Brewers]({{ '2026/mlb/milwaukee_brewers' | relative_url }})
+- [Minnesota Twins]({{ '2026/mlb/minnesota_twins' | relative_url }})
+- [New York Mets]({{ '2026/mlb/new_york_mets' | relative_url }})
+- [New York Yankees]({{ '2026/mlb/new_york_yankees' | relative_url }})
+- [Philadelphia Phillies]({{ '2026/mlb/philadelphia_phillies' | relative_url }})
+- [Pittsburgh Pirates]({{ '2026/mlb/pittsburgh_pirates' | relative_url }})
+- [San Diego Padres]({{ '2026/mlb/san_diego_padres' | relative_url }})
+- [San Francisco Giants]({{ '2026/mlb/san_francisco_giants' | relative_url }})
+- [Seattle Mariners]({{ '2026/mlb/seattle_mariners' | relative_url }})
+- [St. Louis Cardinals]({{ '2026/mlb/st._louis_cardinals' | relative_url }})
+- [Tampa Bay Rays]({{ '2026/mlb/tampa_bay_rays' | relative_url }})
+- [Texas Rangers]({{ '2026/mlb/texas_rangers' | relative_url }})
+- [Toronto Blue Jays]({{ '2026/mlb/toronto_blue_jays' | relative_url }})
+- [Washington Nationals]({{ '2026/mlb/washington_nationals' | relative_url }})
+
+[Home]({{ '.' | relative_url }})

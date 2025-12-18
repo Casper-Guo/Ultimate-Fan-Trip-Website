@@ -1,0 +1,10 @@
+---
+title: Texas Rangers, 2026 season
+---
+
+# Optimization Criteria
+- [Driving Distance]({{ '2026/mlb/texas_rangers/driving_distance.html' | relative_url }})
+- [Driving Duration]({{ '2026/mlb/texas_rangers/driving_duration.html' | relative_url }})
+- [Trip Duration]({{ '2026/mlb/texas_rangers/trip_duration.html' | relative_url }})
+
+[Back to MLB, 2026 season]({{ '2026/mlb' | relative_url }})
