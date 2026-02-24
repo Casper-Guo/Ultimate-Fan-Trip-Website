@@ -95,7 +95,6 @@ select = [
 ]
 
 ignore = [
-    "ISC001",  # conflict with formatter
     "D203",    # conflict with preferred D211 (No blank lines allowed before class docstring)
     "D212",    # conflict with preferred D213 (Multi-line docstring summary should start at the second line)
     "PLR0912", # function too many branches
