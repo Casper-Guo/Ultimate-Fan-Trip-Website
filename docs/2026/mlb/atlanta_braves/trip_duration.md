@@ -7,7 +7,7 @@ title: Atlanta Braves, 2026 season, Trip Duration
 - **Team:** Atlanta Braves
 - **Stops on the Trip:** 22
 - **Most Required Driving in a Day:** 4 hours
-- **Total Trip Duration:** 166 days
+- **Total Trip Duration:** 167 days
 - **Total Driving Distance:** 40340.9 km / 25066.7 miles
 - **Total Driving Duration:** 15 days, 12 hours, 28 minutes
 
@@ -26,10 +26,10 @@ title: Atlanta Braves, 2026 season, Trip Duration
 7. Attend the game against the **Miami Marlins** in loanDepot park at **May 19 2026, 04:10PM EDT**. Then [drive](https://www.google.com/maps/dir/loanDepot+park+Miami/Fenway+Park+Boston) 2400.7 km / 1491.7 miles to Fenway Park.
 8. Attend the game against the **Boston Red Sox** in Fenway Park at **May 28 2026, 04:10PM EDT**. Then [drive](https://www.google.com/maps/dir/Fenway+Park+Boston/Great+American+Ball+Park+Cincinnati) 1416.7 km / 880.3 miles to Great American Ball Park.
 9. Attend the game against the **Cincinnati Reds** in Great American Ball Park at **May 31 2026, 01:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Great+American+Ball+Park+Cincinnati/Rate+Field+Chicago) 468.9 km / 291.4 miles to Rate Field.
-10. Attend the game against the **Chicago White Sox** in Rate Field at **Jun 09 2026, 07:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Rate+Field+Chicago/Citi+Field+Flushing) 1286.0 km / 799.1 miles to Citi Field.
-11. Attend the game against the **New York Mets** in Citi Field at **Jun 12 2026, 07:10PM EDT**. Then [drive](https://www.google.com/maps/dir/Citi+Field+Flushing/Petco+Park+San+Diego) 4473.2 km / 2779.5 miles to Petco Park.
+10. Attend the game against the **Chicago White Sox** in Rate Field at **Jun 10 2026, 07:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Rate+Field+Chicago/Citi+Field+Flushing) 1286.0 km / 799.1 miles to Citi Field.
+11. Attend the game against the **New York Mets** in Citi Field at **Jun 13 2026, 04:10PM EDT**. Then [drive](https://www.google.com/maps/dir/Citi+Field+Flushing/Petco+Park+San+Diego) 4473.2 km / 2779.5 miles to Petco Park.
 12. Attend the game against the **San Diego Padres** in Petco Park at **Jun 24 2026, 08:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Petco+Park+San+Diego/Oracle+Park+San+Francisco) 808.9 km / 502.6 miles to Oracle Park.
-13. Attend the game against the **San Francisco Giants** in Oracle Park at **Jun 27 2026, 06:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh) 4142.8 km / 2574.2 miles to PNC Park.
+13. Attend the game against the **San Francisco Giants** in Oracle Park at **Jun 27 2026, 09:05PM EDT**. Then [drive](https://www.google.com/maps/dir/Oracle+Park+San+Francisco/PNC+Park+Pittsburgh) 4142.8 km / 2574.2 miles to PNC Park.
 14. Attend the game against the **Pittsburgh Pirates** in PNC Park at **Jul 07 2026, 06:40PM EDT**. Then [drive](https://www.google.com/maps/dir/PNC+Park+Pittsburgh/Busch+Stadium+St.+Louis) 967.7 km / 601.3 miles to Busch Stadium.
 15. Attend the game against the **St. Louis Cardinals** in Busch Stadium at **Jul 12 2026, 02:15PM EDT**. Then [drive](https://www.google.com/maps/dir/Busch+Stadium+St.+Louis/Oriole+Park+at+Camden+Yards+Baltimore) 1319.4 km / 819.8 miles to Oriole Park at Camden Yards.
 16. Attend the game against the **Baltimore Orioles** in Oriole Park at Camden Yards at **Jul 26 2026, 01:35PM EDT**. Then [drive](https://www.google.com/maps/dir/Oriole+Park+at+Camden+Yards+Baltimore/Yankee+Stadium+Bronx) 324.4 km / 201.6 miles to Yankee Stadium.
@@ -37,7 +37,7 @@ title: Atlanta Braves, 2026 season, Trip Duration
 18. Attend the game against the **Minnesota Twins** in Target Field at **Aug 18 2026, 07:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Target+Field+Minneapolis/American+Family+Field+Milwaukee) 540.2 km / 335.7 miles to American Family Field.
 19. Attend the game against the **Milwaukee Brewers** in American Family Field at **Aug 22 2026, 02:10PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/Citizens+Bank+Park+Philadelphia) 1376.4 km / 855.3 miles to Citizens Bank Park.
 20. Attend the game against the **Philadelphia Phillies** in Citizens Bank Park at **Sep 07 2026, 01:05PM EDT**. Then [drive](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Wrigley+Field+Chicago) 1243.5 km / 772.7 miles to Wrigley Field.
-21. Attend the game against the **Chicago Cubs** in Wrigley Field at **Sep 14 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Daikin+Park+Houston) 1752.3 km / 1088.8 miles to Daikin Park.
-22. Attend the game against **Houston Astros** in Daikin Park at **Sep 18 2026, 04:33AM EDT**.
+21. Attend the game against the **Chicago Cubs** in Wrigley Field at **Sep 14 2026, 07:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Daikin+Park+Houston) 1752.3 km / 1088.8 miles to Daikin Park.
+22. Attend the game against **Houston Astros** in Daikin Park at **Sep 18 2026, 08:10PM EDT**.
 
 [Back to Atlanta Braves, 2026 season]({{ '2026/mlb/atlanta_braves' | relative_url }})

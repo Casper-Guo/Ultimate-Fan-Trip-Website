@@ -36,8 +36,8 @@ title: Atlanta Braves, 2026 season, Driving Distance
 17. Attend the game against the **Milwaukee Brewers** in American Family Field at **Aug 22 2026, 02:10PM EDT**. Then [drive](https://www.google.com/maps/dir/American+Family+Field+Milwaukee/Nationals+Park+Washington) 1280.5 km / 795.6 miles to Nationals Park.
 18. Attend the game against the **Washington Nationals** in Nationals Park at **Sep 02 2026, 01:05PM EDT**. Then [drive](https://www.google.com/maps/dir/Nationals+Park+Washington/Citizens+Bank+Park+Philadelphia) 215.4 km / 133.8 miles to Citizens Bank Park.
 19. Attend the game against the **Philadelphia Phillies** in Citizens Bank Park at **Sep 07 2026, 01:05PM EDT**. Then [drive](https://www.google.com/maps/dir/Citizens+Bank+Park+Philadelphia/Wrigley+Field+Chicago) 1243.5 km / 772.7 miles to Wrigley Field.
-20. Attend the game against the **Chicago Cubs** in Wrigley Field at **Sep 14 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Daikin+Park+Houston) 1752.3 km / 1088.8 miles to Daikin Park.
-21. Attend the game against the **Houston Astros** in Daikin Park at **Sep 18 2026, 04:33AM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/loanDepot+park+Miami) 1910.6 km / 1187.2 miles to loanDepot park.
+20. Attend the game against the **Chicago Cubs** in Wrigley Field at **Sep 14 2026, 07:40PM EDT**. Then [drive](https://www.google.com/maps/dir/Wrigley+Field+Chicago/Daikin+Park+Houston) 1752.3 km / 1088.8 miles to Daikin Park.
+21. Attend the game against the **Houston Astros** in Daikin Park at **Sep 18 2026, 08:10PM EDT**. Then [drive](https://www.google.com/maps/dir/Daikin+Park+Houston/loanDepot+park+Miami) 1910.6 km / 1187.2 miles to loanDepot park.
 22. Attend the game against **Miami Marlins** in loanDepot park at **Sep 25 2026, 07:10PM EDT**.
 
 [Back to Atlanta Braves, 2026 season]({{ '2026/mlb/atlanta_braves' | relative_url }})
