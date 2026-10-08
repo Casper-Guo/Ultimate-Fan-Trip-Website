@@ -6,6 +6,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from trip_solver.models.internal import CostMatrix, Event, Events
+from trip_solver.solver.consts import NO_SOLUTION
 from trip_solver.util.google_maps_util import format_route_url
 
 from consts import GOOGLE_MAP_MAX_STOPS, SOURCE
@@ -200,10 +201,24 @@ def create_solution_markdown(
         """,
     )
 
+    back_link = format_jekyll_link(
+        f"Back to {team_name}, {season} season",
+        output_file.parent,
+    )
+
     # first line is the total cost (will be recomputed here)
     # second line is the max daily driving hours
     # the remaining lines are the event IDs in the order visited
     solution = input_file.read_text(encoding="utf-8").strip().splitlines()
+
+    # the solver could not find any trip visiting every opponent
+    if solution == [NO_SOLUTION]:
+        output_file.write_text(
+            f"{front_matter}\n\n# No feasible trip found for this team.\n\n{back_link}\n",
+            encoding="utf-8",
+        )
+        return
+
     max_daily_driving_hours = solution[1]
     trip = [event_index[event_id] for event_id in solution[2:]]
 
@@ -236,11 +251,6 @@ def create_solution_markdown(
 
     trip_details_heading = "# Trip Details"
     trip_details = format_trip_details(trip, distance_matrix)
-
-    back_link = format_jekyll_link(
-        f"Back to {team_name}, {season} season",
-        output_file.parent,
-    )
 
     output_file.write_text(
         f"{front_matter}\n\n{trip_summary_heading}\n{trip_summary}\n{google_map_links}\n\n{trip_details_heading}\n{trip_details}\n\n{back_link}\n",
