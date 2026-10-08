@@ -1,0 +1,37 @@
+---
+title: NBA, 2026-2027 season
+---
+
+# Teams
+- [Atlanta Hawks]({{ '2026-2027/nba/atlanta_hawks' | relative_url }})
+- [Boston Celtics]({{ '2026-2027/nba/boston_celtics' | relative_url }})
+- [Brooklyn Nets]({{ '2026-2027/nba/brooklyn_nets' | relative_url }})
+- [Charlotte Hornets]({{ '2026-2027/nba/charlotte_hornets' | relative_url }})
+- [Chicago Bulls]({{ '2026-2027/nba/chicago_bulls' | relative_url }})
+- [Cleveland Cavaliers]({{ '2026-2027/nba/cleveland_cavaliers' | relative_url }})
+- [Dallas Mavericks]({{ '2026-2027/nba/dallas_mavericks' | relative_url }})
+- [Denver Nuggets]({{ '2026-2027/nba/denver_nuggets' | relative_url }})
+- [Detroit Pistons]({{ '2026-2027/nba/detroit_pistons' | relative_url }})
+- [Golden State Warriors]({{ '2026-2027/nba/golden_state_warriors' | relative_url }})
+- [Houston Rockets]({{ '2026-2027/nba/houston_rockets' | relative_url }})
+- [Indiana Pacers]({{ '2026-2027/nba/indiana_pacers' | relative_url }})
+- [Los Angeles Clippers]({{ '2026-2027/nba/los_angeles_clippers' | relative_url }})
+- [Los Angeles Lakers]({{ '2026-2027/nba/los_angeles_lakers' | relative_url }})
+- [Memphis Grizzlies]({{ '2026-2027/nba/memphis_grizzlies' | relative_url }})
+- [Miami Heat]({{ '2026-2027/nba/miami_heat' | relative_url }})
+- [Milwaukee Bucks]({{ '2026-2027/nba/milwaukee_bucks' | relative_url }})
+- [Minnesota Timberwolves]({{ '2026-2027/nba/minnesota_timberwolves' | relative_url }})
+- [New Orleans Pelicans]({{ '2026-2027/nba/new_orleans_pelicans' | relative_url }})
+- [New York Knicks]({{ '2026-2027/nba/new_york_knicks' | relative_url }})
+- [Oklahoma City Thunder]({{ '2026-2027/nba/oklahoma_city_thunder' | relative_url }})
+- [Orlando Magic]({{ '2026-2027/nba/orlando_magic' | relative_url }})
+- [Philadelphia 76Ers]({{ '2026-2027/nba/philadelphia_76ers' | relative_url }})
+- [Phoenix Suns]({{ '2026-2027/nba/phoenix_suns' | relative_url }})
+- [Portland Trail Blazers]({{ '2026-2027/nba/portland_trail_blazers' | relative_url }})
+- [Sacramento Kings]({{ '2026-2027/nba/sacramento_kings' | relative_url }})
+- [San Antonio Spurs]({{ '2026-2027/nba/san_antonio_spurs' | relative_url }})
+- [Toronto Raptors]({{ '2026-2027/nba/toronto_raptors' | relative_url }})
+- [Utah Jazz]({{ '2026-2027/nba/utah_jazz' | relative_url }})
+- [Washington Wizards]({{ '2026-2027/nba/washington_wizards' | relative_url }})
+
+[Home]({{ '.' | relative_url }})
