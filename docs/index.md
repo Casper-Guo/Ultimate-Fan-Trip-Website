@@ -11,4 +11,7 @@ Explore how to travel to see your team play all their away opponents, with the t
 - **2026 Season**
   - [MLB]({{ '/2026/mlb' | relative_url }})
 
+- **2026 - 2027 Season**
+  - [NHL]({{ '/2026-2027/nhl' | relative_url }})
+
 For more about the algorithm used to solve this problem, see [here](https://github.com/Casper-Guo/Ultimate-Fan-Trip-Website/blob/main/math.md)
